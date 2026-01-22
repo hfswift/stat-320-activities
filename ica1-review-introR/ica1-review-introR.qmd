@@ -1,0 +1,103 @@
+---
+title: "In-class Activity 1: Review Statistics and Intro R"
+format: html
+---
+
+## Part 1. Intro to R
+
+### 1
+
+First, you need to load in your packages. We do that by using the function `library()` and providing the package name inside the parentheses. The code has been completed for you. Press the green arrow to run the code in the code chunk. 
+
+```{r}
+#| label: setup
+library(mosaic)
+library(tidyverse)
+```
+
+
+### 2
+
+Now you need to load in your data. Use the function `read_csv()` in the blank to read in this file name. 
+
+```{r}
+#|label: read-data
+
+class <- _______("ClassDataCollection.csv")
+```
+We have now read in this dataframe and stored it as the object name `class.` 
+If we want to access the dataframe now, we call it by it's object name in R. 
+
+
+### 3 
+
+We might want to get a sense for what our data looks like. Use `head()` if you want to see the variable names and the first six cases in the dataset or `names()` if you only want to see the variable names. To either function, provide the object name of the dataset you just stored. 
+
+```{r}
+#|label: glimpse-data
+
+
+```
+
+
+### 4
+
+Use the function `tally()` to count the number of students in the class that took a particular statistics course first. Use the formula template of `goal(~variable, data = mydata)`. Replace the blanks with [hints] below with your goal, variable and data function or object names. 
+
+```{r}
+#| label: count-stat
+
+__[goal]__(~ __[variable]__, data = __[mydata]__)
+```
+
+### 5
+
+Look at your list of common functions in section 0.1.3 on page 4 of note outline 0. Which do you think would help you calculate the mean number of units students in our class are taking this semester? 
+
+Add a code chunk below (use Ctl+Alt+i or Cmd+Alt+i or use the +C button at the top of the document) and calculate that value, using the formula template. 
+
+
+
+
+
+### 6 
+
+What is the median desired salary for students depending on their first statistics class? Hint - this has two variables, so you need to adjust your formula! 
+
+Add a code chunk below and calculate those values, using the formula template. 
+
+
+## Part 2. Review Statistics
+
+Consider the four research questions - is the answer measurable? What type of data would you collect? What information is gained and what information is not gained?
+*What was your first Statistics Course?
+*On a scale of 1 (none) to 5 (excellent), how would you rate your R skills?
+*How many units are you taking this semester?
+*What is your ideal salary post-graduation?
+
+### 7
+
+Create a statistical research question based on one of these questions. Be sure to frame it relative to your goal and in relation to your population of interest. 
+
+> write your answer here
+
+
+### 8 
+
+Can you generalize your results to your population of interest from this sample? Why or why not? 
+
+> write your answer here
+
+
+### 9 
+
+Consider our question: What is the median desired salary for students depending on their first statistics class. If you found a difference in median salary, can you conclude that the class type caused that difference? Why or why not?
+
+> write your answer here.
+
+
+
+
+
+
+When you finish, render your document to html and submit the html file. Be sure to rename the file with your Lastname-Firstinitial before submitting. 
