@@ -1,0 +1,151 @@
+---
+title: "In-Class Activity 2: Exploratory Data Analysis"
+author: "NAME"
+format: html
+embed-resources: true
+html-math-method: mathml
+execute: 
+  warning: false
+  echo: true
+  error: false
+---
+
+```{r}
+#| label: setup
+
+library(readr) #package to be able to read in data
+library(________________) #load your graphics package
+library(________________) #load your statistics package
+```
+
+Before you start.... 
+
+* rename the .qmd with your LastF- at the start of the file name. 
+* remember to hit the 'save' button periodically  
+
+
+
+## Mole Crab Size
+
+A marine biologist collected a sample of mole crabs at the Salinas River Mouth Beach. 
+
+1. Read in the dataset for the sample of mole crabs. If needed, enter another line of code that will let you inspect the variable names and data. 
+
+```{r}
+
+```
+
+
+2. The researcher is interested in the size of the mole crabs (measured as the length, in mm, of the carapace). Calculate descriptive statistics to describe the mole crab size. 
+
+```{r}
+
+```
+
+
+3. Create a visualization for the mole crab size. Be sure to label it completely. 
+
+```{r}
+
+```
+
+
+4. Describe the shape of the distribution of mole crabe sizes. Provide evidence from your graphic and statistics to support the shape.  
+
+> Insert answer here
+
+
+5. What might explain the shape of the distribution?  
+
+> Insert answer here  
+
+
+6. Create a side-by-side boxplot to compare mole crab size by sex.  
+
+Insert code chunk here
+
+
+7. Calculate summary statistics for mole crab size by sex.  
+
+Insert code chunk here
+
+
+8. Based on the graphic and summary statistics, is there evidence that the size of the mole crab differs by sex? Justify your answer, including in it how they differ. 
+
+> Insert answer here
+
+
+### BONUS QUESTION: 
+
+9. Calculate the proportion of mole crabs in the sample that were each sex.
+
+Insert code chunk here
+
+
+## BONUS QUESTIONS: KING COUNTY   
+
+Let's return to the King County dataset. Recall it has a number of variable measured on newborn infants in King County, WA and their mothers. 
+
+10. Read in the data and inspect it so you can use variable names
+
+```{r}
+
+```
+
+
+11. A researcher is interested in studying whether a mother that smokes during pregnancy is more likely to have an infant with low birth weight. Calculate the conditional proportions.
+
+```{r}
+
+```
+
+
+12. Interpret the following values from the contingeny table: 
+
+> 0.12 is the ....  
+> 0.9544 is the ....  
+
+
+13. Calculate the contingency table if you switched your two variables. 
+
+```{r}
+
+```
+
+
+14. Are the proportions different from your original table? Why? 
+
+> Insert answer
+
+
+15. Which table answers the reserch question? Justify your answer.  
+
+> Insert answer
+
+
+16. Create a barplot to visualize the conditional proportions that answer the research question.  
+
+```{r}
+
+```
+
+
+
+Still more time? 
+
+Create a research question and produce a graphic not used above to answer it using one of the datasets. 
+
+
+
+## Last step
+
+Finish your analysis by rendering your dataset. It should produce a new .html file in your folder. Select it, then select "More -> Export" to download it. That should download to your computer to be able to turn in. 
+
+**Warning! Use good file management procedures!!** 
+
+* Always render right before exporting 
+* Don't keep around test files - delete them after you've checked them so you don't accidentally turn in incomplete work
+* Download your work to a designated folder for this semester/class
+
+
+
