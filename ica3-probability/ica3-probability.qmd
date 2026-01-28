@@ -1,0 +1,75 @@
+---
+title: "In-class Activity: Probability"
+author: "GROUP NUMBER: GROUP MEMBER NAMES"
+format: html
+embed-resources: true
+html-math-method: mathml
+execute: 
+  warning: false
+  echo: true
+  error: false
+---
+
+
+```{r}
+#| label: setup
+
+library(tidyverse)
+library(ggformula)
+library(mosaic)
+```
+
+*See your note outline for specifics of what to explain for each problem.*
+
+## Rh Example
+In the US, 85% of the population has Rh positive blood.  Suppose we take a random sample of 10 persons from the US and count the number with Rh positive blood.  
+
+1. What is the probability that only 2 of the 10 people are Rh positive? 
+
+```{r}
+
+```
+
+
+2. What is the probability that less than 2 people are Rh positive?
+
+```{r}
+
+```
+
+
+
+3. What is the probability that 6 or more people are Rh positive?
+
+```{r}
+
+```
+  
+
+### Empirical Probabilities for Rh Example
+
+Create a set of 1000 simulated repetitions of 10 persons from the US and count the number with Rh positive blood. Use that simulation to calculate the empirical probabilities for the following questions. Verify that they match the theoretical probability calculations
+
+
+4. What is the probability that only 2 of the 10 people are Rh positive? 
+
+```{r}
+
+```
+
+
+5. What is the probability that less than 2 people are Rh positive?
+
+```{r}
+
+```
+
+
+
+6. What is the probability that 6 or more people are Rh positive?
+
+```{r}
+
+```
+  
+
