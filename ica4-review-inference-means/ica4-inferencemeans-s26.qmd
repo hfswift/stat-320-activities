@@ -1,0 +1,194 @@
+---
+title: "In-class Activity: Inference for One-Sample Mean"
+author: "GROUP NUMBER: GROUP MEMBER NAMES"
+format: html
+embed-resources: true
+html-math-method: mathml
+execute: 
+  warning: false
+  echo: true
+  error: false
+---
+
+
+```{r}
+#| label: setup
+#| message: false
+
+library(readr)
+library(tidyverse) # needed only for one piece of code that you could omit 
+library(ggformula)
+library(mosaic)
+```
+
+
+
+# North Carolina Births
+
+In 2004, the state of North Carolina released a large data set containing information on births recorded in this state. This data set is useful to researchers studying the relation between habits and practices of expectant mothers and the birth of their children. We will work with a random sample of observations from this data set.
+
+
+
+Load the `nc.csv` data set into our workspace.
+
+```{r}
+#| label: load-data
+
+nc <- read_csv("nc.csv", na = "NA")
+```
+
+We have observations on 13 different variables, some categorical and some numerical. The meaning of each variable is as follows.
+
+variable         | description
+---------------- | -----------
+`fage`           | father's age in years.
+`mage`           | mother's age in years.
+`mature`         | maturity status of mother.
+`weeks`          | length of pregnancy in weeks.
+`premie`         | whether the birth was classified as premature (premie) or full-term.
+`visits`         | number of hospital visits during pregnancy.
+`marital`        | whether mother is `married` or `not married` at birth.
+`gained`         | weight gained by mother during pregnancy in pounds.
+`weight`         | weight of the baby at birth in pounds.
+`lowbirthweight` | whether baby was classified as low birthweight (`low`) or not (`not low`).
+`gender`         | gender of the baby, `female` or `male`.
+`habit`          | status of the mother as a `nonsmoker` or a `smoker`.
+`whitemom`       | whether mom is `white` or `not white`.
+
+
+
+## Team Activity: Smoking Habit & Weight of Infant
+
+
+
+## 1. Visualize Relationships 
+
+Consider the possible relationship between a mother's smoking habit and the weight of her baby. 
+
+1.1. Make a side-by-side boxplot of `habit` and `weight`. Be sure to add labels to the axes. What does the plot highlight about the relationship between these two variables? 
+
+```{r}
+#| label: smk-boxplot
+
+nc |> 
+  drop_na(weight, habit) |>  #drops missing values using tidyverse
+  gf_boxplot(______ ~ _______)  #if you pipe in data you don't need the `data = ` argument
+```
+
+
+
+1.2. The box plots show how the medians of the two distributions compare, but we can also compare the means of the distributions using the following function to split the `weight` variable into the `habit` groups, then calculate summary statistics of each using the `df_stats` function.
+
+```{r}
+#| label: smk-stats
+
+df_stats(___ ~ ___, data = ___)
+```
+
+
+
+1.3. What evidence do you see relative to our research question (provide the strongest evidence you can find)? *See reference as needed for how to write a complete EDA evaluation*
+
+> Insert answer here. 
+
+
+
+
+## 2. Inference - Hypothesis Test  
+
+You want to determine if the birth weight of infants born to mothers that smoked during pregnancy is greater than 5.5 lbs (less than 5.5 lbs is considered a low birth weight). 
+
+```{r}
+#creates dataset of just smoking mothers
+nc_smoke <- nc |> filter(habit == "smoker")
+```
+
+
+2.1. Check if the conditions necessary for inference are satisfied. Note that you will need to obtain sample sizes to check the conditions. *See reference as needed for what a complete answer would include.*
+
+```{r}
+#| label: smk-conditions
+
+
+
+```
+
+
+> Insert answer here
+
+
+2.2. Write the symbolic and verbal hypotheses for testing if the average weights of babies born to smoking mothers is greater than 5.5 lbs in the context of the problem. You might want to use $H_0$ and $\mu_{word}$ as needed (remember, you only need a single set of dollar signs around the entire equation). *See reference as needed for how to write hypotheses or parameters for single numeric variables.*
+
+
+> Insert symbolic null here  
+> Insert verbal null here  
+> Insert symbolic alternative here  
+> Insert verbal alternative here  
+
+
+2.3. Use the code output below to test the hypothesis.  
+
+```{r}
+#note that 'alternative = ' can take on the value "two.sided", "less", or "greater"
+______(~_________, data = ___________, mu = _____, alternative = "____________")
+```
+
+
+2.3.1. Interpret the p-value in the context of the problem.  
+
+>Insert Answer Here  
+
+
+2.3.2. Evaluate the strength of evidence from the hypothesis test in the context of the problem, given $\alpha = 0.01$.  
+
+>Insert Answer Here  
+
+
+
+
+
+## 3. Inference - Confidence Interval
+
+3.1. Create (adapt the code below) and interpret the 99% confidence interval for the mean birth weight of infants born to *smokers* in the context of the problem. 
+
+```{r}
+_______(~_________, data=__________, conf.level=______)$conf.int
+# using $conf.int just pulls out the relevant information from the function
+```
+
+> Insert interpretation here
+
+
+3.2. Evaluate your confidence interval for evidence that the parameter is greater than 5.5 lbs. Justify your answer with evidence and in the context of the parameter. 
+
+> Insert answer here
+
+
+3.3. Can you trust the results of your calculations? Why or why not?
+
+> Insert answer here
+
+
+
+
+## 5. On your own Bonus
+Calculate a 95% confidence interval for the average length of pregnancies (`weeks`) and interpret it in context.
+
+> Insert code chunk or answer as needed 
+
+
+
+Calculate a new confidence interval for the same parameter at the 90% confidence level and interpret it in context. You can change the confidence level by adding a new argument to the function: `conf.level = 0.90`.
+
+> Insert code chunk or answer as needed 
+
+
+Provide supporting evidence from EDA that the average length of pregnancies is less than 39 weeks.
+
+> Insert code chunk or answer as needed
+
+
+Evaluate the 95% confidence interval you calculated to justify if the average length of pregnancies is less than 39 weeks. 
+
+> Insert code chunk or answer as needed
+
