@@ -1,0 +1,166 @@
+---
+title: "In-class Activity: Samplind Distributions"
+author: "GROUP NUMBER: GROUP MEMBER NAMES"
+format: html
+embed-resources: true
+html-math-method: mathml
+execute: 
+  warning: false
+  echo: true
+  error: false
+---
+
+```{r}
+#| label: setup
+#| include: FALSE
+#| message: FALSE
+library(mosaic)
+library(ggformula)
+library(readr)
+```
+
+## NFL Players in 2017
+
+In general, we do not get to observe the entire population, which is why sampling is important. In this case, though, we will observe a completely known population, all NFL players in 2017. Let's start by learning about the population.
+
+```{r}
+#| label: read-data
+nfl <- read_csv("nfl2017.csv", na = "NA") #this specifies the data use NA as the missing value placeholder
+```
+
+1. Since we know the population, the following values are actually __________________. (fill in the blank)
+
+```{r}
+#| label: stats
+df_stats(~Weight, data = nfl)
+```
+
+```{r}
+#| label: plot
+gf_histogram(~Weight, data = nfl,
+             xlab = "_______",
+             ylab = "_______",
+             title = "Population Distribution of NFL Player Weights")
+```
+
+2. Describe the distribution of the population:  
+
+> Insert Answer
+
+
+
+### Take a Sample
+
+Now let's take a sample from the population, an act we would do if we could not have complete knowledge of the population (which is most of the time, just not in this situation).
+
+
+```{r}
+#|label: create-sample
+sample30 <- sample(nfl, size = 30, replace = FALSE)
+```
+
+
+3. Now calculate the relevant summary statistics and plot the distribution of the data (recommend histogram, why?)
+
+
+```{r}
+#place code here
+```
+
+
+
+4. Describe the distribution of the sample data:  
+
+>Insert Answer Here
+
+
+
+### Generating a Sampling Distribution  
+
+Let's generate the t-distribution for a sample of size 15. 
+
+```{r}
+#| label: create-sampling-plot-stats
+
+pop_mean_nfl <- mean(~Weight, data = nfl)
+sample_size <- 15
+
+# number of simulations (repeated samples of the same size)
+repeats <- 10000
+
+# placeholder vector
+t_stat_nfl <- numeric(repeats) 
+
+for (i in 1:repeats) {
+  
+  rsample <- sample(nfl, size = sample_size, replace = FALSE)
+  
+  t_stat_nfl[i] <- (mean(~Weight, data = rsample) - pop_mean_nfl)/(sd(~Weight, data = rsample)/sqrt(sample_size)) #calculates the t-score
+
+}
+
+gf_dhistogram(~t_stat_nfl, 
+              xlab = "t-Statistics for NFL Weight", ylab = "Density",
+              title = "Sampling Distribution of t-Score") 
+
+
+mean(~t_stat_nfl)
+sd(~t_stat_nfl)
+min(~t_stat_nfl)
+max(~t_stat_nfl)
+
+```
+
+5. What do you notice about the sampling distribution of the t-statistic?
+
+>Insert Answer 
+
+
+
+6. If you increase sample size to 40 how does the sampling distribution change?
+
+>Insert Answer
+
+
+
+
+7. In this example we know the whole population. How can we approximate the population if all we have is a sample?
+
+>Insert Answer
+
+
+
+8. Let's write pseudocode - which is basically a text description of what the code will do.  Replace each line of code with a description of what it does. Here are some useful phrases
+
+- Initialize variable  
+- Start  
+- Call function  
+- Output/Print  
+- End  
+
+```{r}
+pop_mean_nfl <- mean(~Weight, data = nfl)
+sample_size <- 15
+
+# number of simulations (repeated samples of the same size)
+repeats <- 10000
+
+# placeholder vector
+t_stat_nfl <- numeric(repeats) 
+
+for (i in 1:repeats) {
+  
+  rsample <- sample(nfl, size = sample_size, replace = FALSE)
+  
+  t_stat_nfl[i] <- (mean(~Weight, data = rsample) - pop_mean_nfl)/(sd(~Weight, data = rsample)/sqrt(sample_size)) #calculates the t-score
+
+}
+
+gf_dhistogram(~t_stat_nfl, 
+              xlab = "t-Statistics for NFL Weight", ylab = "Density",
+              title = "Sampling Distribution of t-Score") 
+
+
+mean(~t_stat_nfl)
+sd(~t_stat_nfl)
+```
