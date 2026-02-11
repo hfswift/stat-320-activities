@@ -1,0 +1,2107 @@
+Number,Name,Position,Age,Height,Weight,Experience,College,Team,Side,Salary,Salary in Milions
+4,Adam Vinatieri,PK,45,73,212,22,South Dakota State,Colts,Special Teams,2750000,2.75
+4,Phil Dawson,PK,43,71,200,19,Texas,Cardinals,Special Teams,2000000,2
+3,Matt Bryant,PK,42,69,203,16,Baylor,Falcons,Special Teams,1450000,1.45
+9,Shane Lechler,P,41,74,240,18,Texas A&M,Texans,Special Teams,1500000,1.5
+12,Tom Brady,QB,40,76,225,18,Michigan,Patriots,Offense,1000000,1
+23,Terence Newman,CB,39,70,197,15,Kansas State,Vikings,Defense,2400000,2.4
+92,James Harrison,LB,39,73,242,15,Kent State,Patriots,Defense,58824,0.058824
+92,John Denney,LS,39,77,242,13,BYU,Dolphins,Special Teams,900000,0.9
+11,Sebastian Janikowski,PK,39,73,265,18,Florida State,Raiders,Special Teams,NA,NA
+9,Drew Brees,QB,39,73,209,17,Purdue,Saints,Offense,13000000,13
+90,Julius Peppers,DE,38,79,295,16,North Carolina,Panthers,Defense,1000000,1
+15,Josh McCown,QB,38,76,218,15,Sam Houston State,Jets,Offense,3000000,3
+93,Dwight Freeney,DE,37,73,268,16,Syracuse,Lions,Defense,588235,0.588235
+8,Donnie Jones,P,37,74,221,14,LSU,Eagles,Special Teams,1250000,1.25
+10,Eli Manning,QB,37,77,220,14,Ole Miss,Giants,Offense,13000000,13
+82,Benjamin Watson,TE,37,75,251,14,Georgia,Ravens,Offense,NA,NA
+85,Antonio Gates,TE,37,76,255,15,Kent State,Chargers,Offense,4500000,4.5
+91,Cameron Wake,DE,36,75,263,9,Penn State,Dolphins,Defense,6875000,6.875
+56,Karlos Dansby,LB,36,76,250,14,Auburn,Cardinals,Defense,1000000,1
+59,Jon Condo,LS,36,75,240,11,Maryland,Raiders,Special Teams,1000000,1
+91,L.P. Ladouceur,LS,36,77,256,13,California,Cowboys,Special Teams,1100000,1.1
+48,Don Muhlbach,LS,36,76,258,14,Texas A&M,Lions,Special Teams,1000000,1
+77,Andrew Whitworth,OT,36,79,333,12,LSU,Rams,Offense,7500000,7.5
+71,Jason Peters,OT,36,76,328,14,Arkansas,Eagles,Offense,3000000,3
+9,Jon Ryan,P,36,73,217,12,University of Regina,Seahawks,Special Teams,1000000,1
+9,Nick Novak,PK,36,73,200,10,Maryland,Chargers,Special Teams,688235,0.688235
+17,Philip Rivers,QB,36,77,228,14,NC State,Chargers,Offense,11000000,11
+8,Matt Schaub,QB,36,78,245,14,Virginia,Falcons,Offense,NA,NA
+29,Mike Adams,S,36,71,205,14,Delaware,Panthers,Defense,1000000,1
+61,Joe Berger,C,35,77,305,13,Michigan Tech,Vikings,Offense,1000000,1
+29,John Kuhn,FB,35,73,250,12,Shippensburg,Saints,Offense,1000000,1
+56,Derrick Johnson,LB,35,75,242,13,Texas,Chiefs,Defense,1000000,1
+55,Terrell Suggs,LB,35,75,265,15,Arizona State,Ravens,Defense,4000000,4
+64,Khalif Barnes,OT,35,78,320,12,Washington,Cardinals,Offense,176471,0.176471
+4,Sam Koch,P,35,73,222,12,Nebraska,Ravens,Special Teams,2300000,2.3
+2,Dustin Colquitt,P,35,75,210,13,Tennessee,Chiefs,Special Teams,4050000,4.05
+2,Andy Lee,P,35,73,185,14,Pittsburgh,Cardinals,Special Teams,1000000,1
+9,Robbie Gould,PK,35,73,190,13,Penn State,49ers,Special Teams,1500000,1.5
+1,Mike Nugent,PK,35,70,190,13,Ohio State,Bears,Special Teams,235294,0.235294
+14,Ryan Fitzpatrick,QB,35,74,223,13,Harvard,Buccaneers,Offense,1750000,1.75
+16,Matt Cassel,QB,35,76,228,13,USC,Titans,Offense,1750000,1.75
+7,Ben Roethlisberger,QB,35,77,240,14,Miami (OH),Steelers,Offense,12000000,12
+82,Jason Witten,TE,35,78,263,15,Tennessee,Cowboys,Offense,7400000,7.4
+24,Adam Jones,CB,34,70,185,11,West Virginia,Bengals,Defense,6023529,6.023529
+24,Brent Grimes,CB,34,70,185,11,Shippensburg,Buccaneers,Defense,6000000,6
+25,Tramon Williams,CB,34,73,192,11,Louisiana Tech,Cardinals,Defense,1000000,1
+96,Brian Robison,DE,34,75,259,11,Texas,Vikings,Defense,3900000,3.9
+95,Kyle Williams,DT,34,73,303,12,LSU,Bills,Defense,6300000,6.3
+92,Frostee Rucker,DT,34,75,280,12,USC,Cardinals,Defense,1000000,1
+92,Haloti Ngata,DT,34,76,340,12,Oregon,Lions,Defense,5500000,5.5
+64,Richie Incognito,G,34,75,319,11,Nebraska,Bills,Offense,3175000,3.175
+73,Jahri Evans,G,34,76,318,12,Bloomsburg,Packers,Offense,1150000,1.15
+57,Lorenzo Alexander,LB,34,73,245,11,California,Bills,Defense,2000000,2
+45,David Harris,LB,34,74,250,11,Michigan,Patriots,Defense,1000000,1
+58,Elvis Dumervil,LB,34,71,250,12,Louisville,49ers,Defense,2250000,2.25
+91,Tamba Hali,LB,34,75,275,12,Penn State,Chiefs,Defense,5750000,5.75
+58,Thomas Davis,LB,34,73,235,13,Georgia,Panthers,Defense,3250000,3.25
+73,Eric Winston,OT,34,79,310,11,Miami,Bengals,Offense,470588,0.470588
+72,Donald Penn,OT,34,76,315,12,Utah State,Raiders,Offense,5800000,5.8
+64,Zach Strief,OT,34,79,320,12,Northwestern,Saints,Offense,1700000,1.7
+3,Stephen Gostkowski,PK,34,73,215,12,Memphis,Patriots,Special Teams,2700000,2.7
+3,Brandon Weeden,QB,34,75,230,6,Oklahoma State,Titans,Offense,NA,NA
+10,Kellen Clemens,QB,34,74,220,12,Oregon,Chargers,Offense,1000000,1
+6,Jay Cutler,QB,34,75,231,12,Vanderbilt,Dolphins,Offense,5000000,5
+12,Aaron Rodgers,QB,34,74,225,13,California,Packers,Offense,12550000,12.55
+3,Derek Anderson,QB,34,78,235,13,Oregon State,Panthers,Offense,1550000,1.55
+23,Frank Gore,RB,34,69,212,13,Miami,Colts,Offense,3500000,3.5
+43,Darren Sproles,RB,34,66,190,13,Kansas State,Eagles,Offense,4000000,4
+27,Reggie Nelson,S,34,71,210,11,Florida,Raiders,Defense,2750000,2.75
+23,DeAngelo Hall,S,34,70,200,14,Virginia Tech,Redskins,Defense,1100000,1.1
+85,Vernon Davis,TE,34,75,244,12,Maryland,Redskins,Offense,2000000,2
+11,Larry Fitzgerald,WR,34,75,218,14,Pittsburgh,Cardinals,Offense,11000000,11
+20,Leon Hall,CB,33,71,195,10,Michigan,49ers,Defense,705882,0.705882
+22,William Gay,CB,33,70,187,11,Louisville,Steelers,Defense,2000000,2
+24,Johnathan Joseph,CB,33,71,190,12,South Carolina,Texans,Defense,6500000,6.5
+97,Alan Branch,DE,33,78,350,11,Michigan,Patriots,Defense,1750000,1.75
+92,Tom Johnson,DT,33,75,288,7,Southern Mississippi,Vikings,Defense,2300000,2.3
+92,Brandon Mebane,DT,33,73,311,11,California,Chargers,Defense,3350000,3.35
+94,Domata Peko Sr.,DT,33,75,325,12,Michigan State,Broncos,Defense,NA,NA
+76,Tony McDaniel,DT,33,79,305,12,Tennessee,Saints,Defense,58824,0.058824
+73,Allen Barbre,G,33,76,310,10,Missouri Southern State,Broncos,Offense,1750000,1.75
+74,Jermon Bushrod,G,33,77,318,11,Towson,Dolphins,Offense,1475000,1.475
+73,Marshal Yanda,G,33,75,305,11,Iowa,Ravens,Offense,6000000,6
+51,Paul Posluszny,LB,33,74,232,11,Penn State,Jaguars,Defense,3950000,3.95
+55,Ahmad Brooks,LB,33,75,259,12,Virginia,Packers,Defense,1000000,1
+46,Clark Harris,LS,33,77,250,9,Rutgers,Bengals,Special Teams,NA,NA
+61,Brett Goode,LS,33,73,255,10,Arkansas,Packers,Special Teams,900000,0.9
+51,Zak DeOssie,LS,33,77,250,11,Brown,Giants,Special Teams,1000000,1
+74,Joe Staley,OT,33,77,315,11,Central Michigan,49ers,Offense,8250000,8.25
+73,Joe Thomas,OT,33,78,312,11,Wisconsin,Browns,Offense,8800000,8.8
+2,Nick Folk,PK,33,73,222,11,Arizona,Buccaneers,Special Teams,1000000,1
+5,Matt Prater,PK,33,70,201,11,UCF,Lions,Special Teams,3150000,3.15
+2,Mason Crosby,PK,33,73,207,11,Colorado,Packers,Special Teams,1000000,1
+5,Drew Stanton,QB,33,75,243,10,Michigan State,Cardinals,Offense,2550000,2.55
+8,Matt Moore,QB,33,75,219,10,Oregon State,Dolphins,Offense,1750000,1.75
+5,Joe Flacco,QB,33,78,245,10,Delaware,Ravens,Offense,6000000,6
+11,Alex Smith,QB,33,76,217,13,Utah,Redskins,Offense,10800000,10.8
+39,Danny Woodhead,RB,33,68,204,9,Chadron State,Ravens,Offense,1000000,1
+32,Eric Weddle,S,33,71,200,11,Utah,Ravens,Defense,4000000,4
+41,Antoine Bethea,S,33,71,206,12,Howard,Cardinals,Defense,2000000,2
+86,Zach Miller,TE,33,77,245,8,Nebraska-Omaha,Bears,Offense,1500000,1.5
+87,Brent Celek,TE,33,76,255,11,Cincinnati,Eagles,Offense,3000000,3
+80,Anthony Fasano,TE,33,76,258,12,Notre Dame,Dolphins,Offense,1500000,1.5
+89,Marcedes Lewis,TE,33,78,267,12,UCLA,Jaguars,Offense,4000000,4
+82,Delanie Walker,TE,33,74,248,12,Central Missouri State,Titans,Offense,4200000,4.2
+83,Harry Douglas,WR,33,73,183,10,Louisville,Titans,Offense,1200000,1.2
+15,Brandon Marshall,WR,33,77,232,12,UCF,Giants,Offense,3000000,3
+51,Alex Mack,C,32,76,311,9,California,Falcons,Offense,5750000,5.75
+65,John Sullivan,C,32,76,310,9,Notre Dame,Rams,Offense,900000,0.9
+67,Ryan Kalil,C,32,74,300,11,USC,Panthers,Offense,3000000,3
+24,Darrelle Revis,CB,32,71,198,11,Pittsburgh,Chiefs,Defense,352941,0.352941
+91,Robert Ayers,DE,32,75,275,9,Tennessee,Buccaneers,Defense,4000000,4
+72,Michael Bennett,DE,32,76,274,9,Texas A&M,Seahawks,Defense,6500000,6.5
+95,William Hayes,DE,32,75,278,10,Winston-Salem,Dolphins,Defense,2750000,2.75
+56,Chris Long,DE,32,75,270,10,Virginia,Eagles,Defense,1000000,1
+99,Steve McLendon,DT,32,75,310,8,Troy,Jets,Defense,2875000,2.875
+92,Pat Sims,DT,32,74,330,10,Auburn,Bengals,Defense,1000000,1
+35,Mike Tolbert,FB,32,69,250,10,Coastal Carolina,Bills,Offense,900000,0.9
+73,Ramon Foster,G,32,77,328,9,Tennessee,Steelers,Offense,2675000,2.675
+73,John Greco,G,32,76,318,10,Toledo,Giants,Offense,688235,0.688235
+97,Willie Young,LB,32,76,258,8,NC State,Bears,Defense,1000000,1
+57,Dannell Ellerbe,LB,32,73,245,9,Georgia,Eagles,Defense,370588,0.370588
+93,Erik Walden,LB,32,74,250,10,Middle Tennessee,Titans,Defense,1350000,1.35
+43,Matt Overton,LS,32,73,243,6,Western Washington,Jaguars,Special Teams,775000,0.775
+65,Garrison Sanborn,LS,32,73,240,9,Florida State,Buccaneers,Special Teams,900000,0.9
+44,J.J. Jansen,LS,32,74,235,10,Notre Dame,Panthers,Special Teams,900000,0.9
+79,Ty Nsekhe,OT,32,80,338,3,Texas State,Redskins,Offense,690000,0.69
+69,Demar Dotson,OT,32,81,315,9,Southern Mississippi,Buccaneers,Offense,4250000,4.25
+66,Will Beatty,OT,32,78,319,9,Connecticut,Eagles,Offense,370588,0.370588
+74,Chris Clark,OT,32,77,305,9,Southern Mississippi,Texans,Offense,2750000,2.75
+68,Breno Giacomini,OT,32,79,320,10,Louisville,Texans,Offense,1000000,1
+76,Duane Brown,OT,32,76,305,12,Virginia Tech,Seahawks,Offense,9400000,9.4
+4,Britton Colquitt,P,32,75,210,8,Tennessee,Browns,Special Teams,1650000,1.65
+10,Kevin Huber,P,32,73,210,9,Cincinnati,Bengals,Special Teams,2800000,2.8
+4,Stephen Hauschka,PK,32,76,210,10,NC State,Bills,Special Teams,NA,NA
+2,Brian Hoyer,QB,32,74,215,9,Michigan State,Patriots,Offense,476471,0.476471
+2,Matt Ryan,QB,32,76,217,10,Boston College,Falcons,Offense,15750000,15.75
+7,Chad Henne,QB,32,75,222,10,Michigan,Jaguars,Offense,2250000,2.25
+22,Matt Forte,RB,32,74,218,10,Tulane,Jets,Offense,4000000,4
+23,Adrian Peterson,RB,32,73,220,11,Oklahoma,Cardinals,Offense,1000000,1
+33,Colt Anderson,S,32,70,195,8,Montana,Bills,Defense,900000,0.9
+27,Glover Quin,S,32,73,207,9,New Mexico,Lions,Defense,900000,0.9
+21,Lardarius Webb,S,32,70,185,9,Nicholls,Ravens,Defense,900000,0.9
+21,Quintin Demps,S,32,71,216,10,UTEP,Bears,Defense,2500000,2.5
+24,Corey Graham,S,32,73,196,11,New Hampshire,Eagles,Defense,1000000,1
+88,Greg Olsen,TE,32,77,255,11,Miami,Panthers,Offense,6500000,6.5
+80,Danny Amendola,WR,32,71,190,9,Texas Tech,Patriots,Offense,1250000,1.25
+87,Jordy Nelson,WR,32,75,217,10,Kansas State,Packers,Offense,8250000,8.25
+18,Matthew Slater,WR,32,73,205,10,UCLA,Patriots,Offense,NA,NA
+14,Eric Weems,WR,32,69,195,10,Bethune-Cookman,Titans,Offense,1000000,1
+19,Ted Ginn Jr.,WR,32,71,180,11,Ohio State,Saints,Offense,NA,NA
+53,A.Q. Shipley,C,31,73,307,6,Penn State,Cardinals,Offense,775000,0.775
+66,Tony Bergstrom,C,31,77,315,6,Utah,Redskins,Offense,775000,0.775
+62,Evan Smith,C,31,74,308,8,Idaho State,Buccaneers,Offense,NA,NA
+70,Eric Wood,C,31,76,310,9,Louisville,Bills,Offense,1150000,1.15
+68,Matt Slauson,C,31,77,315,9,Nebraska,Chargers,Offense,2000000,2
+60,Max Unger,C,31,77,305,9,Oregon,Saints,Offense,1700000,1.7
+23,Brice McCain,CB,31,69,190,9,Utah,Titans,Defense,2000000,2
+21,Aqib Talib,CB,31,73,205,10,Kansas,Broncos,Defense,11000000,11
+41,Dominique Rodgers-Cromartie,CB,31,74,203,10,Tennessee State,Giants,Defense,6980000,6.98
+24,Brandon Carr,CB,31,73,210,10,Grand Valley State,Ravens,Defense,2000000,2
+93,Calais Campbell,DE,31,80,300,10,Miami,Jaguars,Defense,9000000,9
+56,Cliff Avril,DE,31,75,260,10,Purdue,Seahawks,Defense,4500000,4.5
+95,Charles L. Johnson,DE,31,74,278,11,Georgia,Panthers,Defense,NA,NA
+93,Kyle Love,DT,31,73,310,6,Mississippi State,Panthers,Defense,775000,0.775
+92,Leger Douzable,DT,31,76,284,8,UCF,49ers,Defense,582353,0.582353
+98,Clinton McDonald,DT,31,74,297,8,Memphis,Buccaneers,Defense,2000000,2
+93,Ndamukong Suh,DT,31,76,305,8,Nebraska,Dolphins,Defense,9985000,9.985
+96,Arthur Jones,DT,31,75,320,8,Syracuse,Redskins,Defense,476471,0.476471
+94,Ricky Jean Francois,DT,31,75,313,9,LSU,Patriots,Defense,NA,NA
+79,Ahtyba Rubin,DT,31,74,310,10,Iowa State,Falcons,Defense,582353,0.582353
+68,Zane Beadles,G,31,76,305,8,Utah,49ers,Offense,2450000,2.45
+77,John Jerry,G,31,77,335,8,Ole Miss,Giants,Offense,925000,0.925
+71,Andre Smith,G,31,76,330,9,Alabama,Bengals,Offense,1250000,1.25
+67,Andy Levitre,G,31,74,303,9,Oregon State,Falcons,Offense,5250000,5.25
+71,Josh Sitton,G,31,75,320,10,UCF,Bears,Offense,4650000,4.65
+50,Jerrell Freeman,LB,31,73,235,6,Mary Hardin-Baylor,Bears,Defense,3750000,3.75
+57,Michael Wilhoite,LB,31,73,245,6,Washburn,Seahawks,Defense,800000,0.8
+50,Albert McClellan,LB,31,74,250,7,Marshall,Ravens,Defense,NA,NA
+50,Sean Lee,LB,31,74,245,8,Penn State,Cowboys,Defense,1300000,1.3
+55,Koa Misi,LB,31,75,265,8,Utah,Dolphins,Defense,NA,NA
+52,Clay Matthews,LB,31,75,255,9,USC,Packers,Defense,10100000,10.1
+98,Connor Barwin,LB,31,76,255,9,Cincinnati,Rams,Defense,2000000,2
+56,Brian Cushing,LB,31,75,250,9,USC,Texans,Defense,2264706,2.264706
+98,Brian Orakpo,LB,31,76,257,9,Texas,Titans,Defense,6200000,6.2
+59,Wesley Woodyard,LB,31,73,233,10,Kentucky,Titans,Defense,2200000,2.2
+94,Lawrence Timmons,LB,31,73,242,11,Florida State,Dolphins,Defense,1000000,1
+47,Mike Windt,LS,31,73,237,8,Cincinnati,Chargers,Special Teams,900000,0.9
+46,Morgan Cox,LS,31,76,235,8,Tennessee,Ravens,Special Teams,900000,0.9
+46,Jon Weeks,LS,31,70,250,8,Baylor,Texans,Special Teams,900000,0.9
+78,Jermey Parnell,OT,31,78,326,7,Ole Miss,Jaguars,Offense,6500000,6.5
+6,Thomas Morstead,P,31,76,235,9,SMU,Saints,Special Teams,3150000,3.15
+6,Brett Kern,P,31,74,214,10,Toledo,Titans,Special Teams,2800000,2.8
+4,Ryan Succop,PK,31,74,218,9,South Carolina,Titans,Special Teams,2400000,2.4
+5,Josh Johnson,QB,31,75,219,7,San Diego,Texans,Offense,NA,NA
+14,Joe Webb,QB,31,76,230,8,UAB,Bills,Offense,900000,0.9
+12,Colt McCoy,QB,31,73,215,8,Texas,Redskins,Offense,2800000,2.8
+6,Mark Sanchez,QB,31,74,232,9,USC,Bears,Offense,NA,NA
+10,Chase Daniel,QB,31,73,225,9,Missouri,Saints,Offense,900000,0.9
+30,Cedric Peerman,RB,31,70,212,8,Virginia,Bengals,Offense,NA,NA
+29,LeGarrette Blount,RB,31,73,250,8,Oregon,Eagles,Offense,900000,0.9
+28,Jamaal Charles,RB,31,71,199,10,Texas,Broncos,Offense,900000,0.9
+24,Marshawn Lynch,RB,31,71,215,10,California,Raiders,Offense,1350000,1.35
+43,T.J. Ward,S,31,70,200,8,Oregon,Buccaneers,Defense,3000000,3
+42,Chris Maragos,S,31,70,200,8,Wisconsin,Eagles,Defense,1250000,1.25
+20,Darius Butler,S,31,70,192,9,Connecticut,Colts,Defense,1000000,1
+31,Jairus Byrd,S,31,70,203,9,Oregon,Panthers,Defense,404648,0.404648
+27,Tyvon Branch,S,31,73,210,10,Connecticut,Cardinals,Defense,1000000,1
+87,Darren Fells,TE,31,79,270,4,UC Irvine,Lions,Offense,700000,0.7
+86,Kyle Nelson,TE,31,74,240,6,New Mexico State,49ers,Offense,975000,0.975
+88,Jimmy Graham,TE,31,79,265,8,Miami,Seahawks,Offense,7900000,7.9
+11,Brandon LaFell,WR,31,75,210,8,LSU,Bengals,Offense,1250000,1.25
+11,Julian Edelman,WR,31,70,200,9,Kent State,Patriots,Offense,NA,NA
+17,Mike Wallace,WR,31,73,200,9,Ole Miss,Ravens,Offense,4750000,4.75
+15,Pierre Garcon,WR,31,73,211,10,Mount Union,49ers,Offense,3675000,3.675
+11,DeSean Jackson,WR,31,70,175,10,California,Buccaneers,Offense,6500000,6.5
+67,Daniel Kilgore,C,30,75,308,7,Appalachian State,49ers,Offense,1000000,1
+62,Jason Kelce,C,30,75,295,7,Cincinnati,Eagles,Offense,5000000,5
+41,Anthony Levine Sr.,CB,30,71,209,6,Tennessee State,Ravens,Defense,NA,NA
+24,Josh Norman,CB,30,73,200,6,Coastal Carolina,Redskins,Defense,16500000,16.5
+20,Shareece Wright,CB,30,71,184,7,USC,Bills,Defense,800000,0.8
+35,Marcus Sherels,CB,30,70,175,7,Minnesota,Vikings,Defense,1950000,1.95
+27,Sherrick McManis,CB,30,73,193,8,Northwestern,Bears,Defense,1000000,1
+21,Patrick Robinson,CB,30,71,191,8,Florida State,Eagles,Defense,775000,0.775
+30,Jason McCourty,CB,30,71,195,9,Rutgers,Browns,Defense,1500000,1.5
+21,Sean Smith,CB,30,75,220,9,Utah,Raiders,Defense,5000000,5
+32,Orlando Scandrick,CB,30,70,196,10,Boise State,Cowboys,Defense,3000000,3
+92,Margus Hunt,DE,30,80,298,5,SMU,Colts,Defense,1100000,1.1
+90,Chris Baker,DE,30,74,320,6,Hampton,Buccaneers,Defense,3000000,3
+90,George Johnson,DE,30,76,265,6,Rutgers,Saints,Defense,683824,0.683824
+98,Mitch Unrein,DE,30,76,301,7,Wyoming,Bears,Defense,1000000,1
+50,Bryan Braman,DE,30,77,241,7,West Texas A&M,Eagles,Defense,158824,0.158824
+50,Brooks Reed,DE,30,75,254,7,Arizona,Falcons,Defense,4100000,4.1
+97,Mario Addison,DE,30,75,260,7,Troy,Panthers,Defense,1000000,1
+94,Tyson Alualu,DE,30,75,304,8,California,Steelers,Defense,1250000,1.25
+97,Everson Griffen,DE,30,75,273,8,USC,Vikings,Defense,1900000,1.9
+90,Michael Johnson,DE,30,79,280,9,Georgia Tech,Bengals,Defense,3550000,3.55
+65,Jordan Devey,G,30,78,320,4,Memphis,Chiefs,Offense,649408,0.649408
+62,Vladimir Ducasse,G,30,77,329,8,UMass,Bills,Offense,NA,NA
+75,Alex Boone,G,30,80,310,8,Ohio State,Cardinals,Offense,1400000,1.4
+76,Mike Iupati,G,30,77,331,8,Idaho,Cardinals,Offense,8000000,8
+62,Ted Larsen,G,30,75,320,8,NC State,Dolphins,Offense,975000,0.975
+77,Shawn Lauvao,G,30,75,308,8,Arizona State,Redskins,Offense,4000000,4
+76,T.J. Lang,G,30,76,315,9,Eastern Michigan,Lions,Offense,3000000,3
+51,Bruce Irvin,LB,30,75,250,6,West Virginia,Raiders,Defense,4500000,4.5
+57,Vincent Rey,LB,30,73,245,7,Duke,Bengals,Defense,2250000,2.25
+56,Sean Weatherspoon,LB,30,74,244,7,Missouri,Falcons,Defense,455882,0.455882
+44,Mark Herzlich,LB,30,77,236,7,Boston College,Giants,Defense,NA,NA
+47,Kelvin Sheppard,LB,30,74,249,7,LSU,Giants,Defense,423529,0.423529
+99,Lamarr Houston,LB,30,75,274,8,Texas,Bears,Defense,900000,0.9
+51,Frank Zombo,LB,30,75,254,8,Central Michigan,Chiefs,Defense,900000,0.9
+50,Ramon Humber,LB,30,71,232,9,North Dakota State,Bills,Defense,900000,0.9
+52,Jonathan Casillas,LB,30,73,226,9,Wisconsin,Giants,Defense,2750000,2.75
+49,Andrew DePaola,LS,30,74,230,4,Rutgers,Bears,Special Teams,690000,0.69
+44,Jake McQuaide,LS,30,74,225,7,Ohio State,Rams,Special Teams,775000,0.775
+57,Nick Sundberg,LS,30,73,256,8,California,Redskins,Special Teams,900000,0.9
+90,Earl Mitchell,NT,30,75,310,8,Arizona,49ers,Defense,1650000,1.65
+99,Al Woods,NT,30,76,330,8,LSU,Colts,Defense,1250000,1.25
+90,Ziggy Hood,NT,30,75,305,9,Missouri,Redskins,Defense,NA,NA
+72,Joe Barksdale,OT,30,77,326,7,LSU,Chargers,Offense,4500000,4.5
+72,Derek Newton,OT,30,78,315,7,Arkansas State,Texans,Offense,NA,NA
+68,Jared Veldheer,OT,30,80,321,8,Hillsdale,Cardinals,Offense,6500000,6.5
+76,Russell Okung,OT,30,77,310,8,Oklahoma State,Chargers,Offense,3000000,3
+79,Sam Young,OT,30,80,306,8,Notre Dame,Dolphins,Offense,900000,0.9
+77,Austin Howard,OT,30,79,330,8,Northern Iowa,Ravens,Offense,1525000,1.525
+5,Matt Bosher,P,30,73,208,7,Miami,Falcons,Special Teams,NA,NA
+4,Greg Zuerlein,PK,30,73,191,6,Missouri Western,Rams,Special Teams,1375000,1.375
+2,Kai Forbath,PK,30,71,197,6,UCLA,Vikings,Special Teams,775000,0.775
+5,Dan Bailey,PK,30,73,195,7,Oklahoma State,Cowboys,Special Teams,3200000,3.2
+9,Graham Gano,PK,30,74,202,8,Florida State,Panthers,Special Teams,3200000,3.2
+11,Alex Tanney,QB,30,76,220,2,Monmouth (IL),Titans,Offense,NA,NA
+2,T.J. Yates,QB,30,76,217,6,North Carolina,Texans,Offense,410294,0.410294
+14,Andy Dalton,QB,30,74,220,7,TCU,Bengals,Offense,13100000,13.1
+16,Scott Tolzien,QB,30,74,215,7,Wisconsin,Colts,Offense,1750000,1.75
+8,Sam Bradford,QB,30,76,224,8,Oklahoma,Vikings,Offense,14000000,14
+28,Jonathan Stewart,RB,30,70,240,10,Oregon,Panthers,Offense,1100000,1.1
+38,Ron Parker,S,30,73,206,7,Newberry,Chiefs,Defense,3900000,3.9
+42,Colin Jones,S,30,73,205,7,TCU,Panthers,Defense,775000,0.775
+25,Rafael Bush,S,30,71,203,7,South Carolina State,Saints,Defense,775000,0.775
+34,Andrew Sendejo,S,30,73,210,7,Rice,Vikings,Defense,2950000,2.95
+29,Nate Allen,S,30,73,214,8,South Florida,Dolphins,Defense,1400000,1.4
+32,Devin McCourty,S,30,70,195,8,Rutgers,Patriots,Defense,6500000,6.5
+27,Malcolm Jenkins,S,30,73,204,9,Ohio State,Eagles,Defense,6000000,6
+26,Don Carey,S,30,71,202,9,Norfolk State,Lions,Defense,975000,0.975
+23,Patrick Chung,S,30,71,215,9,Oregon,Patriots,Defense,2500000,2.5
+23,Mike Mitchell,S,30,73,221,9,Ohio,Steelers,Defense,5000000,5
+84,Sean McGrath,TE,30,77,259,3,null,Chargers,Offense,615000,0.615
+85,Brandon Williams,TE,30,75,260,5,Oregon,Colts,Offense,775000,0.775
+84,Lance Kendricks,TE,30,75,250,7,Wisconsin,Packers,Offense,800000,0.8
+86,Lee Smith,TE,30,78,265,7,Marshall,Raiders,Offense,1000000,1
+82,Logan Paulsen,TE,30,77,268,8,UCLA,49ers,Offense,775000,0.775
+87,Jeff Cumberland,TE,30,76,260,8,Illinois,Chargers,Offense,364706,0.364706
+84,Ed Dickson,TE,30,76,255,8,Oregon,Panthers,Offense,1950000,1.95
+88,Clay Harbor,TE,30,75,240,8,Missouri State,Saints,Offense,NA,NA
+87,Jared Cook,TE,30,77,254,9,South Carolina,Raiders,Offense,2500000,2.5
+86,John Phillips,TE,30,77,251,9,Virginia,Saints,Offense,105882,0.105882
+88,Martellus Bennett,TE,30,78,275,10,Texas A&M,Patriots,Offense,900000,0.9
+17,Dwayne Harris,WR,30,71,206,7,East Carolina,Giants,Offense,2475000,2.475
+18,Louis Murphy,WR,30,74,200,8,Florida,49ers,Offense,423528,0.423528
+10,Emmanuel Sanders,WR,30,71,180,8,SMU,Broncos,Offense,6750000,6.75
+88,Demaryius Thomas,WR,30,75,229,8,Georgia Tech,Broncos,Offense,8500000,8.5
+19,Andre Roberts,WR,30,71,195,8,The Citadel,Falcons,Offense,1300000,1.3
+87,Eric Decker,WR,30,75,214,8,Minnesota,Titans,Offense,1350000,1.35
+15,Brandon Tate,WR,30,73,195,9,North Carolina,Bills,Offense,900000,0.9
+15,Michael Crabtree,WR,30,73,215,9,Texas Tech,Raiders,Offense,6250000,6.25
+88,Darrius Heyward-Bey,WR,30,74,210,9,Maryland,Steelers,Offense,1200000,1.2
+61,Tim Barnes,C,29,76,306,6,Missouri,49ers,Offense,227941,0.227941
+72,Mike Person,C,29,76,300,7,Montana State,Colts,Offense,NA,NA
+68,Joe Hawley,C,29,75,302,8,UNLV,Buccaneers,Offense,1750000,1.75
+23,Robert Alford,CB,29,70,186,5,Southeastern Louisiana,Falcons,Defense,2000000,2
+36,Robert McClain,CB,29,69,195,6,Connecticut,Buccaneers,Defense,775000,0.775
+20,Janoris Jenkins,CB,29,70,190,6,North Alabama,Giants,Defense,12900000,12.9
+21,Teddy Williams,CB,29,73,210,6,UT San Antonio,Panthers,Defense,NA,NA
+24,Coty Sensabaugh,CB,29,71,187,6,Clemson,Steelers,Defense,775000,0.775
+22,Jimmy Smith,CB,29,74,210,7,Colorado,Ravens,Defense,775000,0.775
+25,Richard Sherman,CB,29,75,195,7,Stanford,Seahawks,Defense,11431000,11.431
+41,Byron Maxwell,CB,29,73,198,7,Clemson,Seahawks,Defense,8500000,8.5
+42,Alterraun Verner,CB,29,70,187,8,UCLA,Dolphins,Defense,900000,0.9
+25,Kareem Jackson,CB,29,70,190,8,Alabama,Texans,Defense,6500000,6.5
+24,Tramaine Brock,CB,29,70,188,8,Belhaven University,Vikings,Defense,900000,0.9
+41,Captain Munnerlyn,CB,29,69,195,9,South Carolina,Panthers,Defense,900000,0.9
+72,Justin Trattou,DE,29,76,258,6,Florida,Buccaneers,Defense,NA,NA
+75,Vinny Curry,DE,29,75,279,6,Marshall,Eagles,Defense,7000000,7
+95,Jack Crawford,DE,29,77,274,6,Penn State,Falcons,Defense,1250000,1.25
+92,John Hughes III,DE,29,74,320,6,Cincinnati,Saints,Defense,NA,NA
+99,Adrian Clayborn,DE,29,75,280,7,Iowa,Falcons,Defense,3750000,3.75
+97,Karl Klug,DE,29,75,278,7,Iowa,Titans,Defense,1250000,1.25
+55,Jerry Hughes,DE,29,74,254,8,TCU,Bills,Defense,5400000,5.4
+55,Brandon Graham,DE,29,74,265,8,Michigan,Eagles,Defense,6500000,6.5
+90,Jason Pierre-Paul,DE,29,77,275,8,South Florida,Giants,Defense,1250000,1.25
+99,Phil Taylor Sr.,DT,29,75,343,4,Baylor,Redskins,Defense,NA,NA
+90,Stefan Charles,DT,29,77,320,5,University of Regina,Chiefs,Defense,NA,NA
+91,Cedric Thornton,DT,29,76,290,6,Southern Arkansas,Bills,Defense,775000,0.775
+94,Jarvis Jenkins,DT,29,76,300,6,Clemson,Chiefs,Defense,775000,0.775
+98,Damon Harrison,DT,29,75,341,6,William Penn,Giants,Defense,8750000,8.75
+55,Stephen Paea,DT,29,73,295,7,Oregon State,Cowboys,Defense,1000000,1
+97,Terrell McClain,DT,29,74,302,7,South Florida,Redskins,Defense,2250000,2.25
+97,Geno Atkins,DT,29,73,300,8,Georgia,Bengals,Defense,7300000,7.3
+93,Gerald McCoy,DT,29,76,300,8,Oklahoma,Buccaneers,Defense,13250000,13.25
+98,Corey Peters,DT,29,75,305,8,Kentucky,Cardinals,Defense,2750000,2.75
+98,Linval Joseph,DT,29,76,329,8,East Carolina,Vikings,Defense,1150000,1.15
+46,James Develin,FB,29,75,255,5,Brown,Patriots,Offense,800000,0.8
+79,Kenny Wiggins,G,29,78,314,4,Fresno State,Chargers,Offense,690000,0.69
+63,Ben Garland,G,29,77,308,4,Air Force,Falcons,Offense,690000,0.69
+75,Kyle Long,G,29,78,316,5,Oregon,Bears,Offense,6250000,6.25
+76,Rodger Saffold,G,29,77,325,8,Indiana,Rams,Offense,4847233,4.847233
+52,Brian Peters,LB,29,76,235,3,Northwestern (IA),Texans,Defense,615000,0.615
+56,Korey Toomer,LB,29,74,235,4,Idaho,Chargers,Defense,1797000,1.797
+53,Ben Jacobs,LB,29,76,240,4,Fresno State,Panthers,Defense,775000,0.775
+54,Nathan Stupar,LB,29,74,240,5,Penn State,Saints,Defense,1350000,1.35
+59,Tank Carder,LB,29,74,235,6,TCU,Browns,Defense,NA,NA
+56,Demario Davis,LB,29,74,248,6,Arkansas State,Jets,Defense,900000,0.9
+58,Steven Johnson,LB,29,73,237,6,Kansas,Ravens,Defense,729412,0.729412
+52,Craig Robertson,LB,29,73,234,6,North Texas,Saints,Defense,1105000,1.105
+93,Sam Acho,LB,29,75,259,7,Texas,Bears,Defense,775000,0.775
+92,Pernell McPhee,LB,29,75,269,7,Mississippi State,Bears,Defense,6950000,6.95
+50,Justin Houston,LB,29,75,258,7,Georgia,Chiefs,Defense,16350000,16.35
+54,Bruce Carter,LB,29,74,240,7,North Carolina,Jets,Defense,775000,0.775
+57,Andrew Gachkar,LB,29,74,224,7,Missouri,Panthers,Defense,501471,0.501471
+58,Junior Galette,LB,29,74,254,7,Stillman,Redskins,Defense,775000,0.775
+91,Ryan Kerrigan,LB,29,76,259,7,Purdue,Redskins,Defense,8250000,8.25
+97,Dekoda Watson,LB,29,74,245,8,Florida State,49ers,Defense,1000000,1
+53,NaVorro Bowman,LB,29,73,242,8,Penn State,Raiders,Defense,3000000,3
+55,Arthur Moats,LB,29,73,246,8,James Madison,Steelers,Defense,2250000,2.25
+91,Derrick Morgan,LB,29,76,261,8,Georgia Tech,Titans,Defense,6000000,6
+48,Patrick Scales,LS,29,76,239,3,Utah State,Bears,Special Teams,NA,NA
+96,Sylvester Williams,NT,29,74,313,5,North Carolina,Titans,Defense,2000000,2
+78,Alejandro Villanueva,OT,29,81,320,3,Army,Steelers,Offense,1500000,1.5
+74,Michael Ola,OT,29,77,312,4,Hampton,Chargers,Offense,397941,0.397941
+75,Menelik Watson,OT,29,77,315,5,Florida State,Broncos,Offense,1500000,1.5
+72,Adam Gettis,OT,29,75,315,5,Iowa,Buccaneers,Offense,NA,NA
+73,Ryan Schraeder,OT,29,79,300,5,Valdosta State,Falcons,Offense,1000000,1
+65,Amini Silatolu,OT,29,76,305,5,Midwestern State,Panthers,Offense,775000,0.775
+71,Donald Stephenson,OT,29,78,312,6,Oklahoma,Broncos,Offense,2500000,2.5
+79,Bryce Harris,OT,29,78,300,6,Fresno State,Saints,Offense,501471,0.501471
+71,Riley Reiff,OT,29,78,305,6,Iowa,Vikings,Offense,6200000,6.2
+63,Brandon Fusco,OT,29,76,306,7,Slippery Rock,49ers,Offense,1000000,1
+74,Anthony Castonzo,OT,29,79,311,7,Boston College,Colts,Offense,1000000,1
+75,Byron Bell,OT,29,77,320,7,New Mexico,Cowboys,Offense,1000000,1
+61,Marcus Cannon,OT,29,78,335,7,TCU,Patriots,Offense,1350000,1.35
+77,Nate Solder,OT,29,80,325,7,Colorado,Patriots,Offense,6500000,6.5
+77,Marcus Gilbert,OT,29,78,330,7,Florida,Steelers,Offense,4000000,4
+73,Marshall Newhouse,OT,29,76,330,8,TCU,Raiders,Offense,1050000,1.05
+71,Trent Williams,OT,29,77,320,8,Oklahoma,Redskins,Offense,11250000,11.25
+9,Jacob Schum,P,29,70,211,3,Buffalo,Packers,Special Teams,NA,NA
+9,Bryan Anger,P,29,75,205,6,California,Buccaneers,Special Teams,1500000,1.5
+7,Marquette King,P,29,73,195,6,Fort Valley State,Raiders,Special Teams,2400000,2.4
+7,Case Keenum,QB,29,73,215,5,Houston,Vikings,Offense,950000,0.95
+17,Ryan Tannehill,QB,29,76,216,6,Texas A&M,Dolphins,Offense,NA,NA
+9,Nick Foles,QB,29,78,243,6,Arizona,Eagles,Offense,1000000,1
+8,Kirk Cousins,QB,29,75,202,6,Michigan State,Redskins,Offense,23943600,23.9436
+3,Russell Wilson,QB,29,71,215,6,Wisconsin,Seahawks,Offense,12600000,12.6
+15,Ryan Mallett,QB,29,78,250,7,Arkansas,Ravens,Offense,1000000,1
+9,Matthew Stafford,QB,29,75,220,9,Georgia,Lions,Offense,1000000,1
+22,Doug Martin,RB,29,69,223,6,Boise State,Buccaneers,Offense,5764706,5.764706
+46,Alfred Morris,RB,29,70,222,6,Florida Atlantic,Cowboys,Offense,1200000,1.2
+38,Stevan Ridley,RB,29,71,220,6,LSU,Steelers,Offense,592644,0.592644
+26,Taiwan Jones,RB,29,73,195,7,Eastern Washington,Bills,Offense,775000,0.775
+42,Anthony Sherman,RB,29,70,242,7,Connecticut,Chiefs,Offense,1100000,1.1
+29,Bilal Powell,RB,29,70,204,7,Louisville,Jets,Offense,3750000,3.75
+29,DeMarco Murray,RB,29,73,220,7,Oklahoma,Titans,Offense,6250000,6.25
+33,Chris Ivory,RB,29,73,223,8,Tiffin University,Jaguars,Offense,4500000,4.5
+25,LeSean McCoy,RB,29,71,210,9,Pittsburgh,Bills,Offense,6000000,6
+45,Rontez Miles,S,29,73,203,3,California (PA),Jets,Defense,615000,0.615
+35,Eddie Pleasant,S,29,70,210,5,Oregon,Texans,Defense,1078000,1.078
+43,Nate Ebner,S,29,73,220,6,Ohio State,Patriots,Defense,825000,0.825
+21,Marcus Gilchrist,S,29,70,198,7,Clemson,Texans,Defense,1200000,1.2
+21,Da'Norris Searcy,S,29,71,207,7,North Carolina,Titans,Defense,2400000,2.4
+26,Darian Stewart,S,29,71,214,8,South Carolina,Broncos,Defense,6000000,6
+29,Eric Berry,S,29,73,212,8,Tennessee,Chiefs,Defense,900000,0.9
+20,Reshad Jones,S,29,73,223,8,Georgia,Dolphins,Defense,950000,0.95
+42,Barry Church,S,29,74,218,8,Toledo,Jaguars,Defense,5000000,5
+42,Morgan Burnett,S,29,73,209,8,Georgia Tech,Packers,Defense,4750000,4.75
+20,Kurt Coleman,S,29,71,208,8,Ohio State,Panthers,Defense,1900000,1.9
+31,Kam Chancellor,S,29,75,225,8,Virginia Tech,Seahawks,Defense,3000000,3
+88,Garrett Celek,TE,29,77,252,6,Michigan State,49ers,Offense,1550000,1.55
+85,Rhett Ellison,TE,29,77,255,6,USC,Giants,Offense,975000,0.975
+82,Coby Fleener,TE,29,78,251,6,Stanford,Saints,Offense,5800000,5.8
+85,Virgil Green,TE,29,77,255,7,Nevada,Broncos,Offense,2800000,2.8
+89,Julius Thomas,TE,29,77,262,7,Portland State,Dolphins,Offense,5500000,5.5
+88,Luke Stocker,TE,29,77,253,7,Tennessee,Titans,Offense,1700000,1.7
+84,Jermaine Gresham,TE,29,77,260,8,Oklahoma,Cardinals,Offense,2000000,2
+84,Michael Hoomanawanui,TE,29,76,265,8,Illinois,Saints,Offense,1350000,1.35
+17,Dontrelle Inman,WR,29,75,205,4,Virginia,Bears,Offense,2746000,2.746
+10,Brittan Golden,WR,29,71,186,4,West Texas A&M,Cardinals,Offense,690000,0.69
+19,Aldrick Robinson,WR,29,70,187,5,SMU,49ers,Offense,1250000,1.25
+15,Chris Hogan,WR,29,73,210,5,Monmouth,Patriots,Offense,2500000,2.5
+18,Andre Holmes,WR,29,76,210,6,Hillsdale,Bills,Offense,800000,0.8
+18,A.J. Green,WR,29,76,210,7,Georgia,Bengals,Offense,10300000,10.3
+82,Torrey Smith,WR,29,73,205,7,Maryland,Eagles,Offense,4000000,4
+17,Arrelious Benn,WR,29,74,228,7,Illinois,Jaguars,Offense,775000,0.775
+89,Doug Baldwin,WR,29,70,192,7,Stanford,Seahawks,Offense,775000,0.775
+88,Dez Bryant,WR,29,74,220,8,Oklahoma State,Cowboys,Offense,13000000,13
+15,Golden Tate,WR,29,70,197,8,Notre Dame,Lions,Offense,6000000,6
+84,Antonio Brown,WR,29,70,181,8,Central Michigan,Steelers,Offense,910000,0.91
+85,Kenny Britt,WR,29,75,223,9,Rutgers,Patriots,Offense,4000000,4
+18,Jeremy Maclin,WR,29,73,198,9,Missouri,Ravens,Offense,1000000,1
+61,Matt Paradis,C,28,75,300,3,Boise State,Broncos,Offense,615000,0.615
+60,Ben Jones,C,28,75,308,6,Georgia,Titans,Offense,3500000,3.5
+51,Mike Pouncey,C,28,77,298,7,Florida,Dolphins,Offense,7950000,7.95
+61,Rodney Hudson,C,28,74,300,7,Florida State,Raiders,Offense,6500000,6.5
+53,Maurkice Pouncey,C,28,76,304,8,Florida,Steelers,Offense,7500000,7.5
+40,Delvin Breaux,CB,28,73,210,3,LSU,Saints,Defense,NA,NA
+30,Asa Jackson,CB,28,70,183,4,Cal Poly,49ers,Defense,729412,0.729412
+39,Demetri Goodson,CB,28,71,197,4,Baylor,Packers,Defense,NA,NA
+31,Marcus Cooper Sr.,CB,28,74,197,5,Rutgers,Bears,Defense,NA,NA
+30,Rashaan Melvin,CB,28,74,196,5,Northern Illinois,Colts,Defense,775000,0.775
+33,Blidi Wreh-Wilson,CB,28,73,190,5,Connecticut,Falcons,Defense,775000,0.775
+27,Dre Kirkpatrick,CB,28,74,185,6,Alabama,Bengals,Defense,2550000,2.55
+25,Chris Harris Jr.,CB,28,70,199,6,Kansas,Broncos,Defense,NA,NA
+26,Casey Hayward,CB,28,71,192,6,Vanderbilt,Chargers,Defense,3250000,3.25
+22,Trumaine Johnson,CB,28,74,213,6,Montana,Rams,Defense,16742400,16.7424
+35,DeShawn Shead,CB,28,74,212,6,Portland State,Seahawks,Defense,1050000,1.05
+20,Prince Amukamara,CB,28,73,204,7,Nebraska,Bears,Defense,3500000,3.5
+41,Buster Skrine,CB,28,69,185,7,Chattanooga,Jets,Defense,6000000,6
+31,Davon House,CB,28,73,195,7,New Mexico State,Packers,Defense,1500000,1.5
+21,Joe Haden,CB,28,71,195,8,Florida,Steelers,Defense,1250000,1.25
+95,David King,DE,28,76,281,2,Oklahoma,Titans,Defense,690000,0.69
+97,Billy Winn,DE,28,76,300,5,Boise State,Broncos,Defense,NA,NA
+90,Cornelius Washington,DE,28,76,280,5,Georgia,Lions,Defense,1237500,1.2375
+94,Ezekiel Ansah,DE,28,77,275,5,BYU,Lions,Defense,12734000,12.734
+96,Wes Horton,DE,28,77,265,5,USC,Panthers,Defense,775000,0.775
+96,Akiem Hicks,DE,28,77,332,6,University of Regina,Bears,Defense,7000000,7
+56,Ryan Davis,DE,28,74,260,6,Bethune-Cookman,Bills,Defense,775000,0.775
+93,Jared Crick,DE,28,76,285,6,Nebraska,Broncos,Defense,NA,NA
+98,Tyrone Crawford,DE,28,76,290,6,Boise State,Cowboys,Defense,7250000,7.25
+50,Andre Branch,DE,28,77,263,6,Clemson,Dolphins,Defense,2900000,2.9
+90,Derrick Shelby,DE,28,74,280,6,Utah,Falcons,Defense,3000000,3
+97,Allen Bailey,DE,28,75,288,7,Miami,Chiefs,Defense,3900000,3.9
+96,Muhammad Wilkerson,DE,28,76,315,7,Temple,Jets,Defense,14750000,14.75
+94,Cameron Jordan,DE,28,76,287,7,California,Saints,Defense,7000000,7
+97,Cameron Heyward,DE,28,77,295,7,Ohio State,Steelers,Defense,775000,0.775
+99,J.J. Watt,DE,28,77,290,7,Wisconsin,Texans,Defense,10500000,10.5
+96,Carlos Dunlap,DE,28,78,280,8,Florida,Bengals,Defense,5350000,5.35
+73,John Jenkins,DT,28,75,327,5,Georgia,Bears,Defense,775000,0.775
+71,Damion Square,DT,28,74,293,5,Alabama,Chargers,Defense,775000,0.775
+96,Bennie Logan,DT,28,74,315,5,LSU,Chiefs,Defense,6680000,6.68
+98,Star Lotulelei,DT,28,74,315,5,Utah,Panthers,Defense,6757000,6.757
+99,Kawann Short,DT,28,75,315,5,Purdue,Panthers,Defense,6000000,6
+98,Brandon Williams,DT,28,73,340,5,Missouri Southern State,Ravens,Defense,775000,0.775
+92,Stacy McGee,DT,28,75,341,5,Oklahoma,Redskins,Defense,2250000,2.25
+91,Courtney Upshaw,DT,28,74,272,6,Alabama,Falcons,Defense,775000,0.775
+97,Malik Jackson,DT,28,77,290,6,Tennessee,Jaguars,Defense,13500000,13.5
+76,Mike Daniels,DT,28,73,310,6,Iowa,Packers,Defense,2100000,2.1
+99,Jurrell Casey,DT,28,73,305,7,USC,Titans,Defense,1400000,1.4
+49,Jamize Olawale,FB,28,73,240,5,North Texas,Raiders,Offense,1500000,1.5
+42,Patrick DiMarco,FB,28,73,234,6,South Carolina,Bills,Offense,1300000,1.3
+64,Eric Kush,G,28,76,317,4,California (PA),Bears,Offense,NA,NA
+73,J.R. Sweezy,G,28,77,298,5,NC State,Buccaneers,Offense,3750000,3.75
+64,Jonathan Cooper,G,28,74,308,5,North Carolina,Cowboys,Offense,1000000,1
+77,Patrick Omameh,G,28,76,327,5,Michigan,Jaguars,Offense,775000,0.775
+65,Lane Taylor,G,28,75,324,5,Oklahoma State,Packers,Offense,2250000,2.25
+61,Josh LeRibeus,G,28,74,315,5,SMU,Saints,Offense,775000,0.775
+64,Josh Kline,G,28,75,300,5,Kent State,Titans,Offense,1400000,1.4
+65,Ron Leary,G,28,75,320,6,Memphis,Broncos,Offense,NA,NA
+79,Brandon Brooks,G,28,77,335,6,Miami (OH),Eagles,Offense,5000000,5
+62,Don Barclay,G,28,76,305,6,West Virginia,Lions,Offense,410294,0.410294
+70,Kelechi Osemele,G,28,77,330,6,Iowa State,Raiders,Offense,6700000,6.7
+66,David DeCastro,G,28,77,316,6,Stanford,Steelers,Offense,1100000,1.1
+79,Jeff Allen,G,28,76,305,6,Illinois,Texans,Offense,4750000,4.75
+71,Dennis Kelly,G,28,80,321,6,Purdue,Titans,Offense,775000,0.775
+65,Clint Boling,G,28,77,305,7,Georgia,Bengals,Offense,4050000,4.05
+61,Stefen Wisniewski,G,28,75,305,7,Penn State,Eagles,Offense,775000,0.775
+77,James Carpenter,G,28,77,321,7,Alabama,Jets,Offense,4450000,4.45
+46,Mark Nzeocha,LB,28,75,240,3,Wyoming,49ers,Defense,506471,0.506471
+54,L.J. Fort,LB,28,73,232,3,Northern Iowa,Steelers,Defense,542647,0.542647
+51,Will Compton,LB,28,73,235,4,Nebraska,Redskins,Defense,NA,NA
+58,Kasim Edebali,LB,28,74,253,4,Boston College,Saints,Defense,1000000,1
+51,Jamie Collins Sr.,LB,28,75,250,5,Southern Mississippi,Browns,Defense,NA,NA
+56,Michael Mauti,LB,28,74,243,5,Penn State,Saints,Defense,501471,0.501471
+98,Vince Williams,LB,28,73,233,5,Florida State,Steelers,Defense,2000000,2
+50,Nate Palmer,LB,28,74,248,5,Illinois State,Titans,Defense,850000,0.85
+54,Brandon Marshall,LB,28,73,250,6,Nevada,Broncos,Defense,3000000,3
+54,Lavonte David,LB,28,73,233,6,Nebraska,Buccaneers,Defense,6000000,6
+54,Melvin Ingram,LB,28,74,247,6,South Carolina,Chargers,Defense,5000000,5
+51,Kyle Wilber,LB,28,76,245,6,Wake Forest,Cowboys,Defense,1250000,1.25
+52,Najee Goode,LB,28,73,244,6,West Virginia,Eagles,Defense,775000,0.775
+53,Nigel Bradham,LB,28,74,241,6,Florida State,Eagles,Defense,4000000,4
+57,Keenan Robinson,LB,28,75,245,6,Texas,Giants,Defense,1500000,1.5
+58,Shea McClellin,LB,28,75,250,6,Boise State,Patriots,Defense,NA,NA
+99,Aldon Smith,LB,28,76,265,6,Missouri,Raiders,Defense,NA,NA
+26,Mark Barron,LB,28,74,225,6,Alabama,Rams,Defense,5000000,5
+53,Zach Brown,LB,28,73,251,6,North Carolina,Redskins,Defense,1550000,1.55
+55,Jonathan Freeny,LB,28,74,255,6,Rutgers,Saints,Defense,455882,0.455882
+59,Emmanuel Lamur,LB,28,76,245,6,Kansas State,Vikings,Defense,2450000,2.45
+51,Malcolm Smith,LB,28,73,225,7,USC,49ers,Defense,NA,NA
+58,Von Miller,LB,28,75,250,7,Texas A&M,Broncos,Defense,16500000,16.5
+57,Josh Bynes,LB,28,73,235,7,Auburn,Cardinals,Defense,775000,0.775
+93,Jabaal Sheard,LB,28,75,265,7,Pittsburgh,Colts,Defense,2500000,2.5
+48,Akeem Ayers,LB,28,75,247,7,UCLA,Giants,Defense,319118,0.319118
+43,Nick Bellore,LB,28,73,250,7,Central Michigan,Lions,Defense,729412,0.729412
+54,Mason Foster,LB,28,73,250,7,Washington,Redskins,Defense,1225000,1.225
+55,Chris Carter,LB,28,73,240,7,Fresno State,Redskins,Defense,775000,0.775
+50,K.J. Wright,LB,28,76,246,7,Mississippi State,Seahawks,Defense,5800000,5.8
+41,James Winchester,LS,28,75,240,3,Oklahoma,Chiefs,Special Teams,615000,0.615
+46,Carson Tinker,LS,28,73,237,5,Alabama,Jaguars,Special Teams,NA,NA
+47,Kevin McDermott,LS,28,77,240,5,UCLA,Vikings,Special Teams,775000,0.775
+48,Beau Brinkley,LS,28,76,260,6,Missouri,Titans,Special Teams,1000000,1
+47,Josh Harris,LS,28,73,240,6,Auburn,,Special Teams,780000,0.78
+78,Vinston Painter,OT,28,76,318,3,Virginia Tech,Cardinals,Offense,222353,0.222353
+76,Tom Compton,OT,28,77,313,5,South Dakota,Bears,Offense,1000000,1
+71,Rick Wagner,OT,28,78,315,5,Wisconsin,Lions,Offense,NA,NA
+74,Mike Remmers,OT,28,77,310,5,Oregon State,Vikings,Offense,1400000,1.4
+70,Bobby Massie,OT,28,78,317,6,Ole Miss,Bears,Offense,4200000,4.2
+79,Bradley Sowell,OT,28,79,312,6,Ole Miss,Bears,Offense,775000,0.775
+77,Cordy Glenn,OT,28,78,345,6,Georgia,Bills,Offense,9000000,9
+71,Mitchell Schwartz,OT,28,77,320,6,California,Chiefs,Offense,4900000,4.9
+68,Kelvin Beachum,OT,28,75,308,6,SMU,Jets,Offense,1500000,1.5
+75,Matt Kalil,OT,28,79,315,6,USC,Panthers,Offense,1000000,1
+71,Ben Ijalana,OT,28,76,322,7,Villanova,Jets,Offense,2000000,2
+75,Bryan Bulaga,OT,28,77,314,8,Iowa,Packers,Offense,5400000,5.4
+4,Ryan Quigley,P,28,74,205,5,Boston College,Vikings,Special Teams,775000,0.775
+6,Chris Jones,P,28,73,205,6,Carson-Newman,Cowboys,Special Teams,800000,0.8
+3,Brad Nortman,P,28,74,214,6,Wisconsin,Jaguars,Special Teams,1900000,1.9
+6,Caleb Sturgis,PK,28,69,192,5,Florida,Eagles,Special Teams,900000,0.9
+4,Randy Bullock,PK,28,69,214,6,Texas A&M,Bengals,Special Teams,775000,0.775
+9,Justin Tucker,PK,28,73,183,6,Texas,Ravens,Special Teams,2800000,2.8
+7,Blair Walsh,PK,28,70,175,6,Georgia,Seahawks,Special Teams,800000,0.8
+4,Ryan Griffin,QB,28,77,210,4,Tulane,Buccaneers,Offense,875000,0.875
+8,Mike Glennon,QB,28,78,229,5,NC State,Bears,Offense,8000000,8
+3,Landry Jones,QB,28,76,225,5,Oklahoma,Steelers,Offense,1900000,1.9
+12,Andrew Luck,QB,28,76,240,6,Stanford,Colts,Offense,NA,NA
+6,Austin Davis,QB,28,74,221,6,Southern Mississippi,Seahawks,Offense,775000,0.775
+5,Tyrod Taylor,QB,28,73,215,7,Virginia Tech,Bills,Offense,7500000,7.5
+7,Blaine Gabbert,QB,28,76,235,7,Missouri,Cardinals,Offense,900000,0.9
+1,Cam Newton,QB,28,77,245,7,Auburn,Panthers,Offense,13166666,13.166666
+43,Fozzy Whittaker,RB,28,70,205,5,Texas,Panthers,Offense,850000,0.85
+38,Andre Ellington,RB,28,69,199,5,Clemson,Texans,Offense,775000,0.775
+25,Latavius Murray,RB,28,75,230,5,UCF,Vikings,Offense,900000,0.9
+39,Travaris Cadet,RB,28,73,210,6,Appalachian State,Bills,Offense,410294,0.410294
+33,Robert Turbin,RB,28,70,216,6,Utah State,Colts,Offense,800000,0.8
+38,Brandon Bolden,RB,28,71,220,6,Ole Miss,Patriots,Offense,775000,0.775
+25,Lance Dunbar,RB,28,68,187,6,North Texas,Rams,Offense,1000000,1
+34,Shane Vereen,RB,28,70,205,7,California,Giants,Offense,2150000,2.15
+22,Mark Ingram,RB,28,69,215,7,Alabama,Saints,Offense,3100000,3.1
+39,Keith McGill II,S,28,75,210,4,Utah,Raiders,Defense,NA,NA
+37,Jahleel Addae,S,28,70,195,5,Central Michigan,Chargers,Defense,1500000,1.5
+38,Cody Davis,S,28,73,203,5,Texas Tech,Rams,Defense,1111111,1.111111
+41,Brynden Trawick,S,28,74,225,5,Troy,Titans,Defense,2000000,2
+37,Keith Tandy,S,28,70,205,6,West Virginia,Buccaneers,Defense,840000,0.84
+22,Harrison Smith,S,28,74,214,6,Notre Dame,Vikings,Defense,5150000,5.15
+23,Chris Conte,S,28,74,203,7,California,Buccaneers,Defense,1500000,1.5
+29,Earl Thomas,S,28,70,202,8,Texas,Seahawks,Defense,8500000,8.5
+80,Ifeanyi Momah,TE,28,79,255,3,Boston College,Cardinals,Offense,465000,0.465
+89,Phillip Supernaw,TE,28,77,255,4,Ouachita Baptist,Titans,Offense,900000,0.9
+87,Travis Kelce,TE,28,77,260,5,Cincinnati,Chiefs,Offense,2700000,2.7
+48,MarQueis Gray,TE,28,76,263,5,Minnesota,Dolphins,Offense,775000,0.775
+82,Luke Willson,TE,28,77,254,5,Rice,Seahawks,Offense,1000000,1
+84,Ryan Griffin,TE,28,78,255,5,Connecticut,Texans,Offense,875000,0.875
+84,James Hanna,TE,28,76,260,6,Oklahoma,Cowboys,Offense,2250000,2.25
+85,Charles Clay,TE,28,75,255,7,Tulsa,Bills,Offense,4500000,4.5
+84,Niles Paul,TE,28,73,242,7,Nebraska,Redskins,Offense,1750000,1.75
+82,Kyle Rudolph,TE,28,78,265,7,Notre Dame,Vikings,Offense,5150000,5.15
+87,Rob Gronkowski,TE,28,78,265,8,Arizona,Patriots,Offense,4250000,4.25
+15,Joshua Bellamy,WR,28,73,208,3,Louisville,Bears,Offense,NA,NA
+83,Kevin Norwood,WR,28,74,199,3,Alabama,Giants,Offense,NA,NA
+13,Charles D. Johnson,WR,28,74,217,4,Grand Valley State,Panthers,Offense,NA,NA
+10,Deonte Thompson,WR,28,73,204,5,Florida,Bills,Offense,501471,0.501471
+13,Jaron Brown,WR,28,74,205,5,Clemson,Cardinals,Offense,775000,0.775
+17,Kamar Aiken,WR,28,74,216,5,UCF,Colts,Offense,1000000,1
+19,Brice Butler,WR,28,75,220,5,San Diego State,Cowboys,Offense,800000,0.8
+83,Terrance Williams,WR,28,74,210,5,Baylor,Cowboys,Offense,1000000,1
+11,Terrelle Pryor Sr.,WR,28,76,228,5,Ohio State,Redskins,Offense,NA,NA
+13,Kendall Wright,WR,28,70,185,6,Baylor,Bears,Offense,1250000,1.25
+12,Travis Benjamin,WR,28,70,175,6,Miami,Chargers,Offense,5250000,5.25
+13,T.Y. Hilton,WR,28,69,178,6,Florida Intl,Colts,Offense,8000000,8
+11,Cole Beasley,WR,28,68,180,6,SMU,Cowboys,Offense,3500000,3.5
+12,Mohamed Sanu,WR,28,74,210,6,Rutgers,Falcons,Offense,6000000,6
+83,Brian Quick,WR,28,75,218,6,Appalachian State,Redskins,Offense,775000,0.775
+18,Rishard Matthews,WR,28,73,217,6,Nevada,Titans,Offense,5000000,5
+17,Jarius Wright,WR,28,70,191,6,Arkansas,Vikings,Offense,2500000,2.5
+18,Michael Floyd,WR,28,75,220,6,Notre Dame,Vikings,Offense,887058,0.887058
+11,Julio Jones,WR,28,75,220,7,Alabama,Falcons,Offense,11500000,11.5
+73,Greg Van Roten,C,27,75,305,3,Pennsylvania,Panthers,Offense,615000,0.615
+60,T.J. Johnson,C,27,76,295,4,South Carolina,Bengals,Offense,1300000,1.3
+76,Wesley Johnson,C,27,77,297,4,Vanderbilt,Jets,Offense,2746000,2.746
+64,Travis Swanson,C,27,77,304,4,Arkansas,Lions,Offense,1772000,1.772
+61,Spencer Long,C,27,77,318,4,Nebraska,Redskins,Offense,1787000,1.787
+65,Senio Kelemete,C,27,75,300,5,Washington,Saints,Offense,1275000,1.275
+42,C.J. Goodwin,CB,27,76,220,2,California (PA),Cardinals,Defense,540000,0.54
+23,Tyler Patmon,CB,27,70,188,3,Oklahoma State,Jaguars,Defense,615000,0.615
+27,Darryl Roberts,CB,27,73,182,3,Marshall,Jets,Defense,615000,0.615
+35,Pierre Desir,CB,27,74,198,4,Lindenwood,Colts,Defense,690000,0.69
+35,Leon McFadden,CB,27,70,195,4,San Diego State,Falcons,Defense,NA,NA
+21,Malcolm Butler,CB,27,71,190,4,West Alabama,Patriots,Defense,3910000,3.91
+38,TJ Carrie,CB,27,73,205,4,Ohio,Raiders,Defense,NA,NA
+38,Stanley Jean-Baptiste,CB,27,75,218,4,Nebraska,Ravens,Defense,127060,0.12706
+21,Jamar Taylor,CB,27,71,192,5,Boise State,Browns,Defense,2500000,2.5
+21,Desmond Trufant,CB,27,73,190,5,Washington,Falcons,Defense,1526000,1.526
+23,Darius Slay,CB,27,73,190,5,Mississippi State,Lions,Defense,4100000,4.1
+31,D.J. Hayden,CB,27,71,190,5,Houston,Lions,Defense,2000000,2
+21,Kayvon Webster,CB,27,71,192,5,South Florida,Rams,Defense,2750000,2.75
+23,Neiko Thorpe,CB,27,74,210,5,Auburn,Seahawks,Defense,800000,0.8
+29,Xavier Rhodes,CB,27,73,218,5,Florida State,Vikings,Defense,8026000,8.026
+24,Leonard Johnson,CB,27,70,194,6,Iowa State,Bills,Defense,775000,0.775
+26,Josh Robinson,CB,27,70,200,6,UCF,Buccaneers,Defense,2000000,2
+28,Justin Bethel,CB,27,73,200,6,Presbyterian College,Cardinals,Defense,2000000,2
+21,Morris Claiborne,CB,27,71,192,6,LSU,Jets,Defense,2500000,2.5
+24,Stephon Gilmore,CB,27,73,190,6,South Carolina,Patriots,Defense,4500000,4.5
+29,Johnson Bademosi,CB,27,73,206,6,Stanford,Patriots,Defense,1300000,1.3
+35,Brandon Boykin,CB,27,70,173,6,Georgia,Ravens,Defense,NA,NA
+20,Jeremy Lane,CB,27,73,190,6,Northwestern State,Seahawks,Defense,4000000,4
+21,Patrick Peterson,CB,27,73,203,7,LSU,Cardinals,Defense,9750000,9.75
+24,Sterling Moore,CB,27,70,202,7,SMU,Saints,Defense,775000,0.775
+25,Brandon Dixon,DB,27,71,203,2,Northwest Missouri State,Giants,Defense,158825,0.158825
+30,Steven Terrell,DB,27,70,197,5,Texas A&M,Chiefs,Defense,690000,0.69
+23,Darryl Morris,DB,27,70,186,5,Texas State,Giants,Defense,775000,0.775
+77,Zach Moore,DE,27,78,275,2,Concordia-St. Paul,Panthers,Defense,NA,NA
+51,Steven Means,DE,27,75,263,3,Buffalo,Eagles,Defense,690000,0.69
+95,Dion Jordan,DE,27,78,275,3,Oregon,Seahawks,Defense,615000,0.615
+92,Zach Kerr,DE,27,74,334,4,Delaware,Broncos,Defense,1000000,1
+97,Ed Stinson,DE,27,76,287,4,Alabama,Jets,Defense,527647,0.527647
+96,Denico Autry,DE,27,77,270,4,Mississippi State,Raiders,Defense,1797000,1.797
+--,Don Jones,DE,27,71,195,5,Arkansas State,49ers,Defense,NA,NA
+95,Tank Carradine,DE,27,76,270,5,Florida State,49ers,Defense,1100000,1.1
+92,Lavar Edwards,DE,27,76,271,5,LSU,Browns,Defense,136765,0.136765
+58,Datone Jones,DE,27,77,288,5,UCLA,Cowboys,Defense,227941,0.227941
+95,Derek Wolfe,DE,27,77,285,6,Cincinnati,Broncos,Defense,5500000,5.5
+54,Olivier Vernon,DE,27,74,262,6,Miami,Giants,Defense,11750000,11.75
+93,Lawrence Guy,DE,27,76,305,7,Arizona State,Patriots,Defense,900000,0.9
+64,A.J. Francis,DT,27,77,337,2,Maryland,Redskins,Defense,397936,0.397936
+95,Tenny Palepoi,DT,27,73,298,4,Utah,Chargers,Defense,470294,0.470294
+78,Justin Ellis,DT,27,74,335,4,Louisiana Tech,Raiders,Defense,1797000,1.797
+93,Ethan Westbrooks,DT,27,76,283,4,West Texas A&M,Rams,Defense,1282175,1.282175
+89,Chris Jones,DT,27,73,293,5,Bowling Green,49ers,Defense,800000,0.8
+96,Sealver Siliga,DT,27,74,345,5,Utah,Buccaneers,Defense,800000,0.8
+91,Quinton Dial,DT,27,77,318,5,Alabama,Packers,Defense,775001,0.775001
+91,Sheldon Richardson,DT,27,75,295,5,Missouri,Seahawks,Defense,8069000,8.069
+91,Fletcher Cox,DT,27,76,310,6,Mississippi State,Eagles,Defense,3000000,3
+90,Michael Brockers,DT,27,77,302,6,LSU,Rams,Defense,1250000,1.25
+95,Tyrunn Walker,DT,27,75,310,6,Tulsa,Rams,Defense,775000,0.775
+94,Corey Liuget,DT,27,74,300,7,Illinois,Chargers,Defense,8000000,8
+99,Marcell Dareus,DT,27,75,331,7,Alabama,Jaguars,Defense,9750000,9.75
+40,Derrick Coleman,FB,27,73,233,4,UCLA,Falcons,Offense,690000,0.69
+40,Tommy Bohanon,FB,27,73,246,4,Wake Forest,Jaguars,Offense,690000,0.69
+67,Chris Barker,G,27,74,300,2,Nevada,Browns,Offense,NA,NA
+65,Anthony Steen,G,27,76,320,2,Alabama,Dolphins,Offense,615000,0.615
+72,Ryan Groy,G,27,77,320,4,Wisconsin,Bills,Offense,1500000,1.5
+64,Kevin Pamphile,G,27,77,310,4,Purdue,Buccaneers,Offense,1797000,1.797
+70,Zack Martin,G,27,76,315,4,Notre Dame,Cowboys,Offense,1642882,1.642882
+71,Xavier Su'a-Filo,G,27,76,310,4,UCLA,Texans,Offense,1177036,1.177036
+71,Earl Watford,G,27,75,300,5,James Madison,Cardinals,Offense,592647,0.592647
+73,Joe Looney,G,27,75,315,5,Wake Forest,Cowboys,Offense,800000,0.8
+68,Austin Pasztor,G,27,79,305,5,Virginia,Falcons,Offense,775000,0.775
+67,Justin Pugh,G,27,77,311,5,Syracuse,Giants,Offense,8821000,8.821
+70,Kevin Zeitler,G,27,76,315,6,Wisconsin,Browns,Offense,6000000,6
+44,Deon Lacey,LB,27,75,235,1,West Alabama,Bills,Defense,465000,0.465
+50,Freddie Bishop,LB,27,75,255,1,Western Michigan,Jets,Defense,508240,0.50824
+47,James Cowser,LB,27,75,245,2,Southern Utah,Raiders,Defense,540000,0.54
+57,Howard Jones,LB,27,76,238,3,Shepherd,Bears,Defense,217059,0.217059
+53,Adarius Glanton,LB,27,73,230,3,Florida Atlantic,Buccaneers,Defense,690000,0.69
+45,Deontae Skinner,LB,27,73,241,3,Mississippi State,Giants,Defense,506464,0.506464
+50,Brock Coyle,LB,27,73,245,4,Montana,49ers,Defense,1000000,1
+49,Lamin Barrow,LB,27,73,237,4,LSU,Dolphins,Defense,NA,NA
+51,Julian Stanford,LB,27,73,230,4,Wagner,Jets,Defense,775000,0.775
+93,Trent Murphy,LB,27,78,259,4,Stanford,Redskins,Defense,NA,NA
+44,Dewey McDonald,LB,27,73,229,4,California (PA),Seahawks,Defense,690000,0.69
+51,Kevin Minter,LB,27,73,246,5,LSU,Bengals,Defense,800000,0.8
+51,John Simon,LB,27,73,250,5,Ohio State,Colts,Defense,1500000,1.5
+52,Barkevious Mingo,LB,27,76,239,5,LSU,Colts,Defense,1500000,1.5
+47,Kiko Alonso,LB,27,75,233,5,Oregon,Dolphins,Defense,1075000,1.075
+53,LaRoy Reynolds,LB,27,73,240,5,Virginia,Falcons,Defense,850000,0.85
+55,Lerentee McCray,LB,27,75,249,5,Florida,Jaguars,Defense,1500000,1.5
+47,David Bass,LB,27,76,267,5,Missouri Western,Jets,Defense,683824,0.683824
+58,Paul Worrilow,LB,27,73,230,5,Delaware,Lions,Defense,2000000,2
+50,Gerald Hodges,LB,27,74,236,5,Penn State,Saints,Defense,547059,0.547059
+51,Manti Te'o,LB,27,73,241,5,Notre Dame,Saints,Defense,850000,0.85
+52,Terence Garvin,LB,27,75,235,5,West Virginia,Seahawks,Defense,775000,0.775
+53,Daren Bates,LB,27,71,225,5,Auburn,Titans,Defense,1250000,1.25
+59,Danny Trevathan,LB,27,73,239,6,Kentucky,Bears,Defense,2000000,2
+55,Vontaze Burfict,LB,27,73,255,6,Arizona State,Bengals,Defense,6535529,6.535529
+55,Chandler Jones,LB,27,77,265,6,Syracuse,Cardinals,Defense,7000000,7
+95,Mychal Kendricks,LB,27,73,240,6,California,Eagles,Defense,4850000,4.85
+59,Tahir Whitehead,LB,27,74,241,6,Temple,Lions,Defense,3050000,3.05
+53,Nick Perry,LB,27,75,265,6,USC,Packers,Defense,1300000,1.3
+54,Dont'a Hightower,LB,27,75,265,6,Alabama,Patriots,Defense,1250000,1.25
+54,Bobby Wagner,LB,27,73,245,6,Utah State,Seahawks,Defense,4000000,4
+51,Sean Spence,LB,27,71,231,6,Miami,Steelers,Defense,729412,0.729412
+59,Whitney Mercilus,LB,27,76,260,6,Illinois,Texans,Defense,4500000,4.5
+94,Robert Quinn,LB,27,76,250,7,North Carolina,Rams,Defense,6161616,6.161616
+42,Casey Kreiter,LS,27,73,250,2,Iowa,Broncos,Special Teams,540000,0.54
+47,Charley Hughlett,LS,27,76,248,3,UCF,Browns,Special Teams,615000,0.615
+46,Aaron Brewer,LS,27,77,232,6,San Diego State,Cardinals,Special Teams,775000,0.775
+93,Deon Simon,NT,27,76,332,2,Northwestern State,Jets,Defense,NA,NA
+92,Dontari Poe,NT,27,75,346,6,Memphis,Falcons,Defense,7500000,7.5
+67,Jeremy Vujnovich,OT,27,77,300,1,Louisiana College,Colts,Offense,540000,0.54
+78,Kadeem Edwards,OT,27,76,315,2,Tennessee State,Cowboys,Offense,NA,NA
+70,Bryan Witzmann,OT,27,79,320,3,South Dakota State,Chiefs,Offense,540000,0.54
+77,Emmett Cleary,OT,27,79,320,3,Boston College,Lions,Offense,508235,0.508235
+77,David Quessenberry,OT,27,77,310,3,San Jose State,Texans,Offense,72353,0.072353
+76,Garry Gilliam,OT,27,77,315,4,Penn State,49ers,Offense,1400000,1.4
+78,Michael Schofield,OT,27,78,301,4,Michigan,Chargers,Offense,1797000,1.797
+61,Nick Becton,OT,27,78,322,4,Virginia Tech,Giants,Offense,NA,NA
+79,Jordan Mills,OT,27,77,316,5,Louisiana Tech,Bills,Offense,1350000,1.35
+72,Eric Fisher,OT,27,79,315,5,Central Michigan,Chiefs,Offense,6857977,6.857977
+65,Lane Johnson,OT,27,78,317,5,Oklahoma,Eagles,Offense,7750000,7.75
+73,Matt Tobin,OT,27,78,303,5,Iowa,Seahawks,Offense,850000,0.85
+77,Tyron Smith,OT,27,77,320,7,USC,Cowboys,Offense,1275000,1.275
+6,Colton Schmidt,P,27,71,224,4,UC Davis,Bills,Special Teams,850000,0.85
+9,Brad Wing,P,27,75,192,4,LSU,Giants,Special Teams,1125000,1.125
+5,Tress Way,P,27,73,216,4,Oklahoma,Redskins,Special Teams,1100000,1.1
+6,Sam Martin,P,27,73,211,5,Appalachian State,Lions,Special Teams,2225000,2.225
+6,Ryan Allen,P,27,74,220,5,Louisiana Tech,Patriots,Special Teams,1200000,1.2
+6,Johnny Hekker,P,27,77,241,6,Oregon State,Rams,Special Teams,2444444,2.444444
+2,Giorgio Tavecchio,PK,27,70,180,1,California,Raiders,Special Teams,465000,0.465
+4,Josh Lambo,PK,27,73,215,3,Texas A&M,Jaguars,Special Teams,397941,0.397941
+3,Dustin Hopkins,PK,27,74,203,4,Florida State,Redskins,Special Teams,690000,0.69
+5,AJ McCarron,QB,27,75,215,3,Alabama,Bengals,Offense,NA,NA
+9,David Fales,QB,27,74,212,3,San Jose State,Dolphins,Offense,405880,0.40588
+3,Tom Savage,QB,27,76,230,4,Pittsburgh,Texans,Offense,690000,0.69
+17,Brock Osweiler,QB,27,79,240,5,Arizona State,Broncos,Offense,775000,0.775
+9,Matt Barkley,QB,27,74,227,5,USC,Cardinals,Offense,NA,NA
+3,Geno Smith,QB,27,75,221,5,West Virginia,Giants,Offense,775000,0.775
+3,EJ Manuel,QB,27,76,237,5,Florida State,Raiders,Offense,775000,0.775
+7,Taysom Hill,QB,27,74,221,0,BYU,Saints,Offense,465000,0.465
+36,George Winn,RB,27,71,215,3,Cincinnati,Colts,Offense,NA,NA
+34,Cameron Artis-Payne,RB,27,70,215,3,Auburn,Panthers,Offense,615000,0.615
+28,Carlos Hyde,RB,27,73,235,4,Ohio State,49ers,Offense,822047,0.822047
+34,Charles Sims,RB,27,73,211,4,West Virginia,Buccaneers,Offense,764000,0.764
+38,Kenjon Barner,RB,27,69,195,4,Oregon,Eagles,Offense,568235,0.568235
+28,Terrance West,RB,27,70,225,4,Towson,Ravens,Offense,1797000,1.797
+25,Chris Thompson,RB,27,68,191,4,Florida State,Redskins,Offense,382942,0.382942
+33,Fitzgerald Toussaint,RB,27,69,204,4,Michigan,Steelers,Offense,243529,0.243529
+30,Benny Cunningham,RB,27,70,218,5,Middle Tennessee,Bears,Offense,775000,0.775
+38,Christine Michael,RB,27,70,221,5,Texas A&M,Colts,Offense,NA,NA
+34,Rex Burkhead,RB,27,70,210,5,Nebraska,Patriots,Offense,1800000,1.8
+35,Mike Gillislee,RB,27,71,219,5,Florida,Patriots,Offense,1500000,1.5
+42,Zach Line,RB,27,73,233,5,SMU,Saints,Offense,592644,0.592644
+27,Eddie Lacy,RB,27,71,250,5,Alabama,Seahawks,Offense,1365000,1.365
+22,Jordan Todman,RB,27,70,200,5,Connecticut,Texans,Offense,775000,0.775
+33,Dion Lewis,RB,27,68,195,6,Pittsburgh,Patriots,Offense,1200000,1.2
+32,Jacquizz Rodgers,RB,27,66,205,7,Oregon State,Buccaneers,Offense,1100000,1.1
+41,Erik Harris,S,27,75,225,2,California (PA),Raiders,Defense,540000,0.54
+25,Peyton Thompson,S,27,70,184,3,San Jose State,Jaguars,Defense,690000,0.69
+49,Daniel Sorensen,S,27,74,208,4,BYU,Chiefs,Defense,690000,0.69
+20,Lamarcus Joyner,S,27,68,190,4,Florida State,Rams,Defense,1105934,1.105934
+31,Chris Banjo,S,27,70,207,4,SMU,Saints,Defense,850000,0.85
+23,Micah Hyde,S,27,73,197,5,Iowa,Bills,Defense,2300000,2.3
+22,T.J. McDonald,S,27,74,223,5,USC,Dolphins,Defense,944445,0.944445
+31,Michael Thomas,S,27,71,195,5,Stanford,Dolphins,Defense,1797000,1.797
+30,Duron Harmon,S,27,73,205,5,Rutgers,Patriots,Defense,1500000,1.5
+30,Bradley McDougald,S,27,73,215,5,Kansas,Seahawks,Defense,800000,0.8
+37,Johnathan Cyprien,S,27,73,223,5,Florida Intl,Titans,Defense,NA,NA
+43,George Iloka,S,27,76,225,6,Boise State,Bengals,Defense,4000000,4
+23,Rodney McLeod,S,27,70,195,6,Virginia,Eagles,Defense,775000,0.775
+39,Tashaun Gipson,S,27,71,212,6,Wyoming,Jaguars,Defense,5000000,5
+32,Tavon Wilson,S,27,73,212,6,Illinois,Lions,Defense,900000,0.9
+20,Robert Golden,S,27,71,202,6,Arizona,Steelers,Defense,1465000,1.465
+89,Matt Lengel,TE,27,79,266,2,Eastern Kentucky,Browns,Offense,317647,0.317647
+82,Orson Charles,TE,27,75,247,3,Georgia,Chiefs,Offense,202940,0.20294
+89,Ryan Hewitt,TE,27,76,255,4,Stanford,Bengals,Offense,1700000,1.7
+85,Tyler Eifert,TE,27,78,255,5,Notre Dame,Bengals,Offense,4782000,4.782
+84,Jack Doyle,TE,27,78,262,5,Western Kentucky,Colts,Offense,1000000,1
+86,Zach Ertz,TE,27,77,250,5,Stanford,Eagles,Offense,775000,0.775
+81,Mychal Rivera,TE,27,75,245,5,Tennessee,Jaguars,Offense,NA,NA
+12,Chris Gragg,TE,27,75,244,5,Arkansas,Jets,Offense,NA,NA
+86,Derek Carrier,TE,27,76,244,5,Beloit College,Rams,Offense,950000,0.95
+86,Jordan Reed,TE,27,74,246,5,Florida,Redskins,Offense,3750000,3.75
+89,Josh Hill,TE,27,77,250,5,Idaho State,Saints,Offense,1650000,1.65
+89,Vance McDonald,TE,27,76,267,5,Rice,Steelers,Offense,2100000,2.1
+83,Dwayne Allen,TE,27,75,265,6,Clemson,Patriots,Offense,2500000,2.5
+17,Cobi Hamilton,WR,27,74,201,2,Arkansas,Texans,Offense,190590,0.19059
+12,Tavarres King,WR,27,73,192,3,Georgia,Giants,Offense,487059,0.487059
+12,John Brown,WR,27,71,179,4,Pittsburg State,Cardinals,Offense,1797000,1.797
+15,Nick Williams,WR,27,70,184,4,Connecticut,Falcons,Offense,690000,0.69
+11,Brenton Bersin,WR,27,75,210,4,Wofford,Panthers,Offense,365292,0.365292
+12,Michael Campanaro,WR,27,69,191,4,Wake Forest,Ravens,Offense,700000,0.7
+14,Ryan Grant,WR,27,73,204,4,Tulane,Redskins,Offense,690000,0.69
+19,Adam Thielen,WR,27,74,200,4,Minnesota State,Vikings,Offense,2746000,2.746
+11,Marquise Goodwin,WR,27,69,179,5,Texas,49ers,Offense,1950000,1.95
+19,Russell Shepard,WR,27,73,195,5,LSU,Panthers,Offense,1100000,1.1
+11,Tavon Austin,WR,27,68,179,5,West Virginia,Rams,Offense,3500000,3.5
+17,Alshon Jeffery,WR,27,75,218,6,South Carolina,Eagles,Offense,1000000,1
+10,Jermaine Kearse,WR,27,73,209,6,Washington,Jets,Offense,2200000,2.2
+11,Marvin Jones Jr.,WR,27,74,198,6,California,Lions,Offense,NA,NA
+18,Randall Cobb,WR,27,70,192,7,Kentucky,Packers,Offense,8600000,8.6
+75,Jon Halapio,C,26,75,315,1,Florida,Giants,Offense,355589,0.355589
+54,Dillon Day,C,26,76,299,1,Mississippi State,Packers,Offense,NA,NA
+69,Tyler Larsen,C,26,76,325,2,Utah,Panthers,Offense,540000,0.54
+67,B.J. Finney,C,26,76,318,2,Kansas State,Steelers,Offense,540000,0.54
+55,Hroniss Grasu,C,26,75,301,3,Oregon,Bears,Offense,687500,0.6875
+69,Brett Jones,C,26,74,312,3,University of Regina,Giants,Offense,615000,0.615
+70,Weston Richburg,C,26,76,300,4,Colorado State,Giants,Offense,1085093,1.085093
+65,Brandon Linder,C,26,78,315,4,Miami,Jaguars,Offense,5500000,5.5
+78,Jonotthan Harrison,C,26,76,300,4,Florida,Jets,Offense,700000,0.7
+63,Corey Linsley,C,26,75,301,4,Ohio State,Packers,Offense,1797000,1.797
+68,Justin Britt,C,26,78,315,4,Missouri,Seahawks,Offense,891400,0.8914
+74,Chris Hubbard,C,26,76,295,4,UAB,Steelers,Offense,1797000,1.797
+64,JC Tretter,C,26,76,307,5,Cornell,Browns,Offense,NA,NA
+72,Travis Frederick,C,26,76,320,5,Wisconsin,Cowboys,Offense,1296000,1.296
+61,Luke Bowanko,C,26,78,300,5,Virginia,Ravens,Offense,690000,0.69
+62,Brian Schwenke,C,26,75,318,5,California,Titans,Offense,775000,0.775
+29,Ronald Zamort,CB,26,70,174,1,Western Michigan,Cardinals,Defense,NA,NA
+32,Troy Hill,CB,26,71,184,2,Oregon,Rams,Defense,542647,0.542647
+37,Greg Ducre,CB,26,70,183,2,Washington,Steelers,Defense,NA,NA
+24,K'Waun Williams,CB,26,69,183,3,Pittsburgh,49ers,Defense,615000,0.615
+37,Bryce Callahan,CB,26,69,188,3,Rice,Bears,Defense,615000,0.615
+40,Keith Reaser,CB,26,73,190,3,Florida Atlantic,Chiefs,Defense,121765,0.121765
+23,Dexter McDonald,CB,26,73,200,3,Kansas,Raiders,Defense,615000,0.615
+25,Jimmie Ward,CB,26,71,193,4,Northern Illinois,49ers,Defense,690000,0.69
+36,Dontae Johnson,CB,26,74,200,4,NC State,49ers,Defense,690000,0.69
+21,Darqueze Dennard,CB,26,71,205,4,Michigan State,Bengals,Defense,988032,0.988032
+22,Jason Verrett,CB,26,70,188,4,TCU,Chargers,Defense,860000,0.86
+23,Phillip Gaines,CB,26,73,193,4,Rice,Chiefs,Defense,700000,0.7
+23,Bene Benwikere,CB,26,73,195,4,San Jose State,Cowboys,Defense,690000,0.69
+37,Ross Cockrell,CB,26,73,191,4,Duke,Giants,Defense,1000000,1
+22,Aaron Colvin,CB,26,73,193,4,Oklahoma,Jaguars,Defense,1797000,1.797
+24,Nevin Lawson,CB,26,69,192,4,Utah State,Lions,Defense,1797000,1.797
+26,Bashaud Breeland,CB,26,71,195,4,Clemson,Redskins,Defense,1797000,1.797
+40,Marcus Williams,CB,26,71,196,4,North Dakota State,Texans,Defense,2746000,2.746
+21,A.J. Bouye,CB,26,73,191,5,UCF,Jaguars,Defense,3000000,3
+29,David Amerson,CB,26,73,205,5,NC State,Raiders,Defense,650000,0.65
+23,Nickell Robey-Coleman,CB,26,68,178,5,USC,Rams,Defense,775000,0.775
+26,Logan Ryan,CB,26,71,195,5,Rutgers,Titans,Defense,5000000,5
+44,Donatello Brown,CB,26,73,190,0,Valdosta State,Packers,Defense,246177,0.246177
+96,Martin Ifedi,DE,26,75,275,1,Memphis,Falcons,Defense,NA,NA
+61,Kerry Hyder,DE,26,74,270,2,Texas Tech,Lions,Defense,NA,NA
+92,Bronson Kaufusi,DE,26,78,285,2,BYU,Ravens,Defense,603500,0.6035
+96,Shelby Harris,DE,26,74,290,3,Illinois State,Broncos,Defense,615000,0.615
+98,Jamie Meder,DE,26,75,308,3,Ashland,Browns,Defense,615000,0.615
+95,Ryan Russell,DE,26,77,275,3,Purdue,Buccaneers,Defense,615000,0.615
+40,Chris McCain,DE,26,77,236,3,California,Chargers,Defense,615000,0.615
+75,Xavier Cooper,DE,26,76,300,3,Washington State,Jets,Defense,325588,0.325588
+51,Brandon Copeland,DE,26,75,263,3,Pennsylvania,Lions,Defense,NA,NA
+96,Matt Longacre,DE,26,75,255,3,Northwest Missouri State,Rams,Defense,615000,0.615
+94,Will Clarke,DE,26,78,275,4,West Virginia,Buccaneers,Defense,690000,0.69
+78,Terrence Fede,DE,26,76,267,4,Marist,Dolphins,Defense,690000,0.69
+72,Kerry Wynn,DE,26,77,264,4,Richmond,Giants,Defense,1797000,1.797
+94,Kony Ealy,DE,26,76,275,4,Missouri,Jets,Defense,803660,0.80366
+52,Khalil Mack,DE,26,75,250,4,Buffalo,Raiders,Defense,690000,0.69
+96,Brent Urban,DE,26,79,300,4,Virginia,Ravens,Defense,690000,0.69
+90,DaQuan Jones,DE,26,76,322,4,Penn State,Titans,Defense,1797000,1.797
+92,William Gholston,DE,26,78,281,5,Michigan State,Buccaneers,Defense,3000000,3
+93,Benson Mayowa,DE,26,75,265,5,Idaho,Cowboys,Defense,1500000,1.5
+57,Alex Okafor,DE,26,76,261,5,Texas,Saints,Defense,935000,0.935
+72,Olsen Pierre,DT,26,76,293,2,Miami,Cardinals,Defense,540000,0.54
+96,Kaleb Eulls,DT,26,76,309,2,Mississippi State,Chargers,Defense,NA,NA
+99,Robert Thomas,DT,26,73,331,2,Arkansas,Giants,Defense,540000,0.54
+95,Rodney Gunter,DT,26,77,305,3,Delaware State,Cardinals,Defense,615000,0.615
+94,Xavier Williams,DT,26,74,309,3,Northern Iowa,Cardinals,Defense,615000,0.615
+96,Henry Anderson,DT,26,78,301,3,Stanford,Colts,Defense,629500,0.6295
+97,Josh Mauro,DT,26,78,282,4,Stanford,Cardinals,Defense,750000,0.75
+68,Caraun Reid,DT,26,74,298,4,Princeton,Colts,Defense,81176,0.081176
+94,Beau Allen,DT,26,75,327,4,Wisconsin,Eagles,Defense,690000,0.69
+98,Mike Pennel,DT,26,76,332,4,Colorado State-Pueblo,Jets,Defense,690000,0.69
+99,Aaron Donald,DT,26,73,280,4,Pittsburgh,Rams,Defense,1802250,1.80225
+98,Garrison Smith,DT,26,73,295,4,Georgia,Seahawks,Defense,476471,0.476471
+93,Shamar Stephen,DT,26,77,310,4,Connecticut,Vikings,Defense,1797000,1.797
+95,Abry Jones,DT,26,76,318,5,Georgia,Jaguars,Defense,2500000,2.5
+97,Akeem Spence,DT,26,73,307,5,Illinois,Lions,Defense,1250000,1.25
+97,Stevie Tu'ikolovatu,DT,26,73,320,0,USC,Buccaneers,Defense,NA,NA
+46,Michael Burton,FB,26,73,240,3,Rutgers,Bears,Offense,615000,0.615
+44,Kyle Juszczyk,FB,26,73,240,5,Harvard,49ers,Offense,2000000,2
+67,Michael Liedtke,G,26,75,305,1,Illinois State,Buccaneers,Offense,NA,NA
+62,Austin Reiter,G,26,74,300,2,South Florida,Browns,Offense,540000,0.54
+77,John Fullington,G,26,77,300,2,Washington State,Saints,Offense,NA,NA
+76,Max Garcia,G,26,76,309,3,Florida,Broncos,Offense,615000,0.615
+60,A.J. Cann,G,26,75,325,3,South Carolina,Jaguars,Offense,721000,0.721
+69,Tyler Shatley,G,26,75,310,3,Clemson,Jaguars,Offense,690000,0.69
+73,Josh Walker,G,26,77,330,3,Middle Tennessee,Jaguars,Offense,615000,0.615
+67,Zac Kerin,G,26,76,305,3,Toledo,Lions,Offense,615000,0.615
+61,David Yankey,G,26,78,315,3,Stanford,Panthers,Offense,NA,NA
+75,Brandon Scherff,G,26,77,319,3,Iowa,Redskins,Offense,615000,0.615
+67,Quinton Spain,G,26,76,330,3,West Virginia,Titans,Offense,615000,0.615
+77,Billy Turner,G,26,77,310,4,North Dakota State,Broncos,Offense,794000,0.794
+75,Joel Bitonio,G,26,76,305,4,Nevada,Browns,Offense,3164777,3.164777
+73,Zach Fulton,G,26,77,316,4,Tennessee,Chiefs,Offense,1788500,1.7885
+76,Laurent Duvernay-Tardif,G,26,77,321,4,--,Chiefs,Offense,690000,0.69
+70,Dakota Dozier,G,26,76,313,4,Furman,Jets,Offense,690000,0.69
+68,Andrew Norwell,G,26,78,325,4,Ohio State,Panthers,Offense,2746000,2.746
+66,Gabe Jackson,G,26,75,335,4,Mississippi State,Raiders,Offense,5250000,5.25
+66,Ryan Jensen,G,26,76,319,4,Colorado State-Pueblo,Ravens,Offense,1797000,1.797
+75,Jeremiah Sirles,G,26,78,315,4,Nebraska,Vikings,Offense,690000,0.69
+67,Chance Warmack,G,26,74,323,5,Alabama,Eagles,Offense,760000,0.76
+76,D.J. Fluker,G,26,77,345,5,Alabama,Giants,Offense,1500000,1.5
+67,Brian Winters,G,26,76,320,5,Kent State,Jets,Offense,1000000,1
+67,Larry Warford,G,26,75,317,5,Kentucky,Saints,Offense,1700000,1.7
+75,Oday Aboushi,G,26,77,315,5,Virginia,Seahawks,Offense,775000,0.775
+78,Luke Joeckel,G,26,78,307,5,Texas A&M,Seahawks,Offense,2750000,2.75
+53,Edwin Jackson,LB,26,73,234,2,Georgia Southern,Colts,Defense,NA,NA
+45,Mike Hull,LB,26,73,232,2,Penn State,Dolphins,Defense,615000,0.615
+51,Kyler Fackrell,LB,26,77,245,2,Utah State,Packers,Defense,560000,0.56
+58,Jonathan Anderson,LB,26,75,237,3,TCU,Bears,Defense,615000,0.615
+44,Markus Golden,LB,26,75,260,3,Missouri,Cardinals,Defense,791212,0.791212
+48,Nick Dzubnar,LB,26,73,240,3,Cal Poly,Chargers,Defense,542647,0.542647
+51,Kyle Emanuel,LB,26,75,250,3,North Dakota State,Chargers,Defense,615000,0.615
+59,Jeremiah George,LB,26,71,234,3,Iowa State,Colts,Defense,615000,0.615
+57,Obum Gwacham,LB,26,77,246,3,Oregon State,Jets,Defense,470294,0.470294
+48,Joe Thomas,LB,26,73,227,3,South Carolina State,Packers,Defense,8800000,8.8
+56,Zach Vigil,LB,26,74,238,3,Utah State,Redskins,Defense,253235,0.253235
+58,D.J. Alexander,LB,26,74,233,3,Oregon State,Seahawks,Defense,615000,0.615
+52,Christian Jones,LB,26,75,245,4,Florida State,Bears,Defense,1000000,1
+55,Dee Ford,LB,26,74,252,4,Auburn,Chiefs,Defense,957704,0.957704
+57,Kevin Pierre-Louis,LB,26,73,230,4,Boston College,Chiefs,Defense,690000,0.69
+52,Jordan Tripp,LB,26,75,234,4,Montana,Falcons,Defense,690000,0.69
+59,Devon Kennard,LB,26,76,256,4,USC,Giants,Defense,1797000,1.797
+50,Telvin Smith,LB,26,75,215,4,Florida State,Jaguars,Defense,1797000,1.797
+53,Kyle Van Noy,LB,26,75,243,4,BYU,Patriots,Defense,990741,0.990741
+57,Jon Bostic,LB,26,73,245,5,Florida,Colts,Defense,NA,NA
+55,Ray-Ray Armstrong,LB,26,75,220,5,Miami,Giants,Defense,294118,0.294118
+95,Josh Martin,LB,26,75,245,5,Columbia,Jets,Defense,1550000,1.55
+52,Alec Ogletree,LB,26,74,235,5,Georgia,Rams,Defense,8369000,8.369
+53,A.J. Klein,LB,26,73,240,5,Iowa State,Saints,Defense,1700000,1.7
+59,Luke Kuechly,LB,26,75,238,6,Boston College,Panthers,Defense,7363324,7.363324
+77,Jesse Davis,OT,26,78,321,1,Idaho,Dolphins,Offense,465000,0.465
+75,William Poehls,OT,26,80,344,1,Montana,Jaguars,Offense,NA,NA
+71,Dan France,OT,26,78,315,1,Michigan State,Panthers,Offense,NA,NA
+66,Tyrus Thompson,OT,26,77,330,1,Oklahoma,Seahawks,Offense,NA,NA
+72,Shon Coleman,OT,26,79,310,2,Auburn,Browns,Offense,568000,0.568
+73,John Wetzel,OT,26,79,328,2,Boston College,Cardinals,Offense,540000,0.54
+67,Stephane Nembot,OT,26,78,320,2,Colorado,Ravens,Offense,NA,NA
+69,Rashod Hill,OT,26,78,313,2,Southern Mississippi,Vikings,Offense,540000,0.54
+71,Denzelle Good,OT,26,77,345,3,Mars Hill,Colts,Offense,615000,0.615
+72,Josh Wells,OT,26,78,306,3,James Madison,Jaguars,Offense,615000,0.615
+79,Brent Qvale,OT,26,79,315,3,Nebraska,Jets,Offense,615000,0.615
+69,T.J. Clemmings,OT,26,77,309,3,Pittsburgh,Redskins,Offense,615000,0.615
+72,Charles Leno Jr.,OT,26,75,306,4,Boise State,Bears,Offense,NA,NA
+66,Seantrel Henderson,OT,26,79,331,4,Miami,Bills,Offense,487058,0.487058
+75,Jack Mewhort,OT,26,78,305,4,Ohio State,Colts,Offense,907337,0.907337
+73,Cornelius Lucas,OT,26,81,330,4,Kansas State,Rams,Offense,649412,0.649412
+74,James Hurst,OT,26,77,317,4,North Carolina,Ravens,Offense,700000,0.7
+76,Morgan Moses,OT,26,78,335,4,Virginia,Redskins,Offense,1297000,1.297
+77,Taylor Lewan,OT,26,79,309,4,Michigan,Titans,Offense,1986136,1.986136
+69,David Bakhtiari,OT,26,76,310,5,Colorado,Packers,Offense,775000,0.775
+68,LaAdrian Waddle,OT,26,78,315,5,Texas Tech,Patriots,Offense,800000,0.8
+72,Terron Armstead,OT,26,77,304,5,Arkansas-Pine Bluff,Saints,Offense,4200000,4.2
+2,Kasey Redfern,P,26,73,205,1,Wofford,Lions,Special Teams,465000,0.465
+4,Jordan Berry,P,26,77,195,3,Eastern Kentucky,Steelers,Special Teams,615000,0.615
+16,Pat O'Donnell,P,26,76,217,4,Miami,Bears,Special Teams,690000,0.69
+9,Chris Boswell,PK,26,74,185,3,Rice,Steelers,Special Teams,615000,0.615
+2,Cairo Santos,PK,26,68,160,4,Tulane,Bears,Special Teams,243529,0.243529
+8,Brandon McManus,PK,26,75,201,4,Temple,Broncos,Special Teams,2746000,2.746
+7,Patrick Murray,PK,26,67,182,4,Fordham,Buccaneers,Special Teams,381176,0.381176
+7,Chandler Catanzaro,PK,26,75,200,4,Clemson,Jets,Special Teams,900000,0.9
+4,Garrett Gilbert,QB,26,76,230,1,SMU,Panthers,Offense,NA,NA
+13,Trevor Siemian,QB,26,75,220,3,Northwestern,Broncos,Offense,615000,0.615
+9,Bryce Petty,QB,26,75,230,3,Baylor,Jets,Offense,615000,0.615
+10,Jimmy Garoppolo,QB,26,74,225,4,Eastern Illinois,49ers,Offense,820077,0.820077
+4,Derek Carr,QB,26,75,215,4,Fresno State,Raiders,Offense,5000000,5
+9,Tyler Bray,QB,26,78,225,5,Tennessee,Chiefs,Offense,1252500,1.2525
+32,David Fluellen,RB,26,71,224,1,Toledo,Titans,Offense,540000,0.54
+31,Mack Brown,RB,26,71,213,2,Florida,Vikings,Offense,540000,0.54
+45,Marcus Murphy,RB,26,69,195,3,Missouri,Bills,Offense,36176,0.036176
+31,David Johnson,RB,26,73,224,3,Northern Iowa,Cardinals,Offense,615000,0.615
+45,Rod Smith,RB,26,75,235,3,Ohio State,Cowboys,Offense,615000,0.615
+34,Senorise Perry,RB,26,73,210,3,Louisville,Dolphins,Offense,540000,0.54
+30,Corey Grant,RB,26,71,203,3,Auburn,Jaguars,Offense,615000,0.615
+34,Zach Zenner,RB,26,71,221,3,South Dakota State,Lions,Offense,615000,0.615
+37,Javorius Allen,RB,26,73,222,3,USC,Ravens,Offense,615000,0.615
+33,Kerwynn Williams,RB,26,68,198,4,Utah State,Cardinals,Offense,690000,0.69
+32,Branden Oliver,RB,26,68,208,4,Buffalo,Chargers,Offense,750000,0.75
+32,Spencer Ware,RB,26,70,229,4,LSU,Chiefs,Offense,NA,NA
+35,Charcandrick West,RB,26,70,205,4,Abilene Christian,Chiefs,Offense,700000,0.7
+39,Mike James,RB,26,70,223,4,Miami,Lions,Offense,NA,NA
+28,Alfred Blue,RB,26,74,225,4,LSU,Texans,Offense,690000,0.69
+25,Giovani Bernard,RB,26,69,205,5,North Carolina,Bengals,Offense,1600000,1.6
+22,C.J. Anderson,RB,26,68,224,5,California,Broncos,Offense,2900000,2.9
+25,Theo Riddick,RB,26,69,201,5,Notre Dame,Lions,Offense,1075000,1.075
+26,Lamar Miller,RB,26,70,225,6,Miami,Texans,Offense,5500000,5.5
+27,Dexter McCoil,S,26,76,220,2,Tulsa,49ers,Defense,540000,0.54
+20,Sharrod Neasman,S,26,71,213,2,Florida Atlantic,Falcons,Defense,540000,0.54
+26,Jaylen Watkins,S,26,71,194,3,Florida,Eagles,Defense,690000,0.69
+37,Ricardo Allen,S,26,69,186,3,Purdue,Falcons,Defense,615000,0.615
+23,Kurtis Drummond,S,26,73,210,3,Michigan State,Texans,Defense,615000,0.615
+41,Anthony Harris,S,26,73,192,3,Virginia,Vikings,Defense,615000,0.615
+40,Antone Exum Jr.,S,26,73,219,4,Virginia Tech,49ers,Defense,NA,NA
+35,Walt Aikens,S,26,73,212,4,Liberty,Dolphins,Defense,690000,0.69
+29,Nat Berhe,S,26,71,195,4,San Diego State,Giants,Defense,690000,0.69
+27,J.J. Wilcox,S,26,73,212,4,Georgia Southern,Steelers,Defense,2125000,2.125
+35,Eric Reid,S,26,73,213,5,LSU,49ers,Defense,5676000,5.676
+36,Shawn Williams,S,26,73,210,5,Georgia,Bengals,Defense,3100000,3.1
+21,Jordan Poyer,S,26,73,191,5,Oregon State,Bills,Defense,1500000,1.5
+29,Shamarko Thomas,S,26,69,205,5,Syracuse,Bills,Defense,592647,0.592647
+38,Jeff Heath,S,26,73,212,5,Saginaw Valley,Cowboys,Defense,1471000,1.471
+36,Kemal Ishmael,S,26,73,206,5,UCF,Falcons,Defense,1250000,1.25
+23,Tony Jefferson,S,26,71,215,5,Oklahoma,Ravens,Defense,3000000,3
+36,D.J. Swearinger,S,26,70,205,5,South Carolina,Redskins,Defense,2000000,2
+32,Kenny Vaccaro,S,26,73,214,5,Texas,Saints,Defense,5676000,5.676
+88,Vince Mayle,TE,26,74,247,2,Washington State,Ravens,Offense,540000,0.54
+88,Khari Lee,TE,26,76,253,3,Bowie State Bulldogs,Bills,Offense,615000,0.615
+82,Logan Thomas,TE,26,78,250,3,Virginia Tech,Bills,Offense,700000,0.7
+84,Cameron Brate,TE,26,77,245,3,Harvard,Buccaneers,Offense,690000,0.69
+85,Gabe Holmes,TE,26,76,255,3,Purdue,Cardinals,Offense,95294,0.095294
+85,A.J. Derby,TE,26,77,255,3,Arkansas,Dolphins,Offense,615000,0.615
+80,James O'Shaughnessy,TE,26,76,245,3,Illinois State,Jaguars,Offense,615000,0.615
+85,Neal Sterling,TE,26,76,257,3,Monmouth,Jets,Offense,615000,0.615
+88,Clive Walford,TE,26,76,250,3,Miami,Raiders,Offense,710646,0.710646
+81,Blake Bell,TE,26,78,252,3,Oklahoma,Vikings,Offense,615000,0.615
+84,Demetrius Harris,TE,26,79,230,4,--,Chiefs,Offense,1100000,1.1
+88,Trey Burton,TE,26,75,235,4,Florida,Eagles,Offense,2746000,2.746
+82,Richard Rodgers,TE,26,76,257,4,California,Packers,Offense,1787000,1.787
+80,Crockett Gillmore,TE,26,78,266,4,Colorado State,Ravens,Offense,NA,NA
+87,C.J. Fiedorowicz,TE,26,77,265,4,Iowa,Texans,Offense,3097000,3.097
+88,Dion Sims,TE,26,76,268,5,Michigan State,Bears,Offense,2000000,2
+80,Levine Toilolo,TE,26,80,265,5,Stanford,Falcons,Offense,1500000,1.5
+87,Rashawn Scott,WR,26,73,199,1,Miami,Dolphins,Offense,540000,0.54
+17,Bernard Reedy,WR,26,68,175,1,Toledo,Patriots,Offense,136765,0.136765
+83,Matt Hazel,WR,26,73,195,2,Coastal Carolina,Browns,Offense,95294,0.095294
+16,Freddie Martino,WR,26,73,195,2,North Greenville,Buccaneers,Offense,289408,0.289408
+16,Johnny Holton,WR,26,73,190,2,Cincinnati,Raiders,Offense,540000,0.54
+11,DeAndrew White,WR,26,73,192,2,Alabama,Texans,Offense,109412,0.109412
+17,Jeremy Butler,WR,26,74,213,3,UT Martin,Bills,Offense,NA,NA
+16,Bennie Fowler III,WR,26,73,212,3,Michigan State,Broncos,Offense,NA,NA
+12,Josh Gordon,WR,26,75,225,3,Utah,Browns,Offense,1068406,1.068406
+11,Geremy Davis,WR,26,75,211,3,Connecticut,Chargers,Offense,615000,0.615
+89,Isaiah Burse,WR,26,70,187,3,Fresno State,Chargers,Offense,NA,NA
+14,Justin Hardy,WR,26,70,192,3,East Carolina,Falcons,Offense,615000,0.615
+12,Kaelin Clay,WR,26,70,195,3,Utah,Panthers,Offense,540000,0.54
+10,Seth Roberts,WR,26,74,195,3,West Alabama,Raiders,Offense,615000,0.615
+10,Martavis Bryant,WR,26,76,211,3,Clemson,Steelers,Offense,615000,0.615
+13,Kelvin Benjamin,WR,26,77,245,4,Florida State,Bills,Offense,1000000,1
+18,Taylor Gabriel,WR,26,68,165,4,Abilene Christian,Falcons,Offense,2746000,2.746
+11,Marqise Lee,WR,26,73,196,4,USC,Jaguars,Offense,1125549,1.125549
+88,Allen Hurns,WR,26,75,201,4,Miami,Jaguars,Offense,7000000,7
+83,Jeff Janis,WR,26,75,219,4,Saginaw Valley,Packers,Offense,690000,0.69
+12,Bruce Ellington,WR,26,69,200,4,South Carolina,Texans,Offense,690000,0.69
+12,Markus Wheaton,WR,26,71,185,5,Oregon State,Bears,Offense,3000000,3
+84,Cordarrelle Patterson,WR,26,74,220,5,Tennessee,Raiders,Offense,2500000,2.5
+11,Justin Hunter,WR,26,76,203,5,Tennessee,Steelers,Offense,775000,0.775
+3,Brisly Estime,WR,25,69,176,0,Syracuse,Jets,Offense,NA,NA
+62,Daniel Munyer,C,25,73,305,1,Colorado,Cardinals,Offense,465000,0.465
+72,Aaron Neary,C,25,76,301,1,Eastern Washington,Rams,Offense,27353,0.027353
+66,Jack Allen,C,25,74,296,1,Michigan State,Saints,Offense,NA,NA
+65,Cody Whitehair,C,25,76,310,2,Kansas State,Bears,Offense,642026,0.642026
+64,Jake Brendel,C,25,76,299,2,UCLA,Dolphins,Offense,540000,0.54
+60,Graham Glasgow,C,25,78,310,2,Michigan,Lions,Offense,558500,0.5585
+66,Austin Blythe,C,25,75,300,2,Iowa,Rams,Offense,540000,0.54
+61,Mitch Morse,C,25,78,305,3,Missouri,Chiefs,Offense,834826,0.834826
+60,David Andrews,C,25,75,295,3,Georgia,Patriots,Offense,615000,0.615
+62,James Stone,C,25,75,291,3,Tennessee,Raiders,Offense,72353,0.072353
+65,Greg Mancz,C,25,76,300,3,Toledo,Texans,Offense,615000,0.615
+62,Nick Easton,C,25,75,303,3,Harvard,Vikings,Offense,615000,0.615
+61,Russell Bodine,C,25,75,308,4,North Carolina,Bengals,Offense,1797000,1.797
+74,Demetrius Rhaney,C,25,74,301,4,Tennessee State,Redskins,Offense,243529,0.243529
+26,Herb Waters,CB,25,73,188,1,Miami,Packers,Defense,NA,NA
+22,William Jackson III,CB,25,73,190,2,Houston,Bengals,Defense,NA,NA
+30,Lafayette Pitts,CB,25,71,195,2,Pittsburgh,Bills,Defense,540000,0.54
+41,Mike Jordan,CB,25,73,200,2,Missouri Western,Browns,Defense,540000,0.54
+26,Brandon Williams,CB,25,73,200,2,Texas A&M,Cardinals,Defense,775000,0.775
+28,Chris Milton,CB,25,71,196,2,Georgia Tech,Colts,Defense,NA,NA
+34,Brian Poole,CB,25,69,213,2,Florida,Falcons,Defense,540000,0.54
+28,Josh Hawkins,CB,25,70,189,2,East Carolina,Packers,Defense,540000,0.54
+32,Antonio Hamilton,CB,25,73,190,2,South Carolina State,Raiders,Defense,540000,0.54
+2,DeAndre Elliott,CB,25,73,189,2,Colorado State,Seahawks,Defense,NA,NA
+26,Josh Shaw,CB,25,73,190,3,USC,Bengals,Defense,615000,0.615
+29,Craig Mager,CB,25,71,200,3,Texas State,Chargers,Defense,615000,0.615
+20,Steven Nelson,CB,25,71,194,3,Oregon State,Chiefs,Defense,618500,0.6185
+22,Marcus Peters,CB,25,73,197,3,Washington,Chiefs,Defense,1306287,1.306287
+36,Tony Lippett,CB,25,75,192,3,Michigan State,Dolphins,Defense,NA,NA
+28,Quandre Diggs,CB,25,69,200,3,Texas,Lions,Defense,615000,0.615
+23,Damarious Randall,CB,25,71,196,3,Arizona State,Packers,Defense,1154612,1.154612
+24,Quinten Rollins,CB,25,71,195,3,Miami (OH),Packers,Defense,775233,0.775233
+23,LaDarius Gunter,CB,25,74,201,3,Miami,Panthers,Defense,615000,0.615
+25,Eric Rowe,CB,25,73,205,3,Utah,Patriots,Defense,878623,0.878623
+47,Quinton Dunbar,CB,25,74,197,3,Florida,Redskins,Defense,615000,0.615
+30,Kevin Johnson,CB,25,73,190,3,Wake Forest,Texans,Defense,1348583,1.348583
+35,Curtis Riley,CB,25,73,190,3,Fresno State,Titans,Defense,540000,0.54
+26,Trae Waynes,CB,25,73,190,3,Michigan State,Vikings,Defense,1611761,1.611761
+23,Kyle Fuller,CB,25,71,190,4,Virginia Tech,Bears,Defense,1740955,1.740955
+28,E.J. Gaines,CB,25,70,185,4,Missouri,Bills,Defense,1797000,1.797
+29,Bradley Roby,CB,25,71,194,4,Ohio State,Broncos,Defense,1018072,1.018072
+25,Kenneth Acker,CB,25,73,195,4,SMU,Chiefs,Defense,690000,0.69
+39,Terrance Mitchell,CB,25,71,190,4,Oregon,Chiefs,Defense,690000,0.69
+27,Isaiah Johnson,DB,25,73,207,2,Georgia Tech,Rams,Defense,355589,0.355589
+75,Cap Capi,DE,25,75,249,1,Akron,Bills,Defense,NA,NA
+48,Christian French,DE,25,77,245,1,Oregon,Seahawks,Defense,NA,NA
+93,Branden Jackson,DE,25,76,270,1,Texas Tech,Seahawks,Defense,412941,0.412941
+98,Ronald Blair III,DE,25,76,270,2,Appalachian State,49ers,Defense,NA,NA
+99,Adam Gotsis,DE,25,76,287,2,Georgia Tech,Broncos,Defense,628996,0.628996
+71,Channing Ward,DE,25,76,279,2,Ole Miss,Buccaneers,Defense,63529,0.063529
+94,Randy Gregory,DE,25,77,255,2,Nebraska,Cowboys,Defense,NA,NA
+92,Brandon Dunn,DE,25,74,300,2,Louisville,Texans,Defense,690000,0.69
+94,Ufomba Kamalu,DE,25,78,300,2,Miami,Texans,Defense,540000,0.54
+44,Nate Orchard,DE,25,76,255,3,Utah,Browns,Defense,841028,0.841028
+97,Anthony Johnson,DE,25,74,295,3,LSU,Colts,Defense,144706,0.144706
+96,Geneo Grissom,DE,25,76,265,3,Oklahoma,Patriots,Defense,542647,0.542647
+44,Hau'oli Kikaha,DE,25,75,246,3,Washington,Saints,Defense,913755,0.913755
+96,L.T. Walton,DE,25,77,305,3,Central Michigan,Steelers,Defense,NA,NA
+97,Angelo Blackson,DE,25,76,318,3,Auburn,Texans,Defense,325588,0.325588
+54,Cassius Marsh,DE,25,76,245,4,UCLA,49ers,Defense,690000,0.69
+94,Chris Smith,DE,25,73,266,4,Arkansas,Bengals,Defense,690000,0.69
+90,DeMarcus Lawrence,DE,25,75,265,4,Boise State,Cowboys,Defense,1170907,1.170907
+97,Marcus Smith II,DE,25,75,258,4,Louisville,Seahawks,Defense,NA,NA
+59,Carroll Phillips,DE,25,75,242,0,Illinois,Jaguars,Defense,136765,0.136765
+76,Richard Ash,DT,25,75,320,1,Western Michigan,Cowboys,Defense,349415,0.349415
+92,Adolphus Washington,DT,25,76,295,2,Ohio State,Bills,Defense,540000,0.54
+55,Christian Ringo,DT,25,73,298,2,Louisiana,Lions,Defense,190588,0.190588
+69,Anthony Zettel,DT,25,76,270,2,Penn State,Lions,Defense,540000,0.54
+97,Michael Pierce,DT,25,73,340,2,Samford,Ravens,Defense,540000,0.54
+93,David Onyemata,DT,25,76,300,2,Manitoba,Saints,Defense,540000,0.54
+96,Woodrow Hamilton,DT,25,75,315,2,Ole Miss,Saints,Defense,NA,NA
+90,Jarran Reed,DT,25,75,306,2,Alabama,Seahawks,Defense,672256,0.672256
+97,Jordan Phillips,DT,25,78,333,3,Oklahoma,Dolphins,Defense,831628,0.831628
+98,Gabe Wright,DT,25,75,305,3,Auburn,Dolphins,Defense,NA,NA
+94,Carl Davis,DT,25,77,321,3,Iowa,Ravens,Defense,630750,0.63075
+59,David Parry,DT,25,74,317,3,Stanford,Saints,Defense,542647,0.542647
+95,Tyeler Davison,DT,25,74,309,3,Fresno State,Saints,Defense,615000,0.615
+93,Tim Jernigan,DT,25,74,295,4,Florida State,Eagles,Defense,NA,NA
+96,Jay Bromley,DT,25,75,314,4,Syracuse,Giants,Defense,725000,0.725
+91,Dominique Easley,DT,25,74,273,4,Florida,Rams,Defense,NA,NA
+93,Daniel McCullers,DT,25,79,352,4,Tennessee,Steelers,Defense,690000,0.69
+95,Johnathan Hankins,DT,25,74,325,5,Ohio State,Colts,Defense,3000000,3
+90,Treyvon Hester,DT,25,74,304,0,Toledo,Raiders,Defense,465000,0.465
+42,Malcolm Johnson,FB,25,73,231,2,Mississippi State,49ers,Offense,NA,NA
+34,Derek Watt,FB,25,74,234,2,Wisconsin,Chargers,Offense,540000,0.54
+40,Joe Kerridge,FB,25,73,245,2,Michigan,Packers,Offense,222353,0.222353
+22,Aaron Ripkowski,FB,25,73,246,3,Oklahoma,Packers,Offense,615000,0.615
+45,Roosevelt Nix,FB,25,71,248,3,Kent State,Steelers,Offense,615000,0.615
+41,Keith Smith,FB,25,73,240,4,San Jose State,Cowboys,Offense,690000,0.69
+45,Jay Prosch,FB,25,73,255,4,Auburn,Texans,Offense,690000,0.69
+64,Justin McCray,G,25,75,317,1,UCF,Packers,Offense,465000,0.465
+66,Trey Hopkins,G,25,75,310,2,Texas,Bengals,Offense,465000,0.465
+66,Spencer Drango,G,25,78,315,2,Baylor,Browns,Offense,540000,0.54
+63,Donavon Clark,G,25,76,315,2,Michigan State,Chargers,Offense,NA,NA
+79,Parker Ehinger,G,25,78,310,2,Cincinnati,Chiefs,Offense,540000,0.54
+75,Jamil Douglas,G,25,76,308,2,Arizona State,Falcons,Offense,NA,NA
+64,Chris Reed,G,25,77,310,2,Minnesota State,Jaguars,Offense,412945,0.412945
+62,Joe Thuney,G,25,77,305,2,NC State,Patriots,Offense,540000,0.54
+68,Ian Silberman,G,25,77,305,2,Boston College,Raiders,Offense,NA,NA
+72,Alex Lewis,G,25,78,315,2,Nebraska,Ravens,Offense,NA,NA
+70,Rees Odhiambo,G,25,76,315,2,Boise State,Seahawks,Offense,553000,0.553
+62,Chad Slade,G,25,75,315,2,Auburn,Texans,Offense,136765,0.136765
+75,Laken Tomlinson,G,25,75,312,3,Duke,49ers,Offense,1212296,1.212296
+64,Mark Glowinski,G,25,76,310,3,West Virginia,Colts,Offense,615000,0.615
+76,Jon Feliciano,G,25,76,325,3,Miami,Raiders,Offense,615000,0.615
+68,Isaac Asiata,G,25,75,341,0,Utah,Dolphins,Offense,465000,0.465
+68,Tyler Catalina,G,25,76,325,0,Georgia,Redskins,Offense,465000,0.465
+39,Derrick Mathews,LB,25,73,232,1,Houston,Giants,Defense,27353,0.027353
+58,Curtis Grant,LB,25,74,249,1,Ohio State,Giants,Defense,437648,0.437648
+45,Pete Robertson,LB,25,74,243,1,Texas Tech,Redskins,Defense,164118,0.164118
+94,Leonard Floyd,LB,25,76,251,2,Georgia,Bears,Defense,1167403,1.167403
+50,Zaire Anderson,LB,25,71,220,2,Nebraska,Broncos,Defense,540000,0.54
+56,Max Bullough,LB,25,75,245,2,Michigan State,Browns,Defense,NA,NA
+48,Jeremy Cash,LB,25,73,230,2,Duke,Browns,Defense,540000,0.54
+49,Josh Keyes,LB,25,74,227,2,Boston College,Browns,Defense,325588,0.325588
+50,Gabe Martin,LB,25,74,236,2,Bowling Green,Cardinals,Defense,158825,0.158825
+46,Chris Landrum,LB,25,74,245,2,Jacksonville State,Chargers,Defense,NA,NA
+52,Dadi Nicolas,LB,25,75,235,2,Virginia Tech,Chiefs,Defense,NA,NA
+59,Joe Walker,LB,25,74,236,2,Oregon,Eagles,Defense,465000,0.465
+50,Nicholas Grigsby,LB,25,74,230,2,Pittsburgh,Patriots,Defense,NA,NA
+91,Shilique Calhoun,LB,25,76,251,2,Michigan State,Raiders,Defense,381176,0.381176
+53,Carlos Thompson,LB,25,77,250,2,Ole Miss,Rams,Defense,158825,0.158825
+99,Matthew Judon,LB,25,75,263,2,Grand Valley State,Ravens,Defense,NA,NA
+48,Patrick Onwuasor,LB,25,73,227,2,Portland State,Ravens,Defense,540000,0.54
+47,Paul Dawson,LB,25,73,240,2,TCU,Seahawks,Defense,95294,0.095294
+59,Josh Forrest,LB,25,75,240,2,Kentucky,Seahawks,Defense,218824,0.218824
+44,Tyler Matakevich,LB,25,73,235,2,Temple,Steelers,Defense,540000,0.54
+92,Kevin Dodd,LB,25,77,277,2,Clemson,Titans,Defense,747832,0.747832
+53,John Timu,LB,25,73,245,3,Washington,Bears,Defense,542647,0.542647
+49,Edmond Robinson,LB,25,75,245,3,Newberry,Cardinals,Defense,36176,0.036176
+50,Hayes Pullard III,LB,25,73,235,3,USC,Chargers,Defense,NA,NA
+52,Denzel Perryman,LB,25,71,240,3,Miami,Chargers,Defense,831724,0.831724
+53,Ramik Wilson,LB,25,74,237,3,Georgia,Chiefs,Defense,615000,0.615
+44,Stephone Anthony,LB,25,75,245,3,Clemson,Dolphins,Defense,1004015,1.004015
+58,Jordan Hicks,LB,25,73,236,3,Texas,Eagles,Defense,633000,0.633
+44,Vic Beasley Jr.,LB,25,75,246,3,Clemson,Falcons,Defense,NA,NA
+55,Lorenzo Mauldin,LB,25,76,259,3,Louisville,Jets,Defense,NA,NA
+47,Jake Ryan,LB,25,74,240,3,Michigan,Packers,Defense,615000,0.615
+54,Bryce Hager,LB,25,73,237,3,Baylor,Rams,Defense,615000,0.615
+90,Za'Darius Smith,LB,25,76,275,3,Kentucky,Ravens,Defense,615000,0.615
+94,Preston Smith,LB,25,77,265,3,Mississippi State,Redskins,Defense,960395,0.960395
+56,Anthony Chickillo,LB,25,75,255,3,Miami,Steelers,Defense,615000,0.615
+50,Ben Heeney,LB,25,73,230,3,Kansas,Texans,Defense,470294,0.470294
+55,Benardrick McKinney,LB,25,76,250,3,Mississippi State,Texans,Defense,920921,0.920921
+54,Eric Kendricks,LB,25,73,232,3,UCLA,Vikings,Defense,903720,0.90372
+52,Preston Brown,LB,25,73,251,4,Louisville,Bills,Defense,1762000,1.762
+48,Shaquil Barrett,LB,25,74,250,4,Colorado State,Broncos,Defense,615000,0.615
+51,Todd Davis,LB,25,73,230,4,Sacramento State,Broncos,Defense,2746000,2.746
+52,Corey Nelson,LB,25,73,226,4,Oklahoma,Broncos,Defense,690000,0.69
+58,Christian Kirksey,LB,25,74,235,4,Iowa,Browns,Defense,3797000,3.797
+20,Deone Bucannon,LB,25,73,211,4,Washington State,Cardinals,Defense,1471255,1.471255
+96,Kareem Martin,LB,25,78,272,4,North Carolina,Cardinals,Defense,710000,0.71
+97,Jerry Attaochu,LB,25,75,252,4,Georgia Tech,Chargers,Defense,NA,NA
+59,Anthony Hitchens,LB,25,73,235,4,Iowa,Cowboys,Defense,1797000,1.797
+59,Marquis Flowers,LB,25,75,250,4,Arizona,Patriots,Defense,690000,0.69
+57,C.J. Mosley,LB,25,74,250,4,Alabama,Ravens,Defense,1618365,1.618365
+50,Ryan Shazier,LB,25,73,230,4,Ohio State,Steelers,Defense,1716438,1.716438
+54,Avery Williamson,LB,25,73,246,4,Kentucky,Titans,Defense,1797000,1.797
+55,Anthony Barr,LB,25,77,255,4,UCLA,Vikings,Defense,2157750,2.15775
+44,Jelani Jenkins,LB,25,73,240,5,Florida,Texans,Defense,729411,0.729411
+59,Charmeachealle Moore,LB,25,73,235,0,Kansas State,Chargers,Defense,NA,NA
+49,Dylan Donahue,LB,25,74,248,0,West Georgia,Jets,Defense,465000,0.465
+46,Luke Rhodes,LS,25,74,238,1,William & Mary,Colts,Special Teams,540000,0.54
+45,Rick Lovato,LS,25,74,249,1,Old Dominion,Eagles,Special Teams,540000,0.54
+49,Zach Wood,LS,25,75,255,1,SMU,Saints,Special Teams,465000,0.465
+57,Kameron Canaday,LS,25,76,245,1,Portland State,Steelers,Special Teams,540000,0.54
+49,Joe Cardona,LS,25,75,245,3,Navy,Patriots,Special Teams,615000,0.615
+69,Tyler Ott,LS,25,75,253,3,Harvard,Seahawks,Special Teams,540000,0.54
+71,Zach Sterup,OT,25,80,318,1,Nebraska,Dolphins,Offense,218824,0.218824
+71,Matt Feiler,OT,25,78,330,1,Bloomsburg,Steelers,Offense,465000,0.465
+66,Leonard Wester,OT,25,78,305,2,Missouri Western,Buccaneers,Offense,540000,0.54
+72,Brandon Shell,OT,25,77,324,2,South Carolina,Jets,Offense,540000,0.54
+72,Brian Mihalik,OT,25,81,315,2,Boston College,Lions,Offense,540000,0.54
+74,George Fant,OT,25,77,322,2,Western Kentucky,Seahawks,Offense,NA,NA
+70,Cedric Ogbuehi,OT,25,77,310,3,Texas A&M,Bengals,Offense,1282789,1.282789
+75,Cameron Erving,OT,25,77,313,3,Florida State,Chiefs,Offense,1292188,1.292188
+65,Tyreek Burwell,OT,25,78,310,3,Cincinnati,Colts,Offense,325588,0.325588
+79,Chaz Green,OT,25,77,318,3,Florida,Cowboys,Offense,630375,0.630375
+74,Ty Sambrailo,OT,25,77,311,3,Colorado State,Falcons,Offense,784633,0.784633
+70,Corey Robinson,OT,25,79,317,3,South Carolina,Lions,Offense,615000,0.615
+60,Daryl Williams,OT,25,78,330,3,Oklahoma,Panthers,Offense,615000,0.615
+79,Robert Havenstein,OT,25,80,328,3,Wisconsin,Rams,Offense,NA,NA
+70,Andrew Donnal,OT,25,78,310,3,Iowa,Ravens,Offense,615000,0.615
+60,Arie Kouandjio,OT,25,77,316,3,Alabama,Redskins,Offense,361765,0.361765
+63,Kendall Lamm,OT,25,78,305,3,Appalachian State,Texans,Offense,615000,0.615
+70,Ja'Wuan James,OT,25,78,307,4,Tennessee,Dolphins,Offense,1569327,1.569327
+70,Jake Matthews,OT,25,77,309,4,Texas A&M,Falcons,Offense,690000,0.69
+73,Greg Robinson,OT,25,77,332,4,Auburn,Lions,Offense,3322377,3.322377
+74,Ulrick John,OT,25,77,307,4,Georgia State,Packers,Offense,506471,0.506471
+71,Cameron Fleming,OT,25,78,320,4,Stanford,Patriots,Offense,1797000,1.797
+68,Conor McDermott,OT,25,80,305,0,UCLA,Bills,Offense,465000,0.465
+72,Garett Bolles,OT,25,77,297,0,Utah,Broncos,Offense,465000,0.465
+65,Jessamen Dunker,OT,25,76,315,0,Tennessee State,Giants,Offense,NA,NA
+4,Lachlan Edwards,P,25,76,209,2,Sam Houston State,Jets,Special Teams,NA,NA
+5,Michael Palardy,P,25,71,200,2,Tennessee,Panthers,Special Teams,540000,0.54
+5,Sam Ficken,PK,25,73,191,1,Penn State,Rams,Special Teams,54706,0.054706
+1,Cody Parkey,PK,25,73,190,4,Auburn,Dolphins,Special Teams,690000,0.69
+8,Kevin Hogan,QB,25,75,218,2,Stanford,Browns,Offense,540000,0.54
+7,Cardale Jones,QB,25,77,250,2,Ohio State,Chargers,Offense,NA,NA
+11,Carson Wentz,QB,25,77,237,2,North Dakota State,Eagles,Offense,1662561,1.662561
+14,Jake Rudock,QB,25,75,212,2,Michigan,Lions,Offense,540000,0.54
+18,Connor Cook,QB,25,76,215,2,Michigan State,Raiders,Offense,NA,NA
+8,Brandon Allen,QB,25,74,214,2,Arkansas,Rams,Offense,NA,NA
+14,Sean Mannion,QB,25,78,231,2,Oregon State,Rams,Offense,730037,0.730037
+5,Blake Bortles,QB,25,77,236,4,UCF,Jaguars,Offense,3236565,3.236565
+5,Teddy Bridgewater,QB,25,74,215,4,Louisville,Vikings,Offense,1354023,1.354023
+33,Tra Carson,RB,25,71,228,1,Texas A&M,Bengals,Offense,NA,NA
+48,Bronson Hill,RB,25,70,215,1,Eastern Michigan,Cardinals,Offense,158825,0.158825
+23,Devontae Booker,RB,25,71,219,2,Utah,Broncos,Offense,540000,0.54
+20,Rob Kelley,RB,25,73,233,2,Tulane,Redskins,Offense,NA,NA
+36,Daniel Lasco,RB,25,73,205,2,California,Saints,Offense,349412,0.349412
+31,Raheem Mostert,RB,25,70,197,3,Purdue,49ers,Offense,615000,0.615
+44,Andre Williams,RB,25,73,220,3,Boston College,Chargers,Offense,527644,0.527644
+28,Terron Ward,RB,25,67,201,3,Oregon State,Falcons,Offense,615000,0.615
+88,Ty Montgomery,RB,25,73,216,3,Stanford,Packers,Offense,625000,0.625
+39,Kapri Bibbs,RB,25,71,203,3,Colorado State,Redskins,Offense,108528,0.108528
+42,Bishop Sankey,RB,25,70,213,3,Washington,Vikings,Offense,NA,NA
+32,Jeremy Hill,RB,25,73,230,4,LSU,Bengals,Offense,881855,0.881855
+34,Isaiah Crowell,RB,25,71,225,4,Alabama State,Browns,Offense,2746000,2.746
+26,Damien Williams,RB,25,71,224,4,Oklahoma,Dolphins,Offense,1797000,1.797
+24,Devonta Freeman,RB,25,68,206,4,Florida State,Falcons,Offense,1297000,1.297
+26,Orleans Darkwa,RB,25,71,219,4,Tulane,Giants,Offense,690000,0.69
+28,James White,RB,25,70,205,4,Wisconsin,Patriots,Offense,690000,0.69
+21,Jerick McKinnon,RB,25,69,205,4,Georgia Southern,Vikings,Offense,700000,0.7
+26,Le'Veon Bell,RB,25,73,225,5,Michigan State,Steelers,Offense,12120000,12.12
+33,De'Angelo Henderson,RB,25,67,208,0,Coastal Carolina,Broncos,Offense,465000,0.465
+37,Akeem Judd,RB,25,70,225,0,Ole Miss,Jets,Offense,NA,NA
+39,Isaiah Johnson,S,25,73,209,1,South Carolina,Buccaneers,Defense,355589,0.355589
+36,Ryan Murphy,S,25,73,214,1,Oregon State,Giants,Defense,82059,0.082059
+20,Briean Boddy-Calhoun,S,25,69,193,2,Minnesota,Browns,Defense,540000,0.54
+41,Matthias Farley,S,25,71,209,2,Notre Dame,Colts,Defense,540000,0.54
+33,Andrew Adams,S,25,71,205,2,Connecticut,Giants,Defense,540000,0.54
+43,Corey Moore,S,25,74,205,2,Georgia,Texans,Defense,540000,0.54
+29,Jaquiski Tartt,S,25,73,221,3,Samford,49ers,Defense,792910,0.79291
+36,Derron Smith,S,25,70,200,3,Fresno State,Browns,Defense,615000,0.615
+31,Adrian Phillips,S,25,71,210,3,Texas,Chargers,Defense,690000,0.69
+26,Clayton Geathers,S,25,74,220,3,UCF,Colts,Defense,615000,0.615
+31,Byron Jones,S,25,73,205,3,Connecticut,Cowboys,Defense,1216995,1.216995
+37,Jordan Richards,S,25,71,210,3,Stanford,Patriots,Defense,772413,0.772413
+22,Deshazor Everett,S,25,73,195,3,Texas A&M,Redskins,Defense,615000,0.615
+33,Tre Boston,S,25,73,205,4,North Carolina,Chargers,Defense,700000,0.7
+23,Terrence Brooks,S,25,71,200,4,Florida State,Jets,Defense,705000,0.705
+21,Ha Ha Clinton-Dix,S,25,73,208,4,Alabama,Packers,Defense,778534,0.778534
+29,Andre Hal,S,25,70,190,4,Vanderbilt,Texans,Defense,1797000,1.797
+32,Tyrann Mathieu,S,25,69,186,5,LSU,Cardinals,Defense,4750000,4.75
+39,Eddie Jackson,S,25,73,202,0,Alabama,Bears,Defense,465000,0.465
+37,Jordan Simone,S,25,71,190,0,Arizona State,Seahawks,Defense,NA,NA
+45,Jason Vander Laan,TE,25,75,244,1,Ferris State,Colts,Offense,164118,0.164118
+82,Manasseh Garner,TE,25,74,241,1,Pittsburgh,Redskins,Offense,NA,NA
+84,Nick O'Leary,TE,25,75,252,2,Florida State,Bills,Offense,615000,0.615
+83,Matt LaCosse,TE,25,78,255,2,Illinois,Broncos,Offense,82059,0.082059
+87,Seth DeValve,TE,25,75,245,2,Princeton,Browns,Offense,540000,0.54
+86,Randall Telfer,TE,25,76,250,2,USC,Browns,Offense,540000,0.54
+43,Ross Travis,TE,25,79,235,2,Penn State,Colts,Offense,540000,0.54
+86,Erik Swoope,TE,25,77,258,2,Miami,Colts,Offense,NA,NA
+89,Jerell Adams,TE,25,77,254,2,South Carolina,Giants,Offense,540000,0.54
+83,Eric Tomlinson,TE,25,78,263,2,UTEP,Jets,Offense,540000,0.54
+84,Hakeem Valles,TE,25,77,260,2,Monmouth,Lions,Offense,31765,0.031765
+82,Chris Manhertz,TE,25,78,255,2,Canisius,Panthers,Offense,540000,0.54
+89,Tyler Higbee,TE,25,78,257,2,Western Kentucky,Rams,Offense,540000,0.54
+85,Xavier Grimble,TE,25,76,261,2,USC,Steelers,Offense,540000,0.54
+85,MyCole Pruitt,TE,25,74,243,2,Southern Illinois,Texans,Offense,144706,0.144706
+89,Stephen Anderson,TE,25,75,230,2,California,Texans,Offense,540000,0.54
+85,Daniel Brown,TE,25,77,247,3,James Madison,Bears,Offense,615000,0.615
+81,Tyler Kroft,TE,25,78,260,3,Rutgers,Bengals,Offense,628000,0.628
+87,C.J. Uzomah,TE,25,78,265,3,Auburn,Bengals,Offense,615000,0.615
+82,Jeff Heuerman,TE,25,77,255,3,Ohio State,Broncos,Offense,615000,0.615
+45,Asante Cleveland,TE,25,77,260,3,Miami,Chargers,Offense,NA,NA
+80,Scott Simonson,TE,25,77,255,3,Assumption,Panthers,Offense,NA,NA
+84,Darren Waller,TE,25,78,255,3,Georgia Tech,Ravens,Offense,NA,NA
+87,Troy Niklas,TE,25,78,270,4,Notre Dame,Cardinals,Offense,968632,0.968632
+88,Austin Seferian-Jenkins,TE,25,77,262,4,Washington,Jets,Offense,936690,0.93669
+--,Dom Williams,WR,25,74,200,1,Washington State,Eagles,Offense,NA,NA
+12,Alex Erickson,WR,25,73,195,2,Wisconsin,Bengals,Offense,540000,0.54
+87,Jordan Taylor,WR,25,77,210,2,Rice,Broncos,Offense,540000,0.54
+19,Jakeem Grant,WR,25,67,169,2,Texas Tech,Dolphins,Offense,540000,0.54
+17,Charone Peake,WR,25,74,209,2,Clemson,Jets,Offense,540000,0.54
+18,Damiere Byrd,WR,25,69,180,2,South Carolina,Panthers,Offense,540000,0.54
+19,Malcolm Mitchell,WR,25,73,200,2,Georgia,Patriots,Offense,NA,NA
+13,Maurice Harris,WR,25,75,200,2,California,Redskins,Offense,218824,0.218824
+18,Josh Doctson,WR,25,74,206,2,TCU,Redskins,Offense,906802,0.906802
+11,Tommylee Lewis,WR,25,67,168,2,Northern Illinois,Saints,Offense,540000,0.54
+19,Tanner McEvoy,WR,25,78,230,2,Wisconsin,Seahawks,Offense,540000,0.54
+13,Braxton Miller,WR,25,74,215,2,Ohio State,Texans,Offense,557500,0.5575
+81,Cameron Meredith,WR,25,75,207,3,Illinois State,Bears,Offense,NA,NA
+11,Kevin White,WR,25,75,216,3,West Virginia,Bears,Offense,615000,0.615
+14,J.J. Nelson,WR,25,70,160,3,UAB,Cardinals,Offense,NA,NA
+16,Tyrell Williams,WR,25,76,205,3,Western Oregon,Chargers,Offense,615000,0.615
+17,Chris Conley,WR,25,75,205,3,Georgia,Chiefs,Offense,635000,0.635
+11,DeVante Parker,WR,25,75,212,3,Louisville,Dolphins,Offense,1423776,1.423776
+13,Rashad Greene Sr.,WR,25,71,186,3,Florida State,Jaguars,Offense,NA,NA
+19,Devin Smith,WR,25,73,199,3,Ohio State,Jets,Offense,NA,NA
+81,Quincy Enunwa,WR,25,74,225,3,Nebraska,Jets,Offense,NA,NA
+82,Lucky Whitehead,WR,25,69,180,3,Florida Atlantic,Jets,Offense,NA,NA
+12,Bradley Marquez,WR,25,70,205,3,Texas Tech,Lions,Offense,180882,0.180882
+13,TJ Jones,WR,25,73,190,3,Notre Dame,Lions,Offense,NA,NA
+13,Phillip Dorsett,WR,25,70,185,3,Miami,Patriots,Offense,1174583,1.174583
+16,Brandon Coleman,WR,25,78,225,3,Rutgers,Saints,Offense,615000,0.615
+83,Willie Snead,WR,25,71,195,3,Ball State,Saints,Offense,615000,0.615
+16,Tyler Lockett,WR,25,70,182,3,Kansas State,Seahawks,Offense,695000,0.695
+17,Eli Rogers,WR,25,70,187,3,Louisville,Steelers,Offense,540000,0.54
+87,Jordan Matthews,WR,25,75,212,4,Vanderbilt,Bills,Offense,1094900,1.0949
+14,Cody Latimer,WR,25,74,215,4,Indiana,Broncos,Offense,925725,0.925725
+12,Albert Wilson,WR,25,69,200,4,Georgia State,Chiefs,Offense,1797000,1.797
+13,De'Anthony Thomas,WR,25,68,176,4,Oregon,Chiefs,Offense,690000,0.69
+14,Jarvis Landry,WR,25,71,208,4,LSU,Dolphins,Offense,893852,0.893852
+13,Odell Beckham Jr.,WR,25,71,198,4,LSU,Giants,Offense,NA,NA
+17,Davante Adams,WR,25,73,215,4,Fresno State,Packers,Offense,956373,0.956373
+10,Paul Richardson,WR,25,73,183,4,Colorado,Seahawks,Offense,1062659,1.062659
+13,Keenan Allen,WR,25,74,211,5,California,Chargers,Offense,1000000,1
+10,Kenny Stills,WR,25,73,196,5,Oklahoma,Dolphins,Offense,1975000,1.975
+17,Robert Woods,WR,25,73,193,5,USC,Rams,Offense,3000000,3
+10,DeAndre Hopkins,WR,25,73,210,5,Clemson,Texans,Offense,8000000,8
+61,Anthony Fabiano,C,24,73,303,1,Harvard,Colts,Offense,158824,0.158824
+68,Matt Skura,C,24,75,313,1,Duke,Ravens,Offense,410294,0.410294
+62,Mike Matthews,C,24,74,300,1,Texas A&M,Steelers,Offense,NA,NA
+70,Evan Boehm,C,24,75,310,2,Missouri,Cardinals,Offense,540000,0.54
+79,Max Tuerk,C,24,77,298,2,USC,Cardinals,Offense,254118,0.254118
+73,Spencer Pulley,C,24,76,308,2,Vanderbilt,Chargers,Offense,540000,0.54
+78,Ryan Kelly,C,24,76,309,2,Alabama,Colts,Offense,925045,0.925045
+66,Nick Martin,C,24,76,300,2,Notre Dame,Texans,Offense,667044,0.667044
+67,Cornelius Edison,C,24,75,309,2,Portland State,Vikings,Offense,NA,NA
+74,Ali Marpet,C,24,76,307,3,Hobart,Buccaneers,Offense,703054,0.703054
+63,Marcus Martin,C,24,75,310,4,USC,Browns,Offense,NA,NA
+73,Chase Roullier,C,24,75,317,0,Wyoming,Redskins,Offense,465000,0.465
+29,Tony McRae,CB,24,70,185,1,North Carolina A&T,Bengals,Defense,437647,0.437647
+39,Michael Hunter,CB,24,73,192,1,Oklahoma State,Broncos,Defense,63529,0.063529
+38,Donte Deayon,CB,24,69,163,1,Boise State,Giants,Defense,328236,0.328236
+40,Bryson Keeton,CB,24,74,190,1,Montana State,Jets,Defense,NA,NA
+24,Kalan Reed,CB,24,71,192,1,Southern Mississippi,Titans,Defense,540000,0.54
+20,KeiVarae Russell,CB,24,71,196,2,Notre Dame,Bengals,Defense,570000,0.57
+35,C.J. Smith,CB,24,71,189,2,North Dakota State,Browns,Defense,95294,0.095294
+29,Ryan Smith,CB,24,71,189,2,North Carolina Central,Buccaneers,Defense,540000,0.54
+35,Javien Elliott,CB,24,71,176,2,Florida State,Buccaneers,Defense,540000,0.54
+24,Trevor Williams,CB,24,71,191,2,Penn State,Chargers,Defense,540000,0.54
+21,Eric Murray,CB,24,71,199,2,Minnesota,Chiefs,Defense,540000,0.54
+37,D.J. White,CB,24,71,193,2,Georgia Tech,Colts,Defense,285882,0.285882
+30,Anthony Brown,CB,24,71,196,2,Purdue,Cowboys,Defense,540000,0.54
+21,Jordan Lucas,CB,24,73,202,2,Penn State,Dolphins,Defense,421941,0.421941
+25,Xavien Howard,CB,24,73,196,2,Baylor,Dolphins,Defense,728547,0.728547
+32,Juston Burris,CB,24,73,212,2,NC State,Jets,Defense,540000,0.54
+24,James Bradberry,CB,24,73,212,2,Samford,Panthers,Defense,630038,0.630038
+27,Kevon Seymour,CB,24,73,185,2,USC,Panthers,Defense,540000,0.54
+31,Jonathan Jones,CB,24,70,190,2,Auburn,Patriots,Defense,540000,0.54
+41,Cyrus Jones,CB,24,70,200,2,Alabama,Patriots,Defense,NA,NA
+20,Ken Crawley,CB,24,73,180,2,Colorado,Saints,Defense,540000,0.54
+33,Tye Smith,CB,24,73,195,2,Towson,Titans,Defense,540000,0.54
+36,LeShaun Sims,CB,24,73,203,2,Southern Utah,Titans,Defense,540000,0.54
+20,Mackensie Alexander,CB,24,70,192,2,Clemson,Vikings,Defense,646196,0.646196
+28,Bobby McCain,CB,24,71,192,3,Memphis,Dolphins,Defense,615000,0.615
+41,Ronald Darby,CB,24,71,193,3,Florida State,Eagles,Defense,800426,0.800426
+26,P.J. Williams,CB,24,73,196,3,Florida State,Saints,Defense,640000,0.64
+28,Justin Coleman,CB,24,71,190,3,Tennessee,Seahawks,Defense,615000,0.615
+38,Adrian Colbert,CB,24,74,205,0,Miami,49ers,Defense,465000,0.465
+6,Ashton Lampkin,CB,24,73,189,0,Oklahoma State,Chiefs,Defense,NA,NA
+30,Cordrea Tankersley,CB,24,73,196,0,Clemson,Dolphins,Defense,465000,0.465
+27,Damontae Kazee,CB,24,70,174,0,San Diego State,Falcons,Defense,465000,0.465
+41,Lenzy Pipkins,CB,24,73,196,0,Oklahoma State,Packers,Defense,465000,0.465
+37,Arthur Maulet,CB,24,69,190,0,Memphis,Saints,Defense,136765,0.136765
+40,Mike Tyson,CB,24,73,207,0,Cincinnati,Seahawks,Defense,NA,NA
+29,Brian Allen,CB,24,75,215,0,Utah,Steelers,Defense,465000,0.465
+31,Treston Decoud,CB,24,74,210,0,Oregon State,Texans,Defense,465000,0.465
+39,Justin Currie,DB,24,74,212,2,Western Michigan,Browns,Defense,164118,0.164118
+95,Roy Robertson-Harris,DE,24,79,294,1,UTEP,Bears,Defense,465000,0.465
+54,Eddie Yarbrough,DE,24,74,259,1,Wyoming,Bills,Defense,465000,0.465
+97,Ishaq Williams,DE,24,76,253,1,Notre Dame,Giants,Defense,NA,NA
+70,Mitchell Loewen,DE,24,77,275,1,Arkansas,Saints,Defense,465000,0.465
+90,Jonathan Bullard,DE,24,75,296,2,Florida,Bears,Defense,599000,0.599
+94,Carl Nassib,DE,24,79,275,2,Penn State,Browns,Defense,618110,0.61811
+90,Emmanuel Ogbah,DE,24,76,275,2,Oklahoma State,Browns,Defense,750438,0.750438
+57,Noah Spence,DE,24,74,251,2,Eastern Kentucky,Buccaneers,Defense,724377,0.724377
+99,Charles Tapper,DE,24,74,270,2,Oklahoma,Cowboys,Defense,540000,0.54
+72,Anthony Lanier II,DE,24,78,286,2,Alabama A&M,Redskins,Defense,NA,NA
+93,Joel Heath,DE,24,78,295,2,Michigan State,Texans,Defense,540000,0.54
+91,Arik Armstead,DE,24,79,292,3,Oregon,49ers,Defense,1329785,1.329785
+93,Darius Philon,DE,24,73,300,3,Arkansas,Chargers,Defense,615000,0.615
+98,Trey Flowers,DE,24,74,265,3,Arkansas,Patriots,Defense,615000,0.615
+97,Mario Edwards Jr.,DE,24,75,280,3,Florida State,Raiders,Defense,NA,NA
+55,Frank Clark,DE,24,75,260,3,Michigan,Seahawks,Defense,774294,0.774294
+95,Christian Covington,DE,24,74,290,3,Rice,Texans,Defense,615000,0.615
+91,Stephon Tuitt,DE,24,78,303,4,Notre Dame,Steelers,Defense,1000000,1
+90,Jadeveon Clowney,DE,24,77,270,4,South Carolina,Texans,Defense,690000,0.69
+79,Patrick O'Connor,DE,24,76,270,0,Eastern Michigan,Buccaneers,Defense,NA,NA
+93,Chris Wormley,DE,24,77,300,0,Michigan,Ravens,Defense,465000,0.465
+69,Matthew Godin,DE,24,78,295,0,Michigan,Texans,Defense,NA,NA
+94,Joey Mbu,DT,24,75,323,1,Houston,Colts,Defense,254120,0.25412
+99,Rodney Coe,DT,24,75,305,1,Akron,Lions,Defense,136765,0.136765
+79,Drew Iddings,DT,24,77,290,1,South Dakota,Panthers,Defense,NA,NA
+74,Justin Hamilton,DT,24,74,315,2,Louisiana,Chiefs,Defense,109412,0.109412
+97,Destiny Vaeao,DT,24,76,299,2,Washington State,Eagles,Defense,540000,0.54
+98,Matt Ioannidis,DT,24,75,305,2,Temple,Redskins,Defense,NA,NA
+99,Quinton Jefferson,DT,24,76,291,2,Maryland,Seahawks,Defense,412941,0.412941
+79,Javon Hargrave,DT,24,74,305,2,South Carolina State,Steelers,Defense,560000,0.56
+99,Rakeem Nunez-Roches,DT,24,74,307,3,Southern Mississippi,Chiefs,Defense,615000,0.615
+95,David Irving,DT,24,79,290,3,Iowa State,Cowboys,Defense,470294,0.470294
+97,Grady Jarrett,DT,24,73,305,3,Clemson,Falcons,Defense,615000,0.615
+96,Michael Bennett,DT,24,74,287,3,Ohio State,Jaguars,Defense,6500000,6.5
+98,Ryan Glasgow,DT,24,75,302,0,Michigan,Bengals,Defense,465000,0.465
+90,Grover Stewart,DT,24,76,333,0,Albany State (GA),Colts,Defense,465000,0.465
+68,Daniel Ross,DT,24,76,310,0,null,Cowboys,Defense,218824,0.218824
+99,Vincent Taylor,DT,24,74,296,0,Oklahoma State,Dolphins,Defense,465000,0.465
+91,Carlos Watkins,DT,24,75,305,0,Clemson,Texans,Defense,465000,0.465
+30,C.J. Ham,FB,24,71,235,1,Augustana (SD),Vikings,Offense,465000,0.465
+32,Andy Janovich,FB,24,73,238,2,Nebraska,Broncos,Offense,540000,0.54
+40,Danny Vitale,FB,24,73,239,2,Northwestern,Browns,Offense,NA,NA
+44,Lawrence Thomas,FB,24,75,286,2,Michigan State,Jets,Offense,437647,0.437647
+62,Lucas Patrick,G,24,75,313,1,Duke,Packers,Offense,465000,0.465
+63,Christian Westerman,G,24,75,305,2,Arizona State,Bengals,Offense,540000,0.54
+60,Connor McGovern,G,24,76,306,2,Missouri,Broncos,Offense,540000,0.54
+73,Isaac Seumalo,G,24,76,303,2,Oregon State,Eagles,Offense,574000,0.574
+71,Wes Schweitzer,G,24,76,300,2,San Jose State,Falcons,Offense,540000,0.54
+66,Joe Dahl,G,24,76,305,2,Washington State,Lions,Offense,540000,0.54
+75,Ted Karras,G,24,76,305,2,Illinois,Patriots,Offense,540000,0.54
+76,John Miller,G,24,75,315,3,Louisville,Bills,Offense,615000,0.615
+69,Shaq Mason,G,24,73,310,3,Georgia Tech,Patriots,Offense,615000,0.615
+68,Jamon Brown,G,24,76,330,3,Louisville,Rams,Offense,686686,0.686686
+70,Trai Turner,G,24,75,315,4,LSU,Panthers,Offense,797000,0.797
+63,Cameron Lee,G,24,76,312,0,Illinois State,Bears,Offense,93600,0.0936
+64,J.J. Dielman,G,24,77,300,0,Utah,Broncos,Offense,NA,NA
+76,Maurquice Shakir,G,24,76,313,0,Middle Tennessee,Ravens,Offense,NA,NA
+67,Kyle Kalis,G,24,76,302,0,Michigan,Redskins,Offense,355588,0.355588
+64,Jordan Roos,G,24,75,302,0,Purdue,Seahawks,Offense,465000,0.465
+53,Brandon Chubb,LB,24,73,240,1,Wake Forest,Lions,Defense,NA,NA
+93,Reggie Gilbert,LB,24,75,261,1,Arizona,Packers,Defense,54706,0.054706
+51,Victor Ochi,LB,24,73,242,1,Stony Brook,Titans,Defense,NA,NA
+44,Nick Kwiatkoski,LB,24,74,242,2,West Virginia,Bears,Defense,540000,0.54
+59,Nick Vigil,LB,24,74,240,2,Utah State,Bengals,Defense,540000,0.54
+53,Deiontrez Mount,LB,24,77,253,2,Louisville,Broncos,Defense,253232,0.253232
+53,Joe Schobert,LB,24,73,245,2,Wisconsin,Browns,Defense,540000,0.54
+59,Devante Bond,LB,24,73,236,2,Oklahoma,Buccaneers,Defense,465000,0.465
+48,Terrance Smith,LB,24,74,235,2,Florida State,Chiefs,Defense,540000,0.54
+59,Reggie Ragland,LB,24,73,252,2,Alabama,Chiefs,Defense,715517,0.715517
+59,De'Vondre Campbell,LB,24,75,234,2,Minnesota,Falcons,Defense,540000,0.54
+93,B.J. Goodson,LB,24,73,241,2,Clemson,Giants,Defense,540000,0.54
+58,Deon King,LB,24,74,220,2,Norfolk State,Jaguars,Defense,412945,0.412945
+50,Blake Martinez,LB,24,74,237,2,Stanford,Packers,Defense,540000,0.54
+52,Jared Norris,LB,24,73,238,2,Utah,Panthers,Defense,540000,0.54
+57,Cory James,LB,24,73,230,2,Colorado State,Raiders,Defense,540000,0.54
+58,Cory Littleton,LB,24,75,225,2,Washington,Rams,Defense,540000,0.54
+57,Brennan Scarlett,LB,24,76,265,2,Stanford,Texans,Defense,540000,0.54
+52,Aaron Wallace,LB,24,74,242,2,UCLA,Titans,Defense,383824,0.383824
+40,Kentrell Brothers,LB,24,73,242,2,Missouri,Vikings,Defense,540000,0.54
+57,Eli Harold,LB,24,75,265,3,Virginia,49ers,Defense,634000,0.634
+56,Shane Ray,LB,24,75,245,3,Missouri,Broncos,Defense,1263991,1.263991
+53,Justin March-Lillard,LB,24,73,222,3,Akron,Cowboys,Defense,381176,0.381176
+57,Damien Wilson,LB,24,73,245,3,Minnesota,Cowboys,Defense,615000,0.615
+46,Neville Hewitt,LB,24,74,234,3,Marshall,Dolphins,Defense,217059,0.217059
+55,David Mayo,LB,24,74,245,3,Texas State,Panthers,Defense,615000,0.615
+55,Cameron Lynch,LB,24,73,229,3,Syracuse,Rams,Defense,144706,0.144706
+50,Martrell Spaight,LB,24,73,243,3,Arkansas,Redskins,Defense,615000,0.615
+48,Bud Dupree,LB,24,76,269,3,Kentucky,Steelers,Defense,1273390,1.27339
+59,Aaron Lynch,LB,24,78,270,4,South Florida,49ers,Defense,1797000,1.797
+48,Donavin Newsom,LB,24,74,240,0,Missouri,49ers,Defense,NA,NA
+56,Hardy Nickerson,LB,24,73,235,0,Illinois,Bengals,Defense,465000,0.465
+41,Jerrol Garcia-Williams,LB,24,74,235,0,Hawai'i,Broncos,Defense,300883,0.300883
+49,Riley Bullough,LB,24,74,228,0,Michigan State,Buccaneers,Defense,82059,0.082059
+56,Jermaine Grace,LB,24,73,223,0,Miami,Colts,Defense,465000,0.465
+59,Chase Allen,LB,24,75,250,0,Southern Illinois,Dolphins,Defense,465000,0.465
+45,Vince Biegel,LB,24,75,246,0,Wisconsin,Packers,Defense,348000,0.348
+43,Brady Sheldon,LB,24,77,230,0,Ferris State,Raiders,Defense,54706,0.054706
+56,Tim Williams,LB,24,75,260,0,Alabama,Ravens,Defense,465000,0.465
+53,Gimel President,LB,24,75,275,0,Illinois,Texans,Defense,136765,0.136765
+54,LaTroy Lewis,LB,24,75,254,0,Tennessee,Texans,Defense,136765,0.136765
+57,Shaan Washington,LB,24,75,220,0,Texas A&M,Vikings,Defense,NA,NA
+44,Jeff Overbaugh,LS,24,73,236,1,San Diego State,Vikings,Special Teams,27353,0.027353
+43,Drew Ferris,LS,24,73,212,0,Florida,Buccaneers,Special Teams,NA,NA
+90,Kyle Peko,NT,24,73,305,1,Oregon State,Broncos,Defense,508235,0.508235
+91,Eddie Goldman,NT,24,76,320,3,Florida State,Bears,Defense,951938,0.951938
+55,Danny Shelton,NT,24,74,335,3,Washington,Browns,Defense,1498970,1.49897
+72,Justin Murray,OT,24,77,304,1,Cincinnati,Bengals,Offense,NA,NA
+62,Le'Raven Clark,OT,24,77,311,2,Texas Tech,Colts,Offense,563000,0.563
+73,Joe Haeg,OT,24,78,305,2,North Dakota State,Colts,Offense,540000,0.54
+72,Halapoulivaati Vaitai,OT,24,78,320,2,TCU,Eagles,Offense,540000,0.54
+68,Taylor Decker,OT,24,79,311,2,Ohio State,Lions,Offense,948499,0.948499
+68,Kyle Murphy,OT,24,78,305,2,Stanford,Packers,Offense,540000,0.54
+74,John Theus,OT,24,78,303,2,Georgia,Panthers,Offense,NA,NA
+63,Darrell Williams,OT,24,77,305,2,South Florida,Rams,Offense,615000,0.615
+70,Kevin Bowen,OT,24,81,346,2,East Central,Redskins,Offense,NA,NA
+65,Jerald Hawkins,OT,24,78,305,2,LSU,Steelers,Offense,465000,0.465
+77,Trent Brown,OT,24,80,355,3,Florida,49ers,Offense,NA,NA
+76,Donovan Smith,OT,24,78,338,3,Penn State,Buccaneers,Offense,986715,0.986715
+74,D.J. Humphries,OT,24,77,307,3,Florida,Cardinals,Offense,1245192,1.245192
+71,La'el Collins,OT,24,76,320,3,LSU,Cowboys,Offense,1000000,1
+75,Andrus Peat,OT,24,79,316,3,Stanford,Saints,Offense,1470773,1.470773
+79,Cyrus Kouandjio,OT,24,79,322,4,Alabama,Broncos,Offense,324706,0.324706
+62,Erik Magnuson,OT,24,76,305,0,Michigan,49ers,Offense,465000,0.465
+78,Darrell Williams Jr.,OT,24,77,310,0,Western Kentucky,49ers,Offense,NA,NA
+77,Zach Banner,OT,24,80,360,0,USC,Browns,Offense,465000,0.465
+69,Will Holden,OT,24,79,312,0,Vanderbilt,Cardinals,Offense,465000,0.465
+63,Chad Wheeler,OT,24,79,312,0,USC,Giants,Offense,465000,0.465
+66,Adam Bisnowaty,OT,24,77,310,0,Pittsburgh,Giants,Offense,NA,NA
+74,Cole Croston,OT,24,77,315,0,Iowa,Patriots,Offense,465000,0.465
+69,Jylan Ware,OT,24,79,317,0,Alabama State,Raiders,Offense,465000,0.465
+76,Aviante Collins,OT,24,76,292,0,TCU,Vikings,Offense,465000,0.465
+9,Riley Dixon,P,24,76,221,2,Syracuse,Broncos,Special Teams,540000,0.54
+8,Drew Kaser,P,24,74,206,2,Texas A&M,Chargers,Special Teams,540000,0.54
+8,Justin Vogel,P,24,76,219,0,Miami,Packers,Special Teams,465000,0.465
+7,Ka'imi Fairbairn,PK,24,73,190,2,UCLA,Texans,Special Teams,465000,0.465
+6,Jeff Driskel,QB,24,76,238,2,Louisiana Tech,Bengals,Offense,NA,NA
+6,Cody Kessler,QB,24,73,215,2,USC,Browns,Offense,604049,0.604049
+7,Jacoby Brissett,QB,24,76,235,2,NC State,Colts,Offense,580038,0.580038
+4,Dak Prescott,QB,24,74,238,2,Mississippi State,Cowboys,Offense,540000,0.54
+7,Nate Sudfeld,QB,24,78,227,2,Indiana,Eagles,Offense,285882,0.285882
+6,Joe Callahan,QB,24,73,216,2,Wesley College,Packers,Offense,349415,0.349415
+3,Jameis Winston,QB,24,76,231,3,Florida State,Buccaneers,Offense,615000,0.615
+7,Brett Hundley,QB,24,75,226,3,UCLA,Packers,Offense,615000,0.615
+8,Taylor Heinicke,QB,24,73,210,3,Old Dominion,Texans,Offense,108529,0.108529
+8,Marcus Mariota,QB,24,76,222,3,Oregon,Titans,Offense,615000,0.615
+3,C.J. Beathard,QB,24,74,215,0,Iowa,49ers,Offense,465000,0.465
+7,Cooper Rush,QB,24,75,225,0,Central Michigan,Cowboys,Offense,465000,0.465
+35,Elijhaa Penny,RB,24,73,234,1,Idaho,Cardinals,Offense,465000,0.465
+35,Russell Hansbrough,RB,24,69,195,1,Missouri,Chargers,Offense,NA,NA
+21,J.D. McKissic,RB,24,70,195,1,Arkansas State,Seahawks,Offense,540000,0.54
+33,Darius Jackson,RB,24,73,221,2,Eastern Michigan,Browns,Offense,NA,NA
+37,D.J. Foster,RB,24,73,195,2,Arizona State,Cardinals,Offense,508235,0.508235
+27,Kenneth Farrow,RB,24,69,219,2,Houston,Chargers,Offense,NA,NA
+39,Josh Ferguson,RB,24,70,205,2,Illinois,Colts,Offense,540000,0.54
+32,Kenyan Drake,RB,24,73,211,2,Alabama,Dolphins,Offense,595000,0.595
+28,Wendell Smallwood,RB,24,70,208,2,West Virginia,Eagles,Offense,540000,0.54
+30,Jalen Richard,RB,24,68,205,2,Southern Mississippi,Raiders,Offense,540000,0.54
+33,DeAndre Washington,RB,24,68,205,2,Texas Tech,Raiders,Offense,540000,0.54
+34,Malcolm Brown,RB,24,71,227,2,Texas,Rams,Offense,540000,0.54
+30,Kenneth Dixon,RB,24,70,223,2,Louisiana Tech,Ravens,Offense,NA,NA
+38,Tre Madden,RB,24,73,235,2,USC,Seahawks,Offense,465000,0.465
+34,Tyler Ervin,RB,24,70,180,2,San Jose State,Texans,Offense,540000,0.54
+22,Derrick Henry,RB,24,75,247,2,Alabama,Titans,Offense,695815,0.695815
+29,Duke Johnson Jr.,RB,24,69,210,3,Miami,Browns,Offense,NA,NA
+28,Melvin Gordon,RB,24,73,215,3,Wisconsin,Chargers,Offense,1404980,1.40498
+31,Akeem Hunt,RB,24,70,185,3,Purdue,Chiefs,Offense,578824,0.578824
+34,Matt Jones,RB,24,74,239,3,Florida,Colts,Offense,542647,0.542647
+36,Jay Ajayi,RB,24,73,223,3,Boise State,Eagles,Offense,615000,0.615
+26,Tevin Coleman,RB,24,73,210,3,Indiana,Falcons,Offense,680000,0.68
+24,T.J. Yeldon,RB,24,73,223,3,Alabama,Jaguars,Offense,972617,0.972617
+21,Ameer Abdullah,RB,24,69,203,3,Nebraska,Lions,Offense,687830,0.68783
+34,Thomas Rawls,RB,24,69,215,3,Central Michigan,Seahawks,Offense,615000,0.615
+39,Mike Davis,RB,24,69,217,3,South Carolina,Seahawks,Offense,437647,0.437647
+32,Joe Williams,RB,24,71,205,0,Utah,49ers,Offense,NA,NA
+33,Taquan Mizzell,RB,24,70,170,0,Virginia,Bears,Offense,465000,0.465
+38,Tion Green,RB,24,73,220,0,Cincinnati,Lions,Offense,465000,0.465
+41,Lenard Tillery,RB,24,70,198,0,Southern,Rams,Offense,NA,NA
+35,Doug Middleton,S,24,73,210,1,Appalachian State,Jets,Defense,NA,NA
+45,Charles Washington,S,24,70,192,1,Fresno State,Lions,Defense,465000,0.465
+35,Jermaine Whitehead,S,24,71,195,1,Auburn,Packers,Defense,349415,0.349415
+26,Deon Bush,S,24,73,205,2,Miami,Bears,Defense,540000,0.54
+36,DeAndre Houston-Carson,S,24,73,205,2,William & Mary,Bears,Defense,476471,0.476471
+42,Clayton Fejedelem,S,24,73,205,2,Illinois,Bengals,Defense,540000,0.54
+31,Justin Simmons,S,24,74,202,2,Boston College,Broncos,Defense,540000,0.54
+26,Derrick Kindred,S,24,70,210,2,TCU,Browns,Defense,540000,0.54
+40,Ronald Martin,S,24,74,220,2,LSU,Colts,Defense,72353,0.072353
+27,Darian Thompson,S,24,74,208,2,Boise State,Giants,Defense,585000,0.585
+35,Miles Killebrew,S,24,74,222,2,Southern Utah,Lions,Defense,540000,0.54
+25,Marwin Evans,S,24,71,211,2,Utah State,Packers,Defense,540000,0.54
+42,Karl Joseph,S,24,70,205,2,West Virginia,Raiders,Defense,990196,0.990196
+24,Blake Countess,S,24,70,185,2,Auburn,Rams,Defense,540000,0.54
+28,Sean Davis,S,24,73,202,2,Maryland,Steelers,Defense,635771,0.635771
+31,Kevin Byard,S,24,71,212,2,Middle Tennessee,Titans,Defense,618566,0.618566
+38,Adrian Amos,S,24,73,214,3,Penn State,Bears,Defense,615000,0.615
+21,Landon Collins,S,24,73,218,3,Alabama,Giants,Defense,991415,0.991415
+36,Brandon King,S,24,74,220,3,Auburn,Patriots,Defense,615000,0.615
+35,Dymonte Thomas,S,24,74,199,0,Michigan,Broncos,Defense,82059,0.082059
+25,Rayshawn Jenkins,S,24,73,220,0,Miami,Chargers,Defense,465000,0.465
+37,Randall Goforth,S,24,70,190,0,UCLA,Eagles,Defense,NA,NA
+26,Marcus Maye,S,24,71,207,0,Florida,Jets,Defense,465000,0.465
+86,Austin Traylor,TE,24,75,255,1,Wisconsin,Broncos,Offense,191471,0.191471
+80,Rico Gathers,TE,24,78,285,1,Baylor,Cowboys,Offense,NA,NA
+88,Ryan Malleck,TE,24,76,249,1,Virginia Tech,Texans,Offense,54706,0.054706
+45,Alan Cross,TE,24,73,235,2,Memphis,Buccaneers,Offense,540000,0.54
+81,Ryan O'Malley,TE,24,78,260,2,Pennsylvania,Giants,Offense,NA,NA
+83,Ben Koyack,TE,24,77,258,2,Notre Dame,Jaguars,Offense,540000,0.54
+84,Temarrick Hemingway,TE,24,77,251,2,South Carolina State,Rams,Offense,NA,NA
+81,Nick Vannett,TE,24,78,261,2,Ohio State,Seahawks,Offense,562000,0.562
+89,David Morgan,TE,24,76,265,2,UT San Antonio,Vikings,Offense,540000,0.54
+87,Geoff Swaim,TE,24,76,260,3,Texas,Cowboys,Offense,615000,0.615
+86,Nick Boyle,TE,24,76,270,3,Delaware,Ravens,Offense,615000,0.615
+85,Eric Ebron,TE,24,76,253,4,North Carolina,Lions,Offense,1590337,1.590337
+85,George Kittle,TE,24,76,250,0,Iowa,49ers,Offense,465000,0.465
+82,Cethan Carter,TE,24,75,245,0,Nebraska,Bengals,Offense,465000,0.465
+86,Mason Schreck,TE,24,77,252,0,Buffalo,Bengals,Offense,NA,NA
+82,Antony Auclair,TE,24,77,256,0,null,Buccaneers,Offense,465000,0.465
+80,Sean Culkin,TE,24,77,255,0,Missouri,Chargers,Offense,465000,0.465
+43,Shane Smith,TE,24,73,241,0,San Jose State,Giants,Offense,465000,0.465
+47,Jacob Hollister,TE,24,76,239,0,Wyoming,Patriots,Offense,465000,0.465
+15,K.J. Brent,WR,24,75,200,1,Wake Forest,Colts,Offense,136765,0.136765
+17,Marvin Hall,WR,24,70,190,1,Washington,Falcons,Offense,328236,0.328236
+16,Jace Billingsley,WR,24,69,189,1,Eastern Oregon,Lions,Offense,273530,0.27353
+14,Mose Frazier,WR,24,71,190,1,Memphis,Panthers,Offense,54706,0.054706
+12,Aaron Burbridge,WR,24,73,208,2,Michigan State,49ers,Offense,NA,NA
+80,Chester Rogers,WR,24,73,184,2,Grambling,Colts,Offense,540000,0.54
+13,Devin Fuller,WR,24,73,194,2,UCLA,Falcons,Offense,NA,NA
+18,Roger Lewis,WR,24,73,203,2,Bowling Green,Giants,Offense,540000,0.54
+11,Robby Anderson,WR,24,75,190,2,Temple,Jets,Offense,540000,0.54
+11,Trevor Davis,WR,24,73,188,2,California,Packers,Offense,540000,0.54
+81,Geronimo Allison,WR,24,75,202,2,Illinois,Packers,Offense,508235,0.508235
+10,Chris Moore,WR,24,73,204,2,Cincinnati,Ravens,Offense,540000,0.54
+13,Michael Thomas,WR,24,75,212,2,Ohio State,Saints,Offense,1797000,1.797
+10,Sammie Coates,WR,24,73,212,3,Auburn,Browns,Offense,615000,0.615
+10,Adam Humphries,WR,24,71,195,3,Clemson,Buccaneers,Offense,615000,0.615
+13,Nelson Agholor,WR,24,73,198,3,USC,Eagles,Offense,1287489,1.287489
+10,Jaelen Strong,WR,24,74,220,3,Arizona State,Jaguars,Offense,644705,0.644705
+11,Breshad Perriman,WR,24,74,215,3,UCF,Ravens,Offense,1226392,1.226392
+80,Jamison Crowder,WR,24,69,177,3,Duke,Redskins,Offense,615000,0.615
+14,Stefon Diggs,WR,24,73,191,3,Maryland,Vikings,Offense,615000,0.615
+13,Mike Evans,WR,24,77,231,4,Texas A&M,Buccaneers,Offense,690000,0.69
+10,Donte Moncrief,WR,24,74,216,4,Ole Miss,Colts,Offense,1797000,1.797
+15,Allen Robinson,WR,24,75,211,4,Penn State,Jaguars,Offense,898755,0.898755
+14,Brandin Cooks,WR,24,70,189,4,Oregon State,Patriots,Offense,781599,0.781599
+12,Sammy Watkins,WR,24,73,211,4,Clemson,Rams,Offense,690000,0.69
+89,Brandon Reilly,WR,24,74,200,0,Nebraska,Bills,Offense,NA,NA
+80,Jehu Chesson,WR,24,74,204,0,Michigan,Chiefs,Offense,465000,0.465
+10,Mack Hollins,WR,24,76,221,0,North Carolina,Eagles,Offense,465000,0.465
+12,Dede Westbrook,WR,24,71,178,0,Oklahoma,Jaguars,Offense,348000,0.348
+84,Keelan Cole,WR,24,73,194,0,Kentucky Wesleyan,Jaguars,Offense,465000,0.465
+18,ArDarius Stewart,WR,24,71,205,0,Alabama,Jets,Offense,465000,0.465
+87,JoJo Natson,WR,24,67,153,0,Akron,Jets,Offense,218824,0.218824
+19,Kenny Golladay,WR,24,76,213,0,Northern Illinois,Lions,Offense,465000,0.465
+18,Cooper Kupp,WR,24,73,205,0,Eastern Washington,Rams,Offense,465000,0.465
+80,Austin Carr,WR,24,73,195,0,Northwestern,Saints,Offense,465000,0.465
+84,Amara Darboh,WR,24,74,219,0,Michigan,Seahawks,Offense,465000,0.465
+--,Antonio Crawford,CB,23,70,185,0,West Virginia,Steelers,Defense,NA,NA
+53,Joey Hunt,C,23,74,299,2,TCU,Seahawks,Offense,NA,NA
+61,Kyle Fuller,C,23,76,315,0,Baylor,Texans,Offense,1740955,1.740955
+65,Pat Elflein,C,23,74,303,0,Ohio State,Vikings,Offense,465000,0.465
+26,Duke Thomas,CB,23,70,192,1,Texas,Cowboys,Defense,NA,NA
+47,Kevin Peterson,CB,23,71,180,1,Oklahoma State,Rams,Defense,164118,0.164118
+31,Mike Hilton,CB,23,69,184,1,Ole Miss,Steelers,Defense,465000,0.465
+32,Deiondre' Hall,CB,23,74,206,2,Northern Iowa,Bears,Defense,363000,0.363
+22,Cre'Von LeBlanc,CB,23,71,190,2,Florida Atlantic,Bears,Defense,540000,0.54
+31,Jalen Mills,CB,23,73,191,2,LSU,Eagles,Defense,540000,0.54
+20,Jalen Ramsey,CB,23,73,208,2,Florida State,Jaguars,Defense,1511409,1.511409
+26,Maurice Canady,CB,23,73,193,2,Virginia,Ravens,Defense,363000,0.363
+25,Tavon Young,CB,23,69,177,2,Temple,Ravens,Defense,NA,NA
+26,Greg Mabin,CB,23,73,200,0,Iowa,49ers,Defense,355588,0.355588
+27,Tre'Davious White,CB,23,71,192,0,LSU,Bills,Defense,NA,NA
+27,Brendan Langley,CB,23,73,199,0,Lamar,Broncos,Defense,465000,0.465
+38,Marcus Rios,CB,23,71,185,0,UCLA,Broncos,Defense,136765,0.136765
+31,Reggie Porter,CB,23,71,185,0,Utah,Browns,Defense,410295,0.410295
+27,David Rivers,CB,23,73,185,0,Youngstown State,Buccaneers,Defense,54706,0.054706
+20,Desmond King,CB,23,70,200,0,Iowa,Chargers,Defense,465000,0.465
+43,Michael Davis,CB,23,74,196,0,BYU,Chargers,Defense,437647,0.437647
+27,Nate Hairston,CB,23,73,195,0,Temple,Colts,Defense,465000,0.465
+32,Rasul Douglas,CB,23,74,209,0,West Virginia,Eagles,Defense,465000,0.465
+31,Derrick Jones,CB,23,74,188,0,Ole Miss,Jets,Defense,465000,0.465
+34,Jeremy Clark,CB,23,75,220,0,Michigan,Jets,Defense,348000,0.348
+38,Xavier Coleman,CB,23,71,190,0,Portland State,Jets,Defense,328235,0.328235
+46,Des Lawrence,CB,23,73,185,0,North Carolina,Lions,Defense,NA,NA
+35,Corn Elder,CB,23,70,185,0,Miami,Panthers,Defense,NA,NA
+43,Jaylen Hill,CB,23,70,185,0,Jacksonville State,Ravens,Defense,465000,0.465
+31,Fabian Moreau,CB,23,73,198,0,UCLA,Redskins,Defense,465000,0.465
+38,Joshua Holsey,CB,23,71,195,0,Auburn,Redskins,Defense,465000,0.465
+34,Justin Hardee,CB,23,73,200,0,Illinois,Saints,Defense,410294,0.410294
+34,Leon McQuay,DB,23,73,195,0,USC,Chiefs,Defense,82059,0.082059
+55,Eric Lee,DE,23,75,260,1,South Florida,Patriots,Defense,164118,0.164118
+99,DeForest Buckner,DE,23,79,300,2,Oregon,49ers,Defense,1276863,1.276863
+90,Shaq Lawson,DE,23,75,267,2,Clemson,Bills,Defense,917226,0.917226
+95,Chris Jones,DE,23,78,310,2,Mississippi State,Chiefs,Defense,800000,0.8
+94,Dean Lowry,DE,23,78,296,2,Northwestern,Packers,Defense,540000,0.54
+95,Jihad Ward,DE,23,77,295,2,Illinois,Raiders,Defense,701809,0.701809
+97,Morgan Fox,DE,23,75,275,2,Colorado State-Pueblo,Rams,Defense,540000,0.54
+91,Stephen Weatherly,DE,23,77,265,2,Vanderbilt,Vikings,Defense,540000,0.54
+56,Dante Fowler Jr.,DE,23,75,255,3,Florida,Jaguars,Defense,NA,NA
+92,Leonard Williams,DE,23,77,302,3,USC,Jets,Defense,615000,0.615
+99,Danielle Hunter,DE,23,77,252,3,LSU,Vikings,Defense,636000,0.636
+57,DeMarcus Walker,DE,23,76,280,0,Florida State,Broncos,Defense,465000,0.465
+97,Taco Charlton,DE,23,77,270,0,Michigan,Cowboys,Defense,465000,0.465
+75,Cameron Malveaux,DE,23,77,276,0,Houston,Dolphins,Defense,136765,0.136765
+91,Avery Moss,DE,23,75,271,0,Youngstown State,Giants,Defense,465000,0.465
+98,Jeremiah Ledbetter,DE,23,75,295,0,Arkansas,Lions,Defense,465000,0.465
+91,Bryan Cox,DE,23,75,270,0,Florida,Panthers,Defense,382941,0.382941
+91,Deatrich Wise,DE,23,77,271,0,Arkansas,Patriots,Defense,NA,NA
+95,Derek Rivers,DE,23,77,250,0,Youngstown State,Patriots,Defense,NA,NA
+42,Patrick Ricard,DE,23,75,304,0,Maine,Ravens,Defense,465000,0.465
+95,Jonathan Allen,DE,23,75,288,0,Alabama,Redskins,Defense,465000,0.465
+91,Trey Hendrickson,DE,23,76,270,0,Florida Atlantic,Saints,Defense,465000,0.465
+93,Trevon Coley,DT,23,73,310,1,Florida Atlantic,Browns,Defense,465000,0.465
+92,Brian Price,DT,23,75,318,1,UT San Antonio,Cowboys,Defense,540000,0.54
+70,Aziz Shittu,DT,23,74,288,1,Stanford,Eagles,Defense,NA,NA
+96,Sheldon Day,DT,23,73,294,2,Notre Dame,49ers,Defense,540000,0.54
+75,DaVonte Lambert,DT,23,74,282,2,Auburn,Buccaneers,Defense,NA,NA
+90,Robert Nkemdiche,DT,23,76,296,2,Ole Miss,Cardinals,Defense,840936,0.840936
+91,Hassan Ridgeway,DT,23,75,318,2,Texas,Colts,Defense,540000,0.54
+92,Vernon Butler,DT,23,76,330,2,Louisiana Tech,Panthers,Defense,831660,0.83166
+99,Vincent Valentine,DT,23,75,320,2,Nebraska,Patriots,Defense,NA,NA
+75,Darius Latham,DT,23,76,305,2,Indiana,Raiders,Defense,540000,0.54
+69,Willie Henry,DT,23,74,308,2,Michigan,Ravens,Defense,540000,0.54
+98,Sheldon Rankins,DT,23,74,305,2,Louisville,Saints,Defense,1031893,1.031893
+98,D.J. Reader,DT,23,75,325,2,Clemson,Texans,Defense,540000,0.54
+90,Malcom Brown,DT,23,74,320,3,Texas,Patriots,Defense,1127112,1.127112
+93,D.J. Jones,DT,23,73,321,0,Ole Miss,49ers,Defense,465000,0.465
+69,Rashaad Coward,DT,23,77,320,0,Old Dominion,Bears,Defense,109412,0.109412
+68,Josh Tupou,DT,23,75,350,0,Colorado,Bengals,Defense,218824,0.218824
+99,Caleb Brantley,DT,23,74,307,0,Florida,Browns,Defense,465000,0.465
+65,Larry Ogunjobi,DT,23,74,305,0,Charlotte,Browns,Defense,465000,0.465
+56,Davon Godchaux,DT,23,75,305,0,LSU,Dolphins,Defense,465000,0.465
+64,Josh Banks,DT,23,75,290,0,Wake Forest,Giants,Defense,NA,NA
+94,Dalvin Tomlinson,DT,23,75,317,0,Alabama,Giants,Defense,465000,0.465
+54,Eli Ankou,DT,23,75,325,0,UCLA,Jaguars,Defense,465000,0.465
+70,Adam Butler,DT,23,76,300,0,Vanderbilt,Patriots,Defense,465000,0.465
+94,Eddie Vanderdoes,DT,23,75,305,0,UCLA,Raiders,Defense,465000,0.465
+92,Tanzel Smart,DT,23,73,290,0,Tulane,Rams,Defense,465000,0.465
+92,Nazair Jones,DT,23,77,304,0,North Carolina,Seahawks,Defense,465000,0.465
+94,Jaleel Johnson,DT,23,75,316,0,Iowa,Vikings,Defense,465000,0.465
+42,Marquez Williams,FB,23,71,260,0,Miami,Browns,Offense,348000,0.348
+40,Alex Armah,FB,23,73,255,0,West Georgia,Panthers,Offense,410294,0.410294
+62,Alex Redmond,G,23,77,330,1,UCLA,Bengals,Offense,465000,0.465
+65,Joshua Garnett,G,23,77,321,2,Stanford,49ers,Offense,NA,NA
+77,Caleb Benenoch,G,23,77,305,2,UCLA,Buccaneers,Offense,540000,0.54
+74,Vadal Alexander,G,23,77,325,2,LSU,Raiders,Offense,540000,0.54
+79,Denver Kirkland,G,23,76,335,2,Arkansas,Raiders,Offense,NA,NA
+60,Brandon Greene,G,23,77,295,0,Alabama,Bears,Offense,NA,NA
+67,Jordan Morgan,G,23,75,311,0,Kutztown,Bears,Offense,NA,NA
+79,Geoff Gray,G,23,77,315,0,Manitoba,Browns,Offense,NA,NA
+66,Dan Feeney,G,23,76,310,0,Indiana,Chargers,Offense,465000,0.465
+77,Forrest Lamp,G,23,76,310,0,Western Kentucky,Chargers,Offense,NA,NA
+69,Deyshawn Bond,G,23,73,299,0,Cincinnati,Colts,Offense,465000,0.465
+77,Adam Pankey,G,23,76,313,0,West Virginia,Packers,Offense,437647,0.437647
+71,Jermaine Eluemunor,G,23,76,338,0,Texas A&M,Ravens,Offense,465000,0.465
+65,Nico Siragusa,G,23,76,320,0,San Diego State,Ravens,Offense,NA,NA
+61,Corey Levin,G,23,76,307,0,Chattanooga,Titans,Offense,NA,NA
+63,Danny Isidora,G,23,75,306,0,Miami,Vikings,Offense,465000,0.465
+52,James Burgess Jr.,LB,23,73,230,1,Louisville,Browns,Defense,NA,NA
+54,Bryson Albright,LB,23,77,245,1,Miami (OH),Cardinals,Defense,246177,0.246177
+58,Scooby Wright,LB,23,73,240,1,Arizona,Cardinals,Defense,412945,0.412945
+54,Steve Longa,LB,23,73,240,1,Rutgers,Lions,Defense,465000,0.465
+57,Jatavis Brown,LB,23,71,221,2,Akron,Chargers,Defense,540000,0.54
+44,Antonio Morrison,LB,23,73,241,2,Florida,Colts,Defense,540000,0.54
+54,Kamu Grugier-Hill,LB,23,74,220,2,Eastern Illinois,Eagles,Defense,540000,0.54
+45,Deion Jones,LB,23,73,222,2,LSU,Falcons,Defense,656620,0.65662
+48,Jordan Jenkins,LB,23,75,259,2,Georgia,Jets,Defense,560000,0.56
+58,Darron Lee,LB,23,73,232,2,Ohio State,Jets,Defense,914620,0.91462
+52,Elandon Roberts,LB,23,73,235,2,Houston,Patriots,Defense,540000,0.54
+51,Kamalei Correa,LB,23,75,241,2,Boise State,Ravens,Defense,711347,0.711347
+58,Kwon Alexander,LB,23,73,227,3,LSU,Buccaneers,Defense,615000,0.615
+54,Shaq Thompson,LB,23,73,230,3,Washington,Panthers,Defense,1235793,1.235793
+49,Jimmie Gilbert,LB,23,77,230,0,Colorado,49ers,Defense,NA,NA
+55,Pita Taumoepenu,LB,23,73,245,0,Utah,49ers,Defense,465000,0.465
+56,Reuben Foster,LB,23,73,228,0,Alabama,49ers,Defense,465000,0.465
+47,Isaiah Irving,LB,23,74,254,0,San Jose State,Bears,Defense,355588,0.355588
+52,Brandon Bell,LB,23,73,230,0,Penn State,Bengals,Defense,82059,0.082059
+50,Jordan Evans,LB,23,74,240,0,Oklahoma,Bengals,Defense,465000,0.465
+58,Carl Lawson,LB,23,74,260,0,Auburn,Bengals,Defense,465000,0.465
+58,Matt Milano,LB,23,73,223,0,Boston College,Bills,Defense,465000,0.465
+40,Tanner Vallejo,LB,23,73,228,0,Boise State,Bills,Defense,465000,0.465
+43,Joseph Jones,LB,23,73,240,0,Northwestern,Broncos,Defense,218824,0.218824
+50,B.J. Bello,LB,23,74,229,0,Illinois State,Browns,Defense,465000,0.465
+51,Kendell Beckwith,LB,23,74,243,0,LSU,Buccaneers,Defense,465000,0.465
+52,Nigel Harris,LB,23,73,230,0,South Florida,Buccaneers,Defense,465000,0.465
+43,Haason Reddick,LB,23,73,235,0,Temple,Cardinals,Defense,465000,0.465
+45,Ukeme Eligwe,LB,23,74,239,0,Georgia Southern,Chiefs,Defense,465000,0.465
+92,Tanoh Kpassagnon,LB,23,79,289,0,Villanova,Chiefs,Defense,465000,0.465
+58,Tarell Basham,LB,23,76,266,0,Ohio,Colts,Defense,465000,0.465
+42,Duke Riley,LB,23,73,218,0,LSU,Falcons,Defense,465000,0.465
+46,Calvin Munson,LB,23,73,241,0,San Diego State,Giants,Defense,465000,0.465
+52,Donald Payne,LB,23,71,217,0,Stetson,Jaguars,Defense,465000,0.465
+53,Blair Brown,LB,23,71,238,0,Ohio,Jaguars,Defense,465000,0.465
+40,Jarrad Davis,LB,23,73,238,0,Florida,Lions,Defense,465000,0.465
+44,Jalen Reeves-Maybin,LB,23,73,230,0,Tennessee,Lions,Defense,465000,0.465
+1,David Talley,LB,23,73,236,0,Grand Valley State,Packers,Defense,NA,NA
+98,Chris Odom,LB,23,75,262,0,Arkansas State,Packers,Defense,465000,0.465
+56,Garrett Sickels,LB,23,76,252,0,Penn State,Rams,Defense,27353,0.027353
+53,Bam Bradley,LB,23,71,237,0,Pittsburgh,Ravens,Defense,465000,0.465
+40,Josh Harvey-Clemons,LB,23,76,226,0,Louisville,Redskins,Defense,465000,0.465
+41,Otha Peters,LB,23,73,238,0,Louisiana,Redskins,Defense,82059,0.082059
+52,Ryan Anderson,LB,23,74,253,0,Alabama,Redskins,Defense,465000,0.465
+47,Alex Anzalone,LB,23,75,241,0,Florida,Saints,Defense,465000,0.465
+90,T.J. Watt,LB,23,76,252,0,Wisconsin,Steelers,Defense,465000,0.465
+41,Zach Cunningham,LB,23,75,230,0,Vanderbilt,Texans,Defense,465000,0.465
+51,Dylan Cole,LB,23,73,240,0,Missouri State,Texans,Defense,465000,0.465
+44,Josh Carraway,LB,23,75,242,0,TCU,Titans,Defense,465000,0.465
+42,Ben Gedeon,LB,23,74,244,0,Michigan,Vikings,Defense,465000,0.465
+50,Eric Wilson,LB,23,73,230,0,Cincinnati,Vikings,Defense,465000,0.465
+69,Reid Ferguson,LS,23,73,244,1,LSU,Bills,Special Teams,465000,0.465
+49,Colin Holba,LS,23,76,248,0,Louisville,Jaguars,Special Teams,191471,0.191471
+42,Thomas Hennessy,LS,23,74,246,0,Duke,Jets,Special Teams,465000,0.465
+59,Taybor Pepper,LS,23,76,245,0,Michigan State,Packers,Special Teams,382941,0.382941
+94,Austin Johnson,NT,23,76,314,2,Penn State,Titans,Defense,707374,0.707374
+94,Rickey Hatley,NT,23,76,320,0,Missouri,Bills,Defense,27353,0.027353
+96,Chunky Clements,NT,23,74,295,0,Illinois,Texans,Defense,218824,0.218824
+67,Laremy Tunsil,OT,23,77,318,2,Ole Miss,Dolphins,Offense,1016257,1.016257
+78,Jason Spriggs,OT,23,78,301,2,Indiana,Packers,Offense,677468,0.677468
+79,Ronnie Stanley,OT,23,78,320,2,Notre Dame,Ravens,Offense,1381106,1.381106
+65,Germain Ifedi,OT,23,77,325,2,Texas A&M,Seahawks,Offense,825687,0.825687
+78,Jack Conklin,OT,23,78,308,2,Michigan State,Titans,Offense,1172621,1.172621
+74,Ereck Flowers,OT,23,78,325,3,Miami,Giants,Offense,1743338,1.743338
+76,Kent Perkins,OT,23,77,320,0,Texas,Bengals,Offense,54706,0.054706
+73,Dion Dawkins,OT,23,76,320,0,Temple,Bills,Offense,465000,0.465
+69,Sam Tevi,OT,23,77,315,0,Utah,Chargers,Offense,465000,0.465
+72,Taylor Moton,OT,23,77,325,0,Western Michigan,Panthers,Offense,465000,0.465
+71,Ryan Ramczyk,OT,23,77,314,0,Wisconsin,Saints,Offense,465000,0.465
+70,Julien Davenport,OT,23,79,315,0,Bucknell,Texans,Offense,NA,NA
+5,Bradley Pinion,P,23,77,229,3,Clemson,49ers,Special Teams,615000,0.615
+2,Rigoberto Sanchez,P,23,71,195,0,Hawai'i,Colts,Special Teams,465000,0.465
+16,Matt Haack,P,23,73,205,0,Arizona State,Dolphins,Special Teams,465000,0.465
+6,Nick Rose,PK,23,74,200,1,Texas,Chargers,Special Teams,300882,0.300882
+2,Aldrick Rosas,PK,23,74,221,1,Southern Oregon,Giants,Special Teams,465000,0.465
+3,Wil Lutz,PK,23,71,184,2,Georgia State,Saints,Special Teams,540000,0.54
+4,Jake Elliott,PK,23,69,170,0,Memphis,Eagles,Special Teams,465000,0.465
+12,Paxton Lynch,QB,23,79,244,2,Memphis,Broncos,Offense,880741,0.880741
+16,Jared Goff,QB,23,76,223,2,California,Rams,Offense,1719894,1.719894
+10,Mitchell Trubisky,QB,23,75,222,0,North Carolina,Bears,Offense,NA,NA
+2,Nathan Peterman,QB,23,74,225,0,Pittsburgh,Bills,Offense,465000,0.465
+5,Davis Webb,QB,23,77,230,0,California,Giants,Offense,NA,NA
+5,Joshua Dobbs,QB,23,75,216,0,Tennessee,Steelers,Offense,NA,NA
+1,Kyle Sloter,QB,23,76,218,0,Northern Colorado,Vikings,Offense,NA,NA
+34,Byron Marshall,RB,23,69,201,1,Oregon,Redskins,Offense,222353,0.222353
+24,Jordan Howard,RB,23,73,224,2,Indiana,Bears,Offense,540000,0.54
+25,Peyton Barber,RB,23,71,225,2,Auburn,Buccaneers,Offense,540000,0.54
+28,Paul Perkins,RB,23,71,213,2,UCLA,Giants,Offense,540000,0.54
+36,Dwayne Washington,RB,23,73,223,2,Washington,Lions,Offense,540000,0.54
+34,Alex Collins,RB,23,70,210,2,Arkansas,Ravens,Offense,508235,0.508235
+--,Keith Marshall,RB,23,71,222,2,Georgia,Redskins,Offense,NA,NA
+27,Jonathan Williams,RB,23,73,223,2,Arkansas,Saints,Offense,NA,NA
+22,C.J. Prosise,RB,23,73,225,2,Notre Dame,Seahawks,Offense,565000,0.565
+30,Todd Gurley II,RB,23,73,227,3,Georgia,Rams,Offense,NA,NA
+39,Jarveon Williams,RB,23,69,205,0,UT San Antonio,Bengals,Offense,82059,0.082059
+27,Matthew Dayes,RB,23,68,205,0,NC State,Browns,Offense,465000,0.465
+22,T.J. Logan,RB,23,70,196,0,North Carolina,Cardinals,Offense,NA,NA
+38,De'Veon Smith,RB,23,71,221,0,Michigan,Dolphins,Offense,136765,0.136765
+30,Corey Clement,RB,23,70,220,0,Wisconsin,Eagles,Offense,465000,0.465
+34,Donnel Pumphrey,RB,23,69,176,0,San Diego State,Eagles,Offense,NA,NA
+22,Wayne Gallman,RB,23,73,210,0,Clemson,Giants,Offense,465000,0.465
+27,Leonard Fournette,RB,23,73,228,0,LSU,Jaguars,Offense,465000,0.465
+25,Elijah McGuire,RB,23,69,214,0,Louisiana,Jets,Offense,465000,0.465
+32,Devante Mays,RB,23,70,230,0,Utah State,Packers,Offense,465000,0.465
+33,Aaron Jones,RB,23,69,208,0,UTEP,Packers,Offense,465000,0.465
+48,Dare Ogunbowale,RB,23,70,205,0,Wisconsin,Redskins,Offense,54706,0.054706
+33,Trey Edmunds,RB,23,73,223,0,Maryland,Saints,Offense,465000,0.465
+32,Chris Carson,RB,23,71,218,0,Oklahoma State,Seahawks,Offense,465000,0.465
+28,Khalfani Muhammad,RB,23,67,174,0,California,Titans,Offense,NA,NA
+34,Harlan Miller,S,23,73,182,1,Southeastern Louisiana,Cardinals,Defense,319118,0.319118
+43,Trae Elston,S,23,71,190,1,Ole Miss,Dolphins,Defense,465000,0.465
+45,Tyvis Powell,S,23,74,211,2,Ohio State,49ers,Defense,95294,0.095294
+34,Will Parks,S,23,73,194,2,Arizona,Broncos,Defense,540000,0.54
+35,Kavon Frazier,S,23,73,220,2,Central Michigan,Cowboys,Defense,540000,0.54
+26,Jarrod Wilson,S,23,74,210,2,Michigan,Jaguars,Defense,540000,0.54
+29,Kentrell Brice,S,23,71,200,2,Louisiana Tech,Packers,Defense,540000,0.54
+41,Marqui Christian,S,23,71,200,2,Midwestern State,Rams,Defense,540000,0.54
+48,Vonn Bell,S,23,71,205,2,Ohio State,Saints,Defense,630559,0.630559
+27,Jayron Kearse,S,23,76,215,2,Clemson,Vikings,Defense,540000,0.54
+43,Chanceller James,S,23,74,208,0,Boise State,49ers,Defense,NA,NA
+40,Brandon Wilson,S,23,70,199,0,Houston,Bengals,Defense,218824,0.218824
+20,Jamal Carter,S,23,73,215,0,Miami,Broncos,Defense,465000,0.465
+30,Rudy Ford,S,23,71,204,0,Auburn,Cardinals,Defense,465000,0.465
+27,Josh Jones,S,23,73,220,0,NC State,Packers,Defense,465000,0.465
+36,Demetrious Cox,S,23,73,200,0,Michigan State,Panthers,Defense,465000,0.465
+20,Obi Melifonwu,S,23,76,224,0,Connecticut,Raiders,Defense,348000,0.348
+26,Shalom Luani,S,23,71,202,0,Washington State,Raiders,Defense,465000,0.465
+37,Fish Smithson,S,23,70,196,0,Kansas,Redskins,Defense,54706,0.054706
+33,Tedric Thompson,S,23,73,204,0,Colorado,Seahawks,Defense,465000,0.465
+45,Garrett Griffin,TE,23,76,240,1,Air Force,Saints,Offense,136765,0.136765
+84,Ben Braunecker,TE,23,76,252,2,Harvard,Bears,Offense,254120,0.25412
+86,Hunter Henry,TE,23,77,250,2,Arkansas,Chargers,Offense,740014,0.740014
+81,Austin Hooper,TE,23,75,254,2,Stanford,Falcons,Offense,540000,0.54
+87,Maxx Williams,TE,23,76,257,3,Minnesota,Ravens,Offense,803431,0.803431
+81,Jesse James,TE,23,79,261,3,Penn State,Steelers,Offense,615000,0.615
+83,Cole Hikutini,TE,23,76,247,0,Louisville,49ers,Offense,328235,0.328235
+87,Adam Shaheen,TE,23,77,270,0,Ashland,Bears,Offense,465000,0.465
+80,O.J. Howard,TE,23,78,251,0,Alabama,Buccaneers,Offense,465000,0.465
+47,Darrell Daniels,TE,23,75,246,0,Washington,Colts,Offense,465000,0.465
+89,Blake Jarwin,TE,23,77,260,0,Oklahoma State,Cowboys,Offense,273530,0.27353
+85,Eric Saubert,TE,23,77,253,0,Drake,Falcons,Offense,465000,0.465
+88,Evan Engram,TE,23,75,240,0,Ole Miss,Giants,Offense,465000,0.465
+86,Jordan Leggett,TE,23,77,258,0,Clemson,Jets,Offense,NA,NA
+80,Michael Roberts,TE,23,76,265,0,Toledo,Lions,Offense,465000,0.465
+86,Emanuel Byrd,TE,23,74,236,0,Marshall,Packers,Offense,27353,0.027353
+81,Pharaoh Brown,TE,23,77,246,0,Oregon,Raiders,Offense,54706,0.054706
+81,Gerald Everett,TE,23,75,245,0,South Alabama,Rams,Offense,465000,0.465
+87,Jeremy Sprinkle,TE,23,77,252,0,Arkansas,Redskins,Offense,465000,0.465
+46,Tyrone Swoopes,TE,23,75,254,0,Texas,Seahawks,Offense,NA,NA
+13,Max McCaffrey,WR,23,74,200,1,Duke,49ers,Offense,465000,0.465
+14,Marcus Johnson,WR,23,73,204,1,Texas,Eagles,Offense,465000,0.465
+80,Darius Powe,WR,23,74,218,1,California,Giants,Offense,127059,0.127059
+84,Hunter Sharp,WR,23,71,198,1,Utah State,Giants,Offense,300883,0.300883
+85,Jaydon Mickens,WR,23,70,175,1,Washington,Jaguars,Offense,300883,0.300883
+17,Andy Jones,WR,23,73,220,1,Jacksonville,Lions,Offense,54706,0.054706
+83,Tyler Boyd,WR,23,74,197,2,Pittsburgh,Bengals,Offense,643589,0.643589
+16,Cody Core,WR,23,75,214,2,Ole Miss,Bengals,Offense,540000,0.54
+19,Corey Coleman,WR,23,71,185,2,Baylor,Browns,Offense,979773,0.979773
+81,Rashard Higgins,WR,23,73,198,2,Colorado State,Browns,Offense,508224,0.508224
+80,Ricardo Louis,WR,23,74,215,2,Auburn,Browns,Offense,540000,0.54
+10,Tyreek Hill,WR,23,70,185,2,West Alabama,Chiefs,Offense,540000,0.54
+14,Demarcus Robinson,WR,23,73,203,2,Florida,Chiefs,Offense,540000,0.54
+83,Kalif Raymond,WR,23,69,160,2,Holy Cross,Giants,Offense,222353,0.222353
+86,Marquis Bundy,WR,23,76,215,2,New Mexico,Giants,Offense,31765,0.031765
+87,Sterling Shepard,WR,23,70,201,2,Oklahoma,Giants,Offense,720208,0.720208
+88,Michael Thomas,WR,23,73,195,2,Southern Mississippi,Rams,Offense,1797000,1.797
+15,Will Fuller V,WR,23,73,185,2,Notre Dame,Texans,Offense,NA,NA
+19,Tajae Sharpe,WR,23,74,194,2,UMass,Titans,Offense,NA,NA
+17,Devin Funchess,WR,23,76,225,3,Michigan,Panthers,Offense,836900,0.8369
+89,Amari Cooper,WR,23,73,210,3,Alabama,Raiders,Offense,615000,0.615
+81,Trent Taylor,WR,23,68,178,0,Louisiana Tech,49ers,Offense,465000,0.465
+15,John Ross,WR,23,71,190,0,Washington,Bengals,Offense,465000,0.465
+11,Carlos Henderson,WR,23,71,198,0,Louisiana Tech,Broncos,Offense,NA,NA
+85,Bobo Wilson,WR,23,69,186,0,Florida State,Buccaneers,Offense,NA,NA
+16,Chad Williams,WR,23,73,204,0,Grambling,Cardinals,Offense,465000,0.465
+81,Mike Williams,WR,23,75,220,0,Clemson,Chargers,Offense,465000,0.465
+10,Ryan Switzer,WR,23,68,185,0,North Carolina,Cowboys,Offense,465000,0.465
+18,Shelton Gibson,WR,23,71,191,0,West Virginia,Eagles,Offense,465000,0.465
+82,Keeon Johnson,WR,23,75,216,0,Virginia,Giants,Offense,NA,NA
+16,Chad Hansen,WR,23,73,202,0,California,Jets,Offense,465000,0.465
+19,Isaac Whitney,WR,23,74,204,0,USC,Raiders,Offense,136765,0.136765
+6,Tim White,WR,23,70,181,0,Arizona State,Ravens,Offense,NA,NA
+83,David Moore,WR,23,73,219,0,East Central,Seahawks,Offense,164118,0.164118
+14,Chris Thompson,WR,23,73,170,0,Florida,Texans,Offense,382942,0.382942
+16,Deante Gray,WR,23,70,174,0,TCU,Texans,Offense,NA,NA
+84,Corey Davis,WR,23,75,209,0,Western Michigan,Titans,Offense,465000,0.465
+13,Stacy Coley,WR,23,73,195,0,Miami,Vikings,Offense,465000,0.465
+85,Dan Arnold,WR,22,78,220,0,Wisconsin-Platteville,Saints,Offense,NA,NA
+60,Brandon Kublanow,C,22,74,300,0,Georgia,Ravens,Offense,NA,NA
+63,Cameron Tom,C,22,76,287,0,Southern Mississippi,Saints,Offense,NA,NA
+28,Vernon Hargreaves III,CB,22,70,204,2,Florida,Buccaneers,Defense,NA,NA
+29,Kendall Fuller,CB,22,71,198,2,Virginia Tech,Chiefs,Defense,557500,0.5575
+24,Eli Apple,CB,22,73,201,2,Ohio State,Giants,Defense,1138742,1.138742
+36,Rashard Robinson,CB,22,73,177,2,LSU,Jets,Defense,540000,0.54
+26,Daryl Worley,CB,22,73,205,2,West Virginia,Panthers,Defense,560000,0.56
+25,Artie Burns,CB,22,73,197,2,Miami,Steelers,Defense,885954,0.885954
+23,Ahkello Witherspoon,CB,22,74,195,0,Colorado,49ers,Defense,465000,0.465
+41,Breon Borders,CB,22,73,189,0,Duke,Bills,Defense,82059,0.082059
+23,Howard Wilson,CB,22,73,184,0,Houston,Browns,Defense,NA,NA
+42,Kenny Moore II,CB,22,69,179,0,Valdosta State,Colts,Defense,NA,NA
+27,Jourdan Lewis,CB,22,70,195,0,Michigan,Cowboys,Defense,465000,0.465
+33,Chidobe Awuzie,CB,22,71,202,0,Colorado,Cowboys,Defense,465000,0.465
+33,Torry McTyer,CB,22,71,184,0,UNLV,Dolphins,Defense,465000,0.465
+31,Jalen Myrick,CB,22,70,200,0,Minnesota,Jaguars,Defense,465000,0.465
+30,Teez Tabor,CB,22,73,201,0,Florida,Lions,Defense,465000,0.465
+39,Jamal Agnew,CB,22,70,190,0,San Diego,Lions,Defense,465000,0.465
+20,Kevin King,CB,22,75,200,0,Washington,Packers,Defense,465000,0.465
+32,Cole Luke,CB,22,71,200,0,Notre Dame,Panthers,Defense,NA,NA
+22,Gareon Conley,CB,22,73,195,0,Ohio State,Raiders,Defense,465000,0.465
+26,Shaquill Griffin,CB,22,73,198,0,UCF,Seahawks,Defense,465000,0.465
+34,Cameron Sutton,CB,22,71,188,0,Tennessee,Steelers,Defense,348000,0.348
+25,Adoree' Jackson,CB,22,71,185,0,USC,Titans,Defense,465000,0.465
+43,Kai Nacua,DB,22,73,205,0,BYU,Browns,Defense,465000,0.465
+99,Joey Bosa,DE,22,77,280,2,Ohio State,Chargers,Defense,540000,0.54
+78,Romeo Okwara,DE,22,76,271,2,Notre Dame,Giants,Defense,540000,0.54
+91,Yannick Ngakoue,DE,22,74,246,2,Maryland,Jaguars,Defense,605041,0.605041
+94,Solomon Thomas,DE,22,74,256,0,Stanford,49ers,Defense,465000,0.465
+75,Jordan Willis,DE,22,76,260,0,Kansas State,Bengals,Defense,465000,0.465
+95,Myles Garrett,DE,22,76,272,0,Texas A&M,Browns,Defense,465000,0.465
+98,Isaac Rochell,DE,22,75,280,0,Notre Dame,Chargers,Defense,82059,0.082059
+66,Lewis Neal,DE,22,73,280,0,LSU,Cowboys,Defense,218824,0.218824
+90,Charles Harris,DE,22,75,250,0,Missouri,Dolphins,Defense,465000,0.465
+98,Takkarist McKinley,DE,22,74,250,0,UCLA,Falcons,Defense,465000,0.465
+94,Dawuane Smoot,DE,22,75,264,0,Illinois,Jaguars,Defense,465000,0.465
+94,Daeshon Hall,DE,22,77,265,0,Texas A&M,Panthers,Defense,465000,0.465
+97,Al-Quadin Muhammad,DE,22,75,250,0,Miami,Saints,Defense,465000,0.465
+90,Tashawn Bower,DE,22,76,250,0,LSU,Vikings,Defense,465000,0.465
+99,Andrew Billings,DT,22,73,325,2,Baylor,Bengals,Defense,465000,0.465
+96,Maliek Collins,DT,22,74,308,2,Nebraska,Cowboys,Defense,612500,0.6125
+91,A'Shawn Robinson,DT,22,76,322,2,Alabama,Lions,Defense,687892,0.687892
+97,Kenny Clark,DT,22,75,314,2,UCLA,Packers,Defense,875529,0.875529
+98,Elijah Qualls,DT,22,73,321,0,Washington,Eagles,Defense,465000,0.465
+90,Montravius Adams,DT,22,75,304,0,Auburn,Packers,Defense,465000,0.465
+64,Sean Harlow,G,22,76,284,0,Oregon State,Falcons,Offense,NA,NA
+71,Damien Mama,G,22,75,342,0,USC,Giants,Offense,NA,NA
+77,Ethan Pocic,G,22,78,309,0,LSU,Seahawks,Offense,465000,0.465
+54,Jaylon Smith,LB,22,74,245,1,Notre Dame,Cowboys,Defense,745226,0.745226
+54,Dominique Alexander,LB,22,73,235,2,Oklahoma,Browns,Defense,540000,0.54
+44,Myles Jack,LB,22,73,244,2,UCLA,Jaguars,Defense,737929,0.737929
+50,Anthony Walker,LB,22,73,242,0,Northwestern,Colts,Defense,465000,0.465
+52,Tre'Von Johnson,LB,22,73,235,0,Weber State,Cowboys,Defense,NA,NA
+52,Raekwon McMillan,LB,22,74,248,0,Ohio State,Dolphins,Defense,NA,NA
+47,Nathan Gerry,LB,22,74,218,0,Nebraska,Eagles,Defense,300883,0.300883
+50,Nicholas Morrow,LB,22,73,216,0,null,Raiders,Defense,465000,0.465
+55,Marquel Lee,LB,22,75,235,0,Wake Forest,Raiders,Defense,465000,0.465
+50,Samson Ebukam,LB,22,75,240,0,Eastern Washington,Rams,Defense,465000,0.465
+54,Tyus Bowser,LB,22,74,240,0,Houston,Ravens,Defense,465000,0.465
+99,Keion Adams,LB,22,74,245,0,Western Michigan,Steelers,Defense,NA,NA
+55,Jayon Brown,LB,22,71,226,0,UCLA,Titans,Defense,465000,0.465
+68,Elijah Wilkinson,OT,22,76,329,0,UMass,Broncos,Offense,300883,0.300883
+78,Roderick Johnson,OT,22,78,300,0,Florida State,Browns,Offense,NA,NA
+72,Eric Smith,OT,22,76,321,0,Virginia,Dolphins,Offense,NA,NA
+74,Cam Robinson,OT,22,78,320,0,Alabama,Jaguars,Offense,465000,0.465
+71,David Sharpe,OT,22,78,343,0,Florida,Raiders,Offense,465000,0.465
+5,Zane Gonzalez,PK,22,73,202,0,Arizona State,Browns,Special Teams,465000,0.465
+7,Harrison Butker,PK,22,75,205,0,Georgia Tech,Chiefs,Special Teams,382941,0.382941
+5,Christian Hackenberg,QB,22,76,228,2,Penn State,Jets,Offense,NA,NA
+7,DeShone Kizer,QB,22,76,233,0,Notre Dame,Browns,Offense,465000,0.465
+15,Patrick Mahomes,QB,22,74,230,0,Texas Tech,Chiefs,Offense,465000,0.465
+9,Brad Kaaya,QB,22,76,215,0,Miami,Colts,Offense,NA,NA
+4,Deshaun Watson,QB,22,74,215,0,Clemson,Texans,Offense,465000,0.465
+21,Ezekiel Elliott,RB,22,73,228,2,Ohio State,Cowboys,Offense,1584379,1.584379
+22,Matt Breida,RB,22,70,190,0,Georgia Southern,49ers,Offense,465000,0.465
+33,Jeremy McNichols,RB,22,69,214,0,Boise State,49ers,Offense,136765,0.136765
+29,Tarik Cohen,RB,22,66,181,0,North Carolina A&T,Bears,Offense,465000,0.465
+23,Brian Hill,RB,22,73,219,0,Wyoming,Bengals,Offense,465000,0.465
+30,Austin Ekeler,RB,22,69,200,0,Western State,Chargers,Offense,465000,0.465
+27,Kareem Hunt,RB,22,70,216,0,Toledo,Chiefs,Offense,465000,0.465
+39,Jahad Thomas,RB,22,70,190,0,Temple,Jets,Offense,NA,NA
+30,Jamaal Williams,RB,22,73,213,0,BYU,Packers,Offense,465000,0.465
+33,Justin Davis,RB,22,73,198,0,USC,Rams,Offense,465000,0.465
+32,Samaje Perine,RB,22,70,236,0,Oklahoma,Redskins,Offense,465000,0.465
+46,LeShun Daniels Jr.,RB,22,71,225,0,Iowa,Redskins,Offense,NA,NA
+41,Alvin Kamara,RB,22,70,215,0,Tennessee,Saints,Offense,465000,0.465
+30,James Conner,RB,22,73,233,0,Pittsburgh,Steelers,Offense,465000,0.465
+33,Dalvin Cook,RB,22,70,210,0,Florida State,Vikings,Offense,465000,0.465
+32,T.J. Green,S,22,75,211,2,Clemson,Colts,Defense,639420,0.63942
+22,Keanu Neal,S,22,73,211,2,Florida,Falcons,Defense,938075,0.938075
+22,Jabrill Peppers,S,22,71,213,0,Michigan,Browns,Defense,465000,0.465
+21,Justin Evans,S,22,73,199,0,Texas A&M,Buccaneers,Defense,465000,0.465
+36,Budda Baker,S,22,70,195,0,Washington,Cardinals,Defense,465000,0.465
+25,Xavier Woods,S,22,71,202,0,Louisiana Tech,Cowboys,Defense,465000,0.465
+41,Quincy Mauger,S,22,73,206,0,Georgia,Falcons,Defense,NA,NA
+33,Jamal Adams,S,22,73,213,0,LSU,Jets,Defense,465000,0.465
+43,John Johnson III,S,22,73,204,0,Boston College,Rams,Defense,NA,NA
+36,Chuck Clark,S,22,73,210,0,Virginia Tech,Ravens,Defense,465000,0.465
+35,Montae Nicholson,S,22,74,216,0,Michigan State,Redskins,Defense,465000,0.465
+42,Delano Hill,S,22,73,216,0,Michigan,Seahawks,Defense,465000,0.465
+83,Thomas Duarte,TE,22,74,244,2,UCLA,Dolphins,Offense,NA,NA
+93,Keith Towbridge,TE,22,77,262,0,Louisville,Bills,Offense,NA,NA
+86,Ricky Seals-Jones,TE,22,77,243,0,Texas A&M,Cardinals,Offense,410294,0.410294
+81,Jonnu Smith,TE,22,75,248,0,Florida Intl,Titans,Offense,465000,0.465
+10,Pharoh Cooper,WR,22,71,207,2,South Carolina,Rams,Offense,540000,0.54
+11,Laquon Treadwell,WR,22,74,215,2,Ole Miss,Vikings,Offense,901590,0.90159
+17,Victor Bolden Jr.,WR,22,68,178,0,Oregon State,49ers,Offense,NA,NA
+84,Kendrick Bourne,WR,22,73,203,0,Eastern Washington,49ers,Offense,465000,0.465
+16,Malachi Dupre,WR,22,74,196,0,LSU,Bills,Offense,NA,NA
+11,Zay Jones,WR,22,74,200,0,East Carolina,Bills,Offense,465000,0.465
+84,Isaiah McKenzie,WR,22,67,173,0,Georgia,Broncos,Offense,465000,0.465
+81,Krishawn Hogan,WR,22,75,222,0,Marian,Colts,Offense,38294,0.038294
+14,Lance Lenoir,WR,22,71,210,0,Western Illinois,Cowboys,Offense,NA,NA
+85,Noah Brown,WR,22,74,225,0,Ohio State,Cowboys,Offense,465000,0.465
+19,Travis Rudolph,WR,22,73,190,0,Florida State,Giants,Offense,328235,0.328235
+89,Michael Clark,WR,22,78,217,0,Marshall,Packers,Offense,136765,0.136765
+2,Fred Ross,WR,22,74,210,0,Mississippi State,Panthers,Offense,NA,NA
+83,Josh Reynolds,WR,22,75,192,0,Texas A&M,Rams,Offense,465000,0.465
+16,Quincy Adeboyejo,WR,22,75,197,0,Ole Miss,Ravens,Offense,27353,0.027353
+19,Robert Davis,WR,22,74,217,0,Georgia State,Redskins,Offense,109412,0.109412
+13,Taywan Taylor,WR,22,71,203,0,Western Kentucky,Titans,Offense,465000,0.465
+31,Quincy Wilson,CB,21,73,206,0,Florida,Colts,Defense,465000,0.465
+22,Sidney Jones,CB,21,73,181,0,Washington,Eagles,Defense,465000,0.465
+29,Marlon Humphrey,CB,21,73,197,0,Alabama,Ravens,Defense,465000,0.465
+23,Marshon Lattimore,CB,21,73,192,0,Ohio State,Saints,Defense,465000,0.465
+96,Derek Barnett,DE,21,75,259,0,Tennessee,Eagles,Defense,465000,0.465
+47,Elijah Lee,LB,21,74,229,0,Kansas State,49ers,Defense,437647,0.437647
+28,Joe Mixon,RB,21,73,228,0,Oklahoma,Bengals,Offense,465000,0.465
+25,Marlon Mack,RB,21,71,210,0,South Florida,Colts,Offense,465000,0.465
+22,Christian McCaffrey,RB,21,71,205,0,Stanford,Panthers,Offense,465000,0.465
+27,D'Onta Foreman,RB,21,73,235,0,Texas,Texans,Offense,465000,0.465
+29,Malik Hooker,S,21,74,212,0,Ohio State,Colts,Defense,465000,0.465
+43,Marcus Williams,S,21,73,195,0,Utah,Saints,Defense,2746000,2.746
+85,David Njoku,TE,21,76,246,0,Miami,Browns,Offense,465000,0.465
+80,Josh Malone,WR,21,74,208,0,Tennessee,Bengals,Offense,465000,0.465
+12,Chris Godwin,WR,21,73,209,0,Penn State,Buccaneers,Offense,465000,0.465
+15,Isaiah Ford,WR,21,74,195,0,Virginia Tech,Dolphins,Offense,NA,NA
+10,Curtis Samuel,WR,21,71,195,0,Ohio State,Panthers,Offense,465000,0.465
+19,JuJu Smith-Schuster,WR,21,73,215,0,USC,Steelers,Offense,465000,0.465
