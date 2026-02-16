@@ -1,0 +1,211 @@
+---
+title: "In-class Activity: Bootstrap Distributions"
+author: "GROUP NUMBER: GROUP MEMBER NAMES"
+format: html
+embed-resources: true
+html-math-method: mathml
+execute: 
+  warning: false
+  echo: true
+  error: false
+---
+
+```{r}
+#| label: setup
+#| include: FALSE
+#| message: FALSE
+library(mosaic)
+library(ggformula)
+library(readr)
+theme_set(theme_light())
+```
+
+## NFL Players in 2017
+
+In general, we do not get to observe the entire population, which is why sampling is important. In this case, though, we will observe a completely known population, NFL players in 2017. Let's start by learning about the population's weight.
+
+```{r}
+#| label: read-data
+
+nfl <- read_csv("nfl2017.csv", na = "NA") #this specifies the data use NA as the missing value placeholder
+```
+
+Since we know the population, the following values are actually **parameters**.
+
+```{r}
+#| label: pop-stats
+
+df_stats(~Weight, data = nfl)
+```
+
+```{r}
+#| label: pop-hist
+
+gf_histogram(~Weight, data = nfl,
+             xlab = "Weight (lbs) of Players",
+             ylab = "Number of Players",
+             title = "Population Distribution of NFL Player Weights")
+```
+
+
+
+### Sampling Distribution of the Sample Mean
+
+Let's observe the sampling distribution of the sample mean for a sample of size 30:  
+
+1. Write comments (#) on each line of code to describe what the code does and its purpose.  
+
+```{r}
+#| label: sampling-mean-n30
+
+pop_mean_nfl <- mean(~Weight, data = nfl)  # example comment
+sample_size <- 30
+
+repeats <- 10000
+
+mean_nfl <- numeric(repeats) 
+
+for (i in 1:repeats) {
+  
+  rsample <- sample(nfl, size = sample_size, replace = FALSE)
+  
+  mean_nfl[i] <- mean(~Weight, data = rsample)
+
+}
+
+gf_dhistogram(~mean_nfl, 
+              xlab = "Sample Mean for NFL Weight (lbs) n = 30", ylab = "Density",
+              title = "Sampling Distribution of Sample Mean") 
+
+mean(~mean_nfl)
+sd(~mean_nfl)
+
+```
+
+
+
+
+
+
+
+## Bootstrap Distributions
+
+
+### Take a Sample
+
+Now let's take a sample from the population, an act we would do if we could not have complete knowledge of the population (which is most of the time, just not in this situation). You will use this sample as your *only knowledge* of the population for now.
+
+
+```{r}
+#| label: sample30
+
+nfl_sample30 <- sample(nfl, size = 30, replace = FALSE)
+```
+
+
+Now calculate the relevant summary statistics and plot the distribution of the data (recommend histogram, why?)
+
+
+```{r}
+#| label: sample30-stat-hist
+
+df_stats(~Weight, data = nfl_sample30)
+
+gf_histogram(~Weight, data = nfl_sample30,
+             xlab = "Weights (lbs) of 30 NFL Players",
+             ylab = "Number of Players")
+```
+
+
+
+2. Describe the distribution of the sample data as it compares to the population:  
+
+> Insert Answer Here  
+
+
+
+### Bootstrapping the Sample
+
+The premise of Bootstrapping is that our only knowledge of the population is the sample, but the sample should be representative of the population. Unfortunately, though, the sample is "too small" to be our population, so we basically "photocopy" it over and over to get a full population. We do this by **resampling with replacement**.  
+
+3. Write comments on each line of code to describe what the code does and its purpose.*  
+
+```{r}
+#| label: sample30-boot
+
+N <- 10000 #or 10^4
+
+nfl30_boot <- numeric(N)  # example of comment
+
+for (i in 1:N) {  
+  
+  resample_boot <- resample(nfl_sample30, replace = TRUE)
+  
+  nfl30_boot[i] <- mean(~Weight, data = resample_boot)
+
+  }
+
+gf_histogram(~nfl30_boot, 
+             xlab = "Bootstrapped Sample Means for 30 NFL Players",
+             ylab = "Number of Resamples",
+             title = "Bootstrap Distribution for Sample Mean of 30 NFL Players")
+
+
+
+mean(~nfl30_boot)
+sd(~nfl30_boot)
+
+(mean(~Weight, data = nfl_sample30) - mean(~nfl30_boot))/sd(~nfl30_boot)
+```
+
+
+4. Compare and contrast the Bootstrap Distribution for a Sample Mean based on n = 30 to the Sampling Distribution for the Sample Mean when n = 30. What is similar? What is different? Is this what you expected?  
+
+> Insert Answer Here   
+
+
+
+
+## The Boostrap Distribution and Sample Size
+
+5. How does sample size affect the accuracy, skew, and bias of the Bootstrap Distribution? Using the NFL data, compare and contrast the Bootstrap Distribution and the Sampling Distribution when n = 15 and n = 50 (in addition to the above example with n = 30)
+
+<!-- Insert code and text here -->
+
+
+
+
+
+
+
+
+
+**BONUS**
+
+## Bootstrap for Proportions
+
+Caution - only suitable for large samples! 
+
+Since the `rbinom()` function can act as a for-loop for us, we can generate the bootstrap very simply by setting the sample size as the number of trials and the sample proportion the probability of success and generating 10000 random binomials and dividing by the sample size.
+
+A Survey of 1000 US Adults found that 753 thought that regular exercise is important.  Provide a CI to estimate the true proportion.
+```{r}
+
+sample_size <- 1000
+
+sample_prop <- 753/1000
+
+boot_prop <- rbinom(10000, size = sample_size, prob = sample_prop)/sample_size
+
+gf_histogram(~boot_prop, 
+             xlab = "Bootstrapped Sample Proportion of Adults that Prioritize Exercise",
+             ylab = "Number of Resamples",
+             title = "Boostrap Distribution of the Sample Proportion")
+
+mean(~boot_prop)
+sd(~boot_prop)
+
+(sample_prop - mean(~boot_prop))/sd(~boot_prop)
+```
+
+
