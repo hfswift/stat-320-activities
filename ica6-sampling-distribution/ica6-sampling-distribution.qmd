@@ -1,5 +1,5 @@
 ---
-title: "In-class Activity: Samplind Distributions"
+title: "In-class Activity: Sampling Distributions"
 author: "GROUP NUMBER: GROUP MEMBER NAMES"
 format: html
 embed-resources: true
