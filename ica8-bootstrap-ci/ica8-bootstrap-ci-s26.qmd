@@ -1,0 +1,100 @@
+---
+title: "In-class Activity: Bootstrap Confidence Intervals"
+author: "GROUP NUMBER: GROUP MEMBER NAMES"
+format: html
+embed-resources: true
+html-math-method: mathml
+execute: 
+  warning: false
+  echo: true
+  error: false
+---
+
+```{r}
+#| label: setup
+#| include: FALSE
+#| message: FALSE
+library(mosaic)
+library(ggformula)
+library(readr)
+theme_set(theme_light())
+```
+
+
+
+## Body Temperature
+
+```{r}
+temp <- read_csv("BodyTemp.csv")
+```
+
+
+1. Calculate the appropriate summary statistics and graphics
+
+```{r}
+
+```
+
+
+
+2. Construct the bootstrap distribution of the sample mean for body temperature
+
+```{r}
+
+```
+
+3. Calculate the 95% and 90% confidence intervals for true mean body temperature. 
+
+```{r}
+
+```
+
+
+4. Interpret the Confidence Intervals as estimates of the true mean body temperature:
+
+> Insert Answer Here
+
+
+
+
+## Bootstrap for Paired Means
+
+This is really the same as for one-sample, but we will resample the differences instead of the actual values.
+
+A study tested whether wearing wetsuits influences swimming velocity for competative swimmers. Twelve competitive swimmers and triathletes swam 1500m at maximum speed twice each; once wearing a wetsuit and once wearing a regular bathing suit. The order of the trials was randomized. Each time, the maximum velocity in meters/sec of the swimmer was recorded.
+
+```{r}
+library(Lock5Data)
+data("Wetsuits")
+
+#Calculate the Paired Differences
+
+WetSuits2 <- Wetsuits |> mutate(Paired_Diff = NoWetsuit - Wetsuit) #creates a column of the paired differences
+
+gf_histogram(~Paired_Diff, data = WetSuits2, xlab = "Difference in No Wetsuit vs. Wetsuit Max Velocity", binwidth = 0.01)
+
+df_stats(~Paired_Diff, data = WetSuits2)
+```
+
+
+5. Calculate the 95% Percentile Bootstrap Confidence Interval for the true mean difference between max velocity while not wearing a wetsuit and wearing a wetsuit.
+
+
+```{r}
+
+```
+
+
+6. Interpret your confidence interval estimate:
+
+>Insert Answer Here  
+
+
+7. How would the confidence interval changed if we instead compared wearing a wetsuit versus not wearing a wetsuit?  
+
+>Insert Answer Here 
+
+
+
+
+
