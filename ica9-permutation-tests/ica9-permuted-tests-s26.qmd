@@ -1,0 +1,236 @@
+---
+title: "In-class Activity: Permutation Tests"
+author: "GROUP NUMBER: GROUP MEMBER NAMES"
+format: html
+embed-resources: true
+html-math-method: mathml
+execute: 
+  warning: false
+  echo: true
+  error: false
+---
+
+```{r}
+#| label: setup
+#| include: FALSE
+#| message: FALSE
+library(mosaic)
+library(ggformula)
+library(readr)
+theme_set(theme_light())
+```
+
+
+
+
+
+## Comparing Two Means - Test Scores
+Recently a college professor gave two versions of an exam. To make it easy to keep track of the versions as students take them and as she grades them she printed them on two different colors of paper (green and yellow). The students were randomly assigned to the two versions of the exam such that there were 10 yellow and 10 green exams. After the exams were graded some students felt that their version of the exam was more difficult than the other version. The professor admitted that there was a difference in the average exam scores (6.3 points out of 100) but she felt that the difference in scores was simply random chance variation. She went on to say that she believes the students would get the same scores regardless of which version. The students felt the difference in scores was large and would not happen just by random chance. Determine if there is statistical evidence of a difference between the two exam versions.  
+
+
+```{r}
+test <- read_csv("test_scores.csv")
+```
+
+1. Calculate the appropriate summary statistics and plots:
+
+```{r}
+
+```
+
+
+2. Set up the null and alternative hypotheses (verbally and symbolically):
+
+> $H_0: \mu_{y} - \mu_{g} = ____$  
+> {verbally}
+
+> $H_1: \mu_{y} - \mu_{g} _____ _____$  
+> {verbally}
+
+
+
+3. Justify why you should pursue a non-parametric test for this analysis. 
+
+> 
+
+
+
+4. Calculate the appropriate test statistic by filling in the blanks of the code below:
+
+```{r}
+(obs_test <- diff(mean(_________ ~ _________, data = test)))
+```
+
+
+5. Adapt the following code by filling in the blanks to construct the null distribution:
+
+```{r}
+N = 10^4 - 1
+
+null_test <- numeric(N)
+
+for (i in 1:N) {
+  
+  null_test[i]<-diff(mean(________ ~ shuffle(______), data=test))
+
+}
+
+gf_histogram(~null_test, 
+             xlab="Difference between Two Means", 
+             ylab="Number of Permutations",
+             title="Null Distribution")
+
+
+mean(~(null_test ____ obs_test))____
+```
+
+6. Draw a *sketch* (aka, basic shape) of the null distribution and shade it on your note outline. Interpret the p-value. What evidence to you have to support the claim that the two tests are different? 
+
+> interpret p-value here
+
+> discuss evidence here
+
+
+
+
+
+## Comparing Two Proportions
+
+Suppose instead of comparing the two means for the exams, we wanted to compare the proportion of passing students for each exam.
+
+7. Set up the null and alternative hypotheses (verbally and symbolically). *You might pause and think about the variable and the new goal... how does that change your parameter?*
+
+$H_0:      $  
+
+
+$H_1:      $
+
+
+
+Identify the test statistic, create the null distribution, and calculate the p-value. 
+```{r}
+mean((scores >= 70) ~ color, data = test)
+(obs_test_p <- diff(mean((scores >= 70) ~ color, data = test)))
+```
+
+```{r}
+N = 10^4 - 1
+
+null_test_p <- numeric(N)
+
+for (i in 1:N) {
+  
+  null_test_p[i] <- diff(mean((scores >= 70) ~ shuffle(color), data = test))
+
+}
+
+gf_histogram(~null_test_p, 
+             xlab = "Difference between Two Proportions", 
+             ylab = "Number of Permutations",
+             title = "Null Distribution")
+
+mean(obs_test_p >= null_test_p)
+
+```
+
+8. Interpret the p-value and shade (on your notes) the appropriate region on the null distribution. What evidence do you have to support the claim that the two tests are different?
+
+> Interpret p-value
+
+> Evaluate evidence
+
+
+
+
+## Comparing Commute Time
+
+Millie is a young executive that commutes from her suburban home to her company offices near the city center. Millie often has arguments with a friend about the route she takes on her commute. One route takes the expressways and the other takes surface streets. The argument relates to the time that it takes to get the office. Both routes are about the same distance but of course the type of driving might be very different. Millie believes that the expressways are faster since there are no stop lights and the speed limit is much higher. Her friend points out that at the time that Millie comes in to work the expressway has much more traffic. The heavy traffic and accidents result in the expressway being jammed and slowed almost to a stop. Both Millie and her friend feel they are correct and that their route is the best.
+
+Millie recently purchased a new car that has many features including a trip computer that records the amount of time of each trip. She decided to conduct an experiment to determine if one route was actually faster. Using a random number generator, Millie randomly assigned each of the next 40 work days to either the expressway route or the surface street route. The resulting times of her commute (in minutes) are given in the file `commutetimes.csv`. Does this indicate that there is a significant difference in the mean commute time on the two routes?
+
+The commute times data set is structured in an untidy manner, so we need to pivot the data table from having a column for each road type to having a column for each variable. *You are not expected to understand or be able to replicate this code --- if you have questions about it, you can ask in office hours.*
+```{r}
+commute <- read_csv("commutetimes.csv") |> 
+  pivot_longer(cols = 1:2, names_to = "Roads", values_to = "Time")
+```
+
+9. Set up the null and alternative hypotheses, symbolically & verbally:
+
+>
+
+10. Calculate the appropriate test statistic:
+
+```{r}
+
+```
+
+
+
+11. Construct the null distribution:
+
+```{r}
+
+```
+
+
+
+12. Calculate and interpret the p-value:
+
+```{r}
+
+```
+
+> Interpretation
+
+13. Evaluate the evidence against the null hypothesis:
+
+> Evaluate
+
+
+
+14. Evaluate a second piece of evidence to support your conclusion about the parameter. You may have to insert a code chunk here.  
+
+> Evaluate
+
+
+
+
+## Comparing Two Variances - Commute Time
+Suppose instead, we wished to compare the **variability** between the two routes to see if one route was more consistent in times versus the other. Our new test statistic of interest would be:
+
+```{r}
+(obs_road_var <- diff(var(Time ~ Roads, data = commute)))
+```
+
+15. Why? What do you expect the null distribution to look like if the two variances are equal?
+
+> Insert answer here. 
+
+
+16. Here is the code to construct the null distribution - how is it similar/different to previous examples for comparing differences between two group means?
+
+```{r}
+N = 10^4 - 1
+
+null_var <- numeric(N)
+
+for (i in 1:N) {
+  
+  null_var[i] <- diff(var(Time ~ shuffle(Roads), data = commute))
+
+}
+
+gf_histogram(~null_var, 
+             xlab = "Difference between Two Variances", 
+             ylab = "Number of Permutations",
+             title = "Null Distribution")
+
+mean(~(null_var >= obs_road_var))
+```
+
+
+> Insert answere here.  
+
+
+
+
