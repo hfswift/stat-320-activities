@@ -1,0 +1,92 @@
+---
+title: "STAT 320 ICA: Rank-Based Comparisons Activity"
+author: "NAMES"
+format: html
+embed-resources: true
+html-math-method: mathml
+execute: 
+  warning: false
+  echo: true
+  error: false
+---
+
+
+```{r setup, include=FALSE}
+#| label: setup
+#| include: false
+
+library(ggformula)
+library(mosaic)
+library(tidyverse)
+library(DescTools)
+```
+
+In New Orleans, Berry et al. (2002) collected soil samples from two different districts to assess the lead levels (ppm). They wanted to see if there were differences in soil lead levels between the two districts. The data are found in `lead.csv`.  
+
+
+Provide the relevant summary statistics and graphics for the study.  
+    
+```{r}
+lead <- read_csv("lead.csv")
+dist_1 <- lead |> filter(District == 1)
+dist_2 <- lead |> filter(District == 2)
+df_stats(Lead ~ District, data = lead)
+```
+
+
+```{r}
+gf_boxplot(Lead~factor(District), data = lead, xlab="Districts", ylab="Lead Levels")
+gf_histogram(~Lead, data = dist_1, xlab = "Lead Levels", ylab = "Frequency", title = "District 1")
+gf_histogram(~Lead, data = dist_2, xlab = "Lead Levels", ylab = "Frequency", title = "District 2")
+```
+
+    
+Let's use a hypothesis test to see if there is a difference in location for the two districts' soil lead levels. Use the Wilcoxon Rank Sum Test. Show all details.  
+
+
+State the null and alternative hypothesis    
+            
+> $H_0: \Delta = 0$  
+The true shift in the population distributions of soil lead levels (in parts per million) in District 1 and in District 2 are the same.    
+
+>$H_1: \Delta \neq 0$  
+The population distribution of the soil lead levels (ppm) for district 1 is shifted to the left or right of the corresponding population distribution of soil lead levels (ppm) for district 2.  
+    
+ 
+      
+Calculate the appropriate test statistic and p-value. Use the R function for the test.  
+                            
+```{r}
+wilcox.test(Lead ~ District, data = lead, alternative = "two.sided")
+```    
+          
+           
+1. Is there a difference in lead levels in the two districts? State the conclusion of the hypothesis test in the context of the problem, generically, then write a strength of evidence statement. 
+
+> Insert answer here
+     
+
+
+The researchers are also interested see if there is more variability in district 2 compared to district 1 soil lead levels. The researchers decide to use the Ansari-Bradley method for the comparison of scale.
+        
+
+2. State the null and alternative hypothesis, symbolically and verbally    
+            
+> Insert Answer Here    
+ 
+      
+3. Calculate the appropriate test statistic and p-value. Use the R function for the test.  
+                            
+```{r}
+#Put Code Here
+```    
+          
+           
+4. Write a strength of evidence statement. If you have time, continue to other parts of the general conclusion. 
+        
+> Insert Answer Here  
+
+
+5. We conducted both the Wilcoxon Rank Sum Test and Ansari-Bradley Test - do you have any reason to doubt the results and decisions based on these tests?
+
+> Insert Answer Here
