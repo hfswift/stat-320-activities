@@ -1,0 +1,100 @@
+---
+title: "STAT 320 ICA: Multiple Comparisons Activity"
+author: "NAMES"
+format: html
+embed-resources: true
+html-math-method: mathml
+execute: 
+  warning: false
+  echo: true
+  error: false
+---
+
+
+```{r}
+#| label: setup
+#| include: false
+
+library(ggformula)
+library(mosaic)
+library(tidyverse)
+library(DescTools)
+```
+
+## Irritable bowel syndrome (IBS) 
+Irritable bowel syndrome (IBS) is a nonspecific intestinal disorder characterized by abdominal pain and irregular bowel habits. Each person in random sample of 24 patients having periodic attacks of IBS was randomly assigned one of three treatments, called A, B, and C. The number of hours of relief while on therapy is recorded in the file IBS.csv. Determine if there is a difference between the three treatments in length of relief from IBS.
+
+1. State the statistical analysis research question for your ANOVA.
+
+> Insert Answer Here
+
+
+2. Name the variable of interest below and state the types (quantitative, qualitative) and scale (continuous, discrete, nominal, ordinal)
+
+> Insert Answer Here
+
+
+3. Name the treatment of interest below and state the types (quantitative, qualitative) and scale (continuous, discrete, nominal, ordinal)
+
+> Insert Answer Here
+
+
+4. Explore the data and provide appropriate summary statistics and visualizations.
+
+
+```{r}
+
+```
+
+
+5. Assess the assumptions (remember the graphics only assess some of the assumptions): Did the observations pass the assumption of normality? Did the observations pass the homogeneity of error variance assumption? Fully justify each condition with evidence. 
+
+```{r}
+
+```
+
+
+> Insert Answer Here
+
+
+
+6. Choose an appropriate method to evaluate the hypothesis. Justify your choice.
+
+> Insert Answer Here
+
+
+
+7. State the hypotheses (null and alternative) for the appropriate test (some possibly useful symbols: $\mu_{A}$.
+
+> $H_0$:  
+
+> $H_1$:  
+
+
+8. Calculate the appropriate test statistic and p-value.
+
+```{r}
+
+```
+
+
+
+9. Evaluate the strength of evidence against the null hypothesis.  
+
+> Insert Answer Here
+
+
+
+
+10. Is a post-hoc test necessary? If so, set up the null and alternatives for the post-hoc test and conduct the appropriate test. Evaluate the strength of evidence as necessary.
+
+> Insert Answer Here
+
+```{r}
+
+```
+
+
+11. Discuss any other considerations and evidence (effect size, sample size, etc.)
+
+ 
