@@ -1,0 +1,77 @@
+---
+title: "STAT 320 ICA: Regression Analysis"
+author: "NAMES"
+format: html
+embed-resources: true
+html-math-method: mathml
+execute: 
+  warning: false
+  echo: true
+  error: false
+---
+
+
+```{r}
+#| label: setup
+#| include: false
+
+library(ggformula)
+library(mosaic)
+library(tidyverse)
+library(quantreg)
+# add other packages as needed
+```
+
+
+
+## Data Description
+Here is data from a personal experiment to compare commuting time based on a randomized selection between two bicycles made of different materials.
+
+Bike:	Type of material Carbon or Steel  
+Date:	Date of the bike commute  
+Distance:	Length of commute (in miles)  
+Time:	Total commute time (hours:minutes:seconds)  
+Minutes:	Time converted to minutes  
+AvgSpeed:	Average speed during the ride (miles per hour)  
+TopSpeed:	Maximum speed (miles per hour)  
+Seconds:	Time converted to seconds  
+Month:	Categories: 1Jan 2Feb 3Mar 4Apr 5May 6June 7July  
+
+
+```{r}
+#| label: read-data
+library(Lock5Data)
+data("BikeCommute")
+```
+
+Note - you can filter the data like so -  
+
+```{r}
+#| label: example-filter
+#make sure the appropriate package is loaded
+BikeCommute |> 
+  filter(Bike == "Steel") -> just_steel
+
+BikeCommute |> 
+  filter(Bike == "Steel", Distance > 26.7) -> just_steel_no
+```
+
+```{r}
+#| label: example-scatterplot
+gf_point(Minutes ~ Distance, data = just_steel_no) |> 
+  gf_lm()
+```
+
+
+```{r}
+#| label: example-scatterplot-medianreg
+gf_point(Minutes ~ Distance, data = just_steel_no) |> 
+  gf_lm(color = "red") |> 
+  gf_quantile(quantiles = 0.5, color = "blue")
+```
+
+## Build a model
+Build and analyze a model for each bike type to see how commute time (Minutes) and distance (Distance) relate to each other. Be sure to provide all appropriate analysis and exploratory analysis.
+
+
+

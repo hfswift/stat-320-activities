@@ -1,0 +1,83 @@
+---
+title: "STAT 320 ICA: Categorical Analysis"
+author: "NAMES"
+format: html
+embed-resources: true
+html-math-method: mathml
+execute: 
+  warning: false
+  echo: true
+  error: false
+---
+
+
+```{r}
+#| label: setup
+#| include: false
+
+library(ggformula)
+library(mosaic)
+library(tidyverse)
+library(quantreg)
+# add other packages as needed
+```
+
+
+
+## Cereal Marketing within the Grocery Store
+In general, companies spend a lot of time and research determining optimal location of items within a store to increase purchases. We want to see if the same is true for cereals. Is there an association between cereal type (Target: adult, child), and location (Shelf: bottom, middle, top).
+
+```{r}
+#| label: cereal-read-data
+
+cereal <- read_csv("CerealFull.csv")
+```
+
+Here is the contingency table:
+
+```{r}
+#| label: cereal-contingency
+
+tally(Target ~ Shelf, data = cereal)
+```
+
+
+Provide appropriate graphs and summary statistics.
+
+```{r}
+#| label: cereal-eda
+
+```
+
+
+
+
+
+
+Set up the null and alternative to test for the association between type and location:
+
+$H_0:$  
+
+
+$H_1:$  
+
+
+Here is the parametric analysis - do we meet conditions for the parametric analysis?
+
+
+```{r}
+#| label: cereal-parametric
+
+xchisq.test(Target ~ Shelf, data = cereal, correct = FALSE)
+```
+
+
+
+Set up the nonparametric test and interpret the results to answer the research question.
+
+
+
+
+
+
+
